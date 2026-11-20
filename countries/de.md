@@ -2,9 +2,9 @@
 
 [Countries and regions](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 17:10:42 UTC
+**Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**309 currently passed nodes**
+**341 currently passed nodes**
 
 [See all currently passed nodes and import options](https://www.foxdetector.com/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
 
@@ -12,9 +12,9 @@
 
 | Protocol | Currently passed |
 | --- | --- |
-| VLESS | 124 |
-| Shadowsocks | 93 |
-| Trojan | 45 |
+| VLESS | 164 |
+| Shadowsocks | 87 |
+| Trojan | 43 |
 | VMess | 35 |
 | Hysteria2 | 12 |
 
@@ -22,9 +22,9 @@
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇩🇪 德国 · S22G | Hysteria2 | 12 ms (🇫🇷 France) | 4/4 |
-| 🇩🇪 德国 · P7VP | Hysteria2 | 12 ms (🇫🇷 France) | 4/4 |
-| 🇩🇪 德国 · MTP1 | Hysteria2 | 12 ms (🇫🇷 France) | 4/4 |
-| 🇩🇪 德国 · QHFY | VLESS | 13 ms (🇫🇷 France) | 4/4 |
-| 🇩🇪 德国 · HJVM | VLESS | 13 ms (🇫🇷 France) | 4/4 |
+| 🇩🇪 德国 · HFCV | Hysteria2 | 11 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 德国 · 21NZ | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 德国 · ANXK | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 德国 · FJAX | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 德国 · G9Y8 | VLESS | 13 ms (🇫🇷 France) | 5/5 |
 

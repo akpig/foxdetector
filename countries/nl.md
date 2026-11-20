@@ -2,9 +2,9 @@
 
 [Countries and regions](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 17:10:42 UTC
+**Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**294 currently passed nodes**
+**311 currently passed nodes**
 
 [See all currently passed nodes and import options](https://www.foxdetector.com/country/nl/?utm_campaign=repository&utm_content=country_nl&utm_medium=referral&utm_source=github)
 
@@ -12,9 +12,9 @@
 
 | Protocol | Currently passed |
 | --- | --- |
-| VLESS | 116 |
-| Shadowsocks | 113 |
-| Trojan | 37 |
+| VLESS | 130 |
+| Shadowsocks | 110 |
+| Trojan | 43 |
 | VMess | 19 |
 | Hysteria2 | 9 |
 
@@ -22,9 +22,9 @@
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇳🇱 荷兰 · K57R | Shadowsocks | 12 ms (🇫🇷 France) | 4/4 |
-| 🇳🇱 荷兰 · TZQF | VLESS | 12 ms (🇫🇷 France) | 4/4 |
-| 🇳🇱 荷兰 · DVE6 | Shadowsocks | 13 ms (🇫🇷 France) | 4/4 |
-| 🇳🇱 荷兰 · E19Y | Shadowsocks | 13 ms (🇫🇷 France) | 4/4 |
-| 🇳🇱 荷兰 · 7EMJ | Shadowsocks | 13 ms (🇫🇷 France) | 4/4 |
+| 🇳🇱 荷兰 · WN5C | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 荷兰 · SGYB | VLESS | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 荷兰 · XP4W | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 荷兰 · 9W3E | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 荷兰 · 1WC5 | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
 

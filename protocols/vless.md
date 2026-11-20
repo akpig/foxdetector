@@ -2,9 +2,9 @@
 
 [Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 17:10:42 UTC
+**Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**858 currently passed nodes**
+**988 currently passed nodes**
 
 [See all currently passed nodes and import options](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
 
@@ -12,48 +12,49 @@
 
 | Exit location | Currently passed |
 | --- | --- |
-| 🇺🇸 United States | 148 |
-| 🇩🇪 Germany | 124 |
-| 🇯🇵 Japan | 124 |
-| 🇳🇱 Netherlands | 116 |
-| 🇫🇷 France | 39 |
-| 🇫🇮 Finland | 38 |
-| 🇸🇬 Singapore | 36 |
-| 🇬🇧 United Kingdom | 27 |
-| 🇵🇱 Poland | 24 |
-| 🇪🇸 Spain | 19 |
-| 🇭🇰 Hong Kong SAR China | 18 |
-| 🇸🇪 Sweden | 18 |
-| 🇨🇭 Switzerland | 12 |
+| 🇩🇪 Germany | 164 |
+| 🇺🇸 United States | 151 |
+| 🇯🇵 Japan | 133 |
+| 🇳🇱 Netherlands | 130 |
+| 🇫🇷 France | 59 |
+| 🇫🇮 Finland | 45 |
+| 🇸🇬 Singapore | 40 |
+| 🇬🇧 United Kingdom | 30 |
+| 🇵🇱 Poland | 30 |
+| 🇭🇰 Hong Kong SAR China | 24 |
+| 🇸🇪 Sweden | 21 |
+| 🇪🇸 Spain | 20 |
+| 🇷🇺 Russia | 16 |
+| 🇨🇿 Czechia | 14 |
 | 🇧🇾 Belarus | 9 |
 | 🇨🇦 Canada | 9 |
-| 🇨🇿 Czechia | 9 |
+| 🇨🇭 Switzerland | 9 |
+| 🇳🇴 Norway | 8 |
 | 🇮🇷 Iran | 7 |
-| 🇷🇺 Russia | 7 |
-| 🇹🇷 Turkey | 7 |
 | 🇰🇿 Kazakhstan | 6 |
-| 🇻🇳 Vietnam | 6 |
 | 🇰🇷 South Korea | 5 |
-| 🇳🇴 Norway | 5 |
-| 🇹🇼 Taiwan | 5 |
+| 🇻🇳 Vietnam | 5 |
 | 🇦🇪 United Arab Emirates | 4 |
 | 🇮🇹 Italy | 4 |
+| 🇹🇷 Turkey | 4 |
+| 🇹🇼 Taiwan | 4 |
 | 🇺🇦 Ukraine | 4 |
+| 🇦🇺 Australia | 3 |
 | 🇪🇪 Estonia | 3 |
-| 🇦🇺 Australia | 2 |
+| 🇱🇻 Latvia | 3 |
+| 🇵🇹 Portugal | 3 |
 | 🇧🇬 Bulgaria | 2 |
 | 🇬🇷 Greece | 2 |
+| 🇮🇪 Ireland | 2 |
 | 🇱🇹 Lithuania | 2 |
-| 🇱🇻 Latvia | 2 |
 | 🇵🇫 French Polynesia | 2 |
-| 🇵🇹 Portugal | 2 |
 | 🇷🇴 Romania | 2 |
 | 🇦🇱 Albania | 1 |
-| 🇧🇪 Belgium | 1 |
 | 🇧🇷 Brazil | 1 |
 | 🇨🇾 Cyprus | 1 |
-| 🇭🇺 Hungary | 1 |
 | 🇮🇳 India | 1 |
+| 🇮🇶 Iraq | 1 |
+| 🇱🇺 Luxembourg | 1 |
 | 🇲🇽 Mexico | 1 |
 | 🇵🇦 Panama | 1 |
 | 🇸🇦 Saudi Arabia | 1 |
@@ -62,9 +63,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 法国 · QTJQ | 🇫🇷 France | 4 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · TSF0 | 🇫🇷 France | 4 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · JMAP | 🇫🇷 France | 4 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · 4GE8 | 🇫🇷 France | 4 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · 8XAF | 🇫🇷 France | 5 ms (🇫🇷 France) | 4/4 |
+| 🇫🇷 法国 · F68E | 🇫🇷 France | 3 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · JJNY | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · XM6T | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
+| 🇷🇺 俄罗斯 · 0WZD | 🇷🇺 Russia | 5 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · 2VKT | 🇫🇷 France | 5 ms (🇫🇷 France) | 5/5 |
 

@@ -2,9 +2,9 @@
 
 [Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 17:10:42 UTC
+**Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**2260 currently passed nodes**
+**2508 currently passed nodes**
 
 [See all currently passed nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -12,37 +12,35 @@
 
 | Exit location | Currently passed |
 | --- | --- |
-| 🇺🇸 United States | 1163 |
-| 🇨🇦 Canada | 143 |
-| 🇸🇬 Singapore | 119 |
-| 🇭🇰 Hong Kong SAR China | 108 |
-| 🇫🇷 France | 96 |
-| 🇯🇵 Japan | 91 |
-| 🇬🇧 United Kingdom | 90 |
-| 🇮🇳 India | 89 |
-| 🇰🇿 Kazakhstan | 62 |
-| 🇦🇹 Austria | 53 |
-| 🇰🇷 South Korea | 47 |
-| 🇧🇷 Brazil | 43 |
-| 🇸🇪 Sweden | 41 |
+| 🇺🇸 United States | 1279 |
+| 🇨🇦 Canada | 149 |
+| 🇯🇵 Japan | 146 |
+| 🇭🇰 Hong Kong SAR China | 135 |
+| 🇸🇬 Singapore | 127 |
+| 🇫🇷 France | 102 |
+| 🇮🇳 India | 102 |
+| 🇬🇧 United Kingdom | 97 |
+| 🇰🇿 Kazakhstan | 61 |
+| 🇦🇹 Austria | 55 |
+| 🇰🇷 South Korea | 54 |
+| 🇸🇪 Sweden | 42 |
+| 🇧🇷 Brazil | 40 |
 | 🇩🇪 Germany | 35 |
-| 🇵🇱 Poland | 24 |
+| 🇵🇱 Poland | 25 |
 | 🇳🇱 Netherlands | 19 |
-| 🇹🇼 Taiwan | 15 |
-| 🇲🇾 Malaysia | 10 |
+| 🇲🇾 Malaysia | 13 |
+| 🇹🇼 Taiwan | 13 |
+| 🇮🇩 Indonesia | 5 |
 | 🇮🇪 Ireland | 5 |
 | 🇹🇭 Thailand | 4 |
-| 🇦🇪 United Arab Emirates | 1 |
-| 🇮🇩 Indonesia | 1 |
-| 🇿🇦 South Africa | 1 |
 
 ## Sample of passed nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 法国 · RNQ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · J52S | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
-| 🇫🇷 法国 · H33H | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
+| 🇫🇷 法国 · 2X38 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · RNQ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · T6ZZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 法国 · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
 
