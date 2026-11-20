@@ -13,10 +13,10 @@ Depodaki sıralama ve kategori sayfaları İngilizcedir.
 
 ## En güncel veriler
 
-**Son testin tamamlanma zamanı** · 2026-11-20 11:08:58 UTC
+**Son testin tamamlanma zamanı** · 2026-11-20 17:10:42 UTC
 
-**Testi geçen düğümler** · 4369  
-**Çıkış konumları** · 52  
+**Testi geçen düğümler** · 4680  
+**Çıkış konumları** · 54  
 **Protokoller** · 6  
 **Önerilen düğümler** · 500
 
@@ -24,11 +24,11 @@ Depodaki sıralama ve kategori sayfaları İngilizcedir.
 
 | Sıra | Düğüm | Çıkış konumu | Protokol | Gecikme ve test konumu | Art arda başarılı testler | Son test sonuçları |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇫🇷 法国 · 56WJ | 🇫🇷 Fransa | VLESS | 4 ms (🇫🇷 Fransa) | 3 | 3/3 |
-| 2 | 🇫🇷 法国 · 9HJD | 🇫🇷 Fransa | VMess | 12 ms (🇫🇷 Fransa) | 3 | 3/3 |
-| 3 | 🇫🇷 法国 · V9GR | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 3 | 3/3 |
-| 4 | 🇫🇷 法国 · N277 | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 3 | 3/3 |
-| 5 | 🇳🇱 荷兰 · BZSZ | 🇳🇱 Hollanda | Shadowsocks | 14 ms (🇫🇷 Fransa) | 3 | 3/3 |
+| 1 | 🇫🇷 法国 · 9HJD | 🇫🇷 Fransa | VMess | 12 ms (🇫🇷 Fransa) | 4 | 4/4 |
+| 4 | 🇺🇸 美国 · V6VD | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 85 ms (🇫🇷 Fransa) | 4 | 4/4 |
+| 6 | 🇺🇸 美国 · RYCB | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 116 ms (🇫🇷 Fransa) | 4 | 4/4 |
+| 7 | 🇺🇸 美国 · PWR2 | 🇺🇸 Amerika Birleşik Devletleri | VMess | 116 ms (🇫🇷 Fransa) | 4 | 4/4 |
+| 8 | 🇺🇸 美国 · FQ4M | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 116 ms (🇫🇷 Fransa) | 4 | 4/4 |
 
 [Sıralama önizlemesine göz at](top500.md) · [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

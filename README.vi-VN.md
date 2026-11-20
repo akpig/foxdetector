@@ -13,10 +13,10 @@ Các trang xếp hạng và phân loại trong kho lưu trữ dùng tiếng Anh.
 
 ## Dữ liệu mới nhất
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-20 11:08:58 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-20 17:10:42 UTC
 
-**Nút đạt yêu cầu** · 4369  
-**Vị trí thoát** · 52  
+**Nút đạt yêu cầu** · 4680  
+**Vị trí thoát** · 54  
 **Giao thức** · 6  
 **Nút được đề xuất** · 500
 
@@ -24,11 +24,11 @@ Các trang xếp hạng và phân loại trong kho lưu trữ dùng tiếng Anh.
 
 | Hạng | Nút | Vị trí thoát | Giao thức | Độ trễ và nơi đo | Số lần đạt liên tiếp | Kết quả gần đây |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇫🇷 法国 · 56WJ | 🇫🇷 Pháp | VLESS | 4 ms (🇫🇷 Pháp) | 3 | 3/3 |
-| 2 | 🇫🇷 法国 · 9HJD | 🇫🇷 Pháp | VMess | 12 ms (🇫🇷 Pháp) | 3 | 3/3 |
-| 3 | 🇫🇷 法国 · V9GR | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 3 | 3/3 |
-| 4 | 🇫🇷 法国 · N277 | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 3 | 3/3 |
-| 5 | 🇳🇱 荷兰 · BZSZ | 🇳🇱 Hà Lan | Shadowsocks | 14 ms (🇫🇷 Pháp) | 3 | 3/3 |
+| 1 | 🇫🇷 法国 · 9HJD | 🇫🇷 Pháp | VMess | 12 ms (🇫🇷 Pháp) | 4 | 4/4 |
+| 4 | 🇺🇸 美国 · V6VD | 🇺🇸 Hoa Kỳ | Shadowsocks | 85 ms (🇫🇷 Pháp) | 4 | 4/4 |
+| 6 | 🇺🇸 美国 · RYCB | 🇺🇸 Hoa Kỳ | Shadowsocks | 116 ms (🇫🇷 Pháp) | 4 | 4/4 |
+| 7 | 🇺🇸 美国 · PWR2 | 🇺🇸 Hoa Kỳ | VMess | 116 ms (🇫🇷 Pháp) | 4 | 4/4 |
+| 8 | 🇺🇸 美国 · FQ4M | 🇺🇸 Hoa Kỳ | Shadowsocks | 116 ms (🇫🇷 Pháp) | 4 | 4/4 |
 
 [Xem trước bảng xếp hạng](top500.md) · [Xem bảng xếp hạng đầy đủ và cách nhập vào ứng dụng](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

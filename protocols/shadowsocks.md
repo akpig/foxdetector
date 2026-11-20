@@ -2,9 +2,9 @@
 
 [Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 11:08:58 UTC
+**Latest completed test** · 2026-11-20 17:10:42 UTC
 
-**695 currently passed nodes**
+**850 currently passed nodes**
 
 [See all currently passed nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -12,39 +12,40 @@
 
 | Exit location | Currently passed |
 | --- | --- |
-| 🇺🇸 United States | 181 |
-| 🇳🇱 Netherlands | 100 |
-| 🇩🇪 Germany | 80 |
-| 🇨🇦 Canada | 53 |
-| 🇮🇹 Italy | 41 |
-| 🇫🇷 France | 40 |
-| 🇬🇧 United Kingdom | 40 |
-| 🇪🇸 Spain | 29 |
-| 🇸🇬 Singapore | 28 |
-| 🇨🇭 Switzerland | 15 |
-| 🇯🇵 Japan | 14 |
-| 🇧🇬 Bulgaria | 11 |
-| 🇵🇱 Poland | 11 |
-| 🇦🇱 Albania | 10 |
-| 🇱🇹 Lithuania | 10 |
+| 🇺🇸 United States | 235 |
+| 🇳🇱 Netherlands | 113 |
+| 🇩🇪 Germany | 93 |
+| 🇨🇦 Canada | 67 |
+| 🇮🇹 Italy | 54 |
+| 🇫🇷 France | 49 |
+| 🇬🇧 United Kingdom | 47 |
+| 🇸🇬 Singapore | 36 |
+| 🇪🇸 Spain | 34 |
+| 🇨🇭 Switzerland | 24 |
+| 🇯🇵 Japan | 17 |
+| 🇧🇬 Bulgaria | 10 |
+| 🇵🇱 Poland | 10 |
+| 🇦🇱 Albania | 9 |
 | 🇱🇻 Latvia | 9 |
-| 🇦🇹 Austria | 4 |
-| 🇰🇷 South Korea | 4 |
-| 🇹🇷 Turkey | 4 |
+| 🇱🇹 Lithuania | 8 |
+| 🇹🇷 Turkey | 8 |
+| 🇰🇷 South Korea | 7 |
+| 🇦🇹 Austria | 5 |
+| 🇸🇪 Sweden | 4 |
+| 🇫🇮 Finland | 3 |
 | 🇳🇴 Norway | 3 |
-| 🇸🇪 Sweden | 3 |
 | 🇿🇦 South Africa | 2 |
-| 🇨🇾 Cyprus | 1 |
-| 🇫🇮 Finland | 1 |
+| 🇨🇱 Chile | 1 |
 | 🇭🇰 Hong Kong SAR China | 1 |
+| 🇮🇳 India | 1 |
 
 ## Sample of passed nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇬🇧 英国 · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 3/3 |
-| 🇳🇱 荷兰 · FX4M | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 3/3 |
-| 🇬🇧 英国 · ZY4M | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 3/3 |
-| 🇳🇱 荷兰 · 120K | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 3/3 |
-| 🇫🇷 法国 · 5FEE | 🇫🇷 France | 12 ms (🇫🇷 France) | 3/3 |
+| 🇫🇷 法国 · ZDQT | 🇫🇷 France | 11 ms (🇫🇷 France) | 4/4 |
+| 🇬🇧 英国 · 8YF3 | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 4/4 |
+| 🇫🇷 法国 · ERZ2 | 🇫🇷 France | 12 ms (🇫🇷 France) | 4/4 |
+| 🇳🇱 荷兰 · K57R | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 4/4 |
+| 🇬🇧 英国 · 6J4T | 🇬🇧 United Kingdom | 13 ms (🇫🇷 France) | 4/4 |
 
