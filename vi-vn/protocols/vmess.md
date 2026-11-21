@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 11:18:14 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 17:24:37 UTC
 
-**Nút đạt yêu cầu** · 2863
+**Nút đạt yêu cầu** · 3106
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,38 +15,38 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1453 |
-| 🇯🇵 Nhật Bản | 195 |
-| 🇨🇦 Canada | 175 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 138 |
-| 🇸🇬 Singapore | 119 |
-| 🇫🇷 Pháp | 116 |
-| 🇮🇳 Ấn Độ | 116 |
-| 🇬🇧 Vương quốc Anh | 102 |
-| 🇦🇹 Áo | 79 |
-| 🇰🇿 Kazakhstan | 65 |
-| 🇰🇷 Hàn Quốc | 56 |
-| 🇧🇷 Brazil | 52 |
-| 🇸🇪 Thụy Điển | 47 |
-| 🇩🇪 Đức | 40 |
+| 🇺🇸 Hoa Kỳ | 1618 |
+| 🇯🇵 Nhật Bản | 200 |
+| 🇨🇦 Canada | 182 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 131 |
+| 🇫🇷 Pháp | 126 |
+| 🇸🇬 Singapore | 124 |
+| 🇮🇳 Ấn Độ | 117 |
+| 🇬🇧 Vương quốc Anh | 108 |
+| 🇦🇹 Áo | 94 |
+| 🇧🇷 Brazil | 67 |
+| 🇰🇿 Kazakhstan | 63 |
+| 🇰🇷 Hàn Quốc | 59 |
+| 🇩🇪 Đức | 54 |
+| 🇸🇪 Thụy Điển | 53 |
 | 🇵🇱 Ba Lan | 30 |
-| 🇹🇼 Đài Loan | 23 |
-| 🇳🇱 Hà Lan | 21 |
-| 🇲🇾 Malaysia | 19 |
-| 🇮🇪 Ireland | 6 |
+| 🇳🇱 Hà Lan | 24 |
+| 🇹🇼 Đài Loan | 22 |
+| 🇲🇾 Malaysia | 13 |
+| 🇮🇪 Ireland | 9 |
 | 🇨🇳 Trung Quốc | 4 |
 | 🇹🇭 Thái Lan | 4 |
-| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 1 |
-| 🇩🇰 Đan Mạch | 1 |
-| 🇮🇩 Indonesia | 1 |
+| 🇮🇩 Indonesia | 2 |
+| 🇨🇿 Séc | 1 |
+| 🇻🇳 Việt Nam | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · WKGV | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
-| 🇫🇷 Pháp · 1TTG | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
-| 🇫🇷 Pháp · 8NVZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
-| 🇫🇷 Pháp · YZ08 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
-| 🇫🇷 Pháp · 7P8Z | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 7/7 |
+| 🇫🇷 Pháp · PNEQ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
+| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
+| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
+| 🇫🇷 Pháp · 8044 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
+| 🇫🇷 Pháp · GNZJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 8/8 |
 

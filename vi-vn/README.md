@@ -11,10 +11,10 @@ FoxDetector tổng hợp các nút proxy được chia sẻ công khai và kiể
 
 ## Dữ liệu mới nhất
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 11:18:14 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 17:24:37 UTC
 
-**Nút đạt yêu cầu** · 5583  
-**Vị trí thoát** · 55  
+**Nút đạt yêu cầu** · 5928  
+**Vị trí thoát** · 57  
 **Giao thức** · 6  
 **Nút được đề xuất** · 500
 
@@ -22,11 +22,11 @@ FoxDetector tổng hợp các nút proxy được chia sẻ công khai và kiể
 
 | Hạng | Nút | Vị trí thoát | Giao thức | Độ trễ và nơi đo | Số lần đạt liên tiếp | Kết quả gần đây |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇩🇪 Đức · BQHT | 🇩🇪 Đức | Shadowsocks | 14 ms (🇫🇷 Pháp) | 7 | 7/7 |
-| 3 | 🇺🇸 Hoa Kỳ · FQ4M | 🇺🇸 Hoa Kỳ | Shadowsocks | 115 ms (🇫🇷 Pháp) | 7 | 7/7 |
-| 4 | 🇫🇷 Pháp · HTHS | 🇫🇷 Pháp | VLESS | 12 ms (🇫🇷 Pháp) | 7 | 7/7 |
-| 5 | 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 7 | 7/7 |
-| 6 | 🇫🇷 Pháp · PXBS | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 7 | 7/7 |
+| 1 | 🇩🇪 Đức · BQHT | 🇩🇪 Đức | Shadowsocks | 14 ms (🇫🇷 Pháp) | 8 | 8/8 |
+| 3 | 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 8 | 8/8 |
+| 4 | 🇫🇷 Pháp · PXBS | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 8 | 8/8 |
+| 5 | 🇸🇪 Thụy Điển · 9GQ4 | 🇸🇪 Thụy Điển | VMess | 43 ms (🇫🇷 Pháp) | 8 | 8/8 |
+| 6 | 🇫🇷 Pháp · HTHS | 🇫🇷 Pháp | VLESS | 12 ms (🇫🇷 Pháp) | 8 | 8/8 |
 
 [Xem trước bảng xếp hạng](top500.md) · [Xem bảng xếp hạng đầy đủ và cách nhập vào ứng dụng](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

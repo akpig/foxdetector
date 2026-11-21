@@ -5,9 +5,9 @@
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 11:18:14 UTC
+**Latest completed test** · 2026-11-21 17:24:37 UTC
 
-**Passed nodes** · 355
+**Passed nodes** · 360
 
 [See all passing nodes and import options](https://www.foxdetector.com/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 195 |
-| VLESS | 134 |
+| VMess | 200 |
+| VLESS | 135 |
 | Shadowsocks | 17 |
 | Hysteria2 | 5 |
-| Trojan | 4 |
+| Trojan | 3 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇯🇵 Japan · 28GB | VLESS | 216 ms (🇫🇷 France) | 7/7 |
-| 🇯🇵 Japan · HHJA | Shadowsocks | 218 ms (🇫🇷 France) | 7/7 |
-| 🇯🇵 Japan · AGP1 | VMess | 218 ms (🇫🇷 France) | 7/7 |
-| 🇯🇵 Japan · JJE4 | VLESS | 218 ms (🇫🇷 France) | 7/7 |
-| 🇯🇵 Japan · FZE3 | Shadowsocks | 219 ms (🇫🇷 France) | 7/7 |
+| 🇯🇵 Japan · 9B06 | Shadowsocks | 217 ms (🇫🇷 France) | 8/8 |
+| 🇯🇵 Japan · JJE4 | VLESS | 217 ms (🇫🇷 France) | 8/8 |
+| 🇯🇵 Japan · 0SNT | Shadowsocks | 218 ms (🇫🇷 France) | 8/8 |
+| 🇯🇵 Japan · AGP1 | VMess | 219 ms (🇫🇷 France) | 8/8 |
+| 🇯🇵 Japan · GG1P | Shadowsocks | 220 ms (🇫🇷 France) | 8/8 |
 

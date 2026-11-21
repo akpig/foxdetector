@@ -5,9 +5,9 @@
 
 [国家和地区](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-21 11:18:14 UTC
+**最近检测完成** · 2026-11-21 17:24:37 UTC
 
-**通过节点** · 355
+**通过节点** · 360
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 195 |
-| VLESS | 134 |
+| VMess | 200 |
+| VLESS | 135 |
 | Shadowsocks | 17 |
 | Hysteria2 | 5 |
-| Trojan | 4 |
+| Trojan | 3 |
 
 ## 通过检测的节点示例
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇯🇵 日本 · 28GB | VLESS | 216 ms (🇫🇷 法国) | 7/7 |
-| 🇯🇵 日本 · HHJA | Shadowsocks | 218 ms (🇫🇷 法国) | 7/7 |
-| 🇯🇵 日本 · AGP1 | VMess | 218 ms (🇫🇷 法国) | 7/7 |
-| 🇯🇵 日本 · JJE4 | VLESS | 218 ms (🇫🇷 法国) | 7/7 |
-| 🇯🇵 日本 · FZE3 | Shadowsocks | 219 ms (🇫🇷 法国) | 7/7 |
+| 🇯🇵 日本 · 9B06 | Shadowsocks | 217 ms (🇫🇷 法国) | 8/8 |
+| 🇯🇵 日本 · JJE4 | VLESS | 217 ms (🇫🇷 法国) | 8/8 |
+| 🇯🇵 日本 · 0SNT | Shadowsocks | 218 ms (🇫🇷 法国) | 8/8 |
+| 🇯🇵 日本 · AGP1 | VMess | 219 ms (🇫🇷 法国) | 8/8 |
+| 🇯🇵 日本 · GG1P | Shadowsocks | 220 ms (🇫🇷 法国) | 8/8 |
 

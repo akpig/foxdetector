@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 11:18:14 UTC
+**Latest completed test** · 2026-11-21 17:24:37 UTC
 
-**Passed nodes** · 2863
+**Passed nodes** · 3106
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,38 +15,38 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1453 |
-| 🇯🇵 Japan | 195 |
-| 🇨🇦 Canada | 175 |
-| 🇭🇰 Hong Kong SAR China | 138 |
-| 🇸🇬 Singapore | 119 |
-| 🇫🇷 France | 116 |
-| 🇮🇳 India | 116 |
-| 🇬🇧 United Kingdom | 102 |
-| 🇦🇹 Austria | 79 |
-| 🇰🇿 Kazakhstan | 65 |
-| 🇰🇷 South Korea | 56 |
-| 🇧🇷 Brazil | 52 |
-| 🇸🇪 Sweden | 47 |
-| 🇩🇪 Germany | 40 |
+| 🇺🇸 United States | 1618 |
+| 🇯🇵 Japan | 200 |
+| 🇨🇦 Canada | 182 |
+| 🇭🇰 Hong Kong SAR China | 131 |
+| 🇫🇷 France | 126 |
+| 🇸🇬 Singapore | 124 |
+| 🇮🇳 India | 117 |
+| 🇬🇧 United Kingdom | 108 |
+| 🇦🇹 Austria | 94 |
+| 🇧🇷 Brazil | 67 |
+| 🇰🇿 Kazakhstan | 63 |
+| 🇰🇷 South Korea | 59 |
+| 🇩🇪 Germany | 54 |
+| 🇸🇪 Sweden | 53 |
 | 🇵🇱 Poland | 30 |
-| 🇹🇼 Taiwan | 23 |
-| 🇳🇱 Netherlands | 21 |
-| 🇲🇾 Malaysia | 19 |
-| 🇮🇪 Ireland | 6 |
+| 🇳🇱 Netherlands | 24 |
+| 🇹🇼 Taiwan | 22 |
+| 🇲🇾 Malaysia | 13 |
+| 🇮🇪 Ireland | 9 |
 | 🇨🇳 China | 4 |
 | 🇹🇭 Thailand | 4 |
-| 🇦🇪 United Arab Emirates | 1 |
-| 🇩🇰 Denmark | 1 |
-| 🇮🇩 Indonesia | 1 |
+| 🇮🇩 Indonesia | 2 |
+| 🇨🇿 Czechia | 1 |
+| 🇻🇳 Vietnam | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · WKGV | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
-| 🇫🇷 France · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
-| 🇫🇷 France · 8NVZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
-| 🇫🇷 France · YZ08 | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
-| 🇫🇷 France · 7P8Z | 🇫🇷 France | 12 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · PNEQ | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
+| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
+| 🇫🇷 France · QA8T | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
+| 🇫🇷 France · 8044 | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
+| 🇫🇷 France · GNZJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 8/8 |
 

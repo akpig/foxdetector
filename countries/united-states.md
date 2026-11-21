@@ -5,9 +5,9 @@
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 11:18:14 UTC
+**Latest completed test** · 2026-11-21 17:24:37 UTC
 
-**Passed nodes** · 2334
+**Passed nodes** · 2534
 
 [See all passing nodes and import options](https://www.foxdetector.com/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 1453 |
-| Trojan | 387 |
-| Shadowsocks | 349 |
-| VLESS | 133 |
-| Hysteria2 | 11 |
+| VMess | 1618 |
+| Trojan | 401 |
+| Shadowsocks | 357 |
+| VLESS | 147 |
+| Hysteria2 | 10 |
 | AnyTLS | 1 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇺🇸 United States · G29DB | Shadowsocks | 28 ms (🇫🇷 France) | 7/7 |
-| 🇺🇸 United States · 72V7 | VLESS | 31 ms (🇫🇷 France) | 7/7 |
-| 🇺🇸 United States · K6KQ | VLESS | 42 ms (🇫🇷 France) | 7/7 |
-| 🇺🇸 United States · 03GR | Shadowsocks | 49 ms (🇫🇷 France) | 7/7 |
-| 🇺🇸 United States · 452X | VLESS | 52 ms (🇫🇷 France) | 7/7 |
+| 🇺🇸 United States · 4EKP | VLESS | 20 ms (🇫🇷 France) | 8/8 |
+| 🇺🇸 United States · ZC2W | VLESS | 21 ms (🇫🇷 France) | 8/8 |
+| 🇺🇸 United States · 07GX | Shadowsocks | 24 ms (🇫🇷 France) | 8/8 |
+| 🇺🇸 United States · QBCH | Shadowsocks | 25 ms (🇫🇷 France) | 8/8 |
+| 🇺🇸 United States · JBR3 | Shadowsocks | 25 ms (🇫🇷 France) | 8/8 |
 
