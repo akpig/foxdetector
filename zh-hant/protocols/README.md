@@ -5,16 +5,16 @@
 
 [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-21 17:24:37 UTC
+**最近完成檢測** · 2026-11-21 23:19:05 UTC
 
 [通訊協定 · 開啟狐探](https://www.foxdetector.com/zh-hant/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | 通訊協定 | 通過節點 | 出口位置 |
 | --- | --- | --- |
-| [VMess](vmess.md) | 3106 | 24 |
-| [Shadowsocks](shadowsocks.md) | 1095 | 25 |
-| [VLESS](vless.md) | 924 | 50 |
-| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 707 | 18 |
-| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 95 | 21 |
+| [VMess](vmess.md) | 3248 | 24 |
+| [Shadowsocks](shadowsocks.md) | 1219 | 26 |
+| [VLESS](vless.md) | 907 | 47 |
+| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 650 | 19 |
+| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 93 | 21 |
 | [AnyTLS](https://www.foxdetector.com/zh-hant/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
 

@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 17:24:37 UTC
+**Latest completed test** · 2026-11-21 23:19:05 UTC
 
-**Passed nodes** · 3106
+**Passed nodes** · 3248
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,38 +15,38 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1618 |
-| 🇯🇵 Japan | 200 |
-| 🇨🇦 Canada | 182 |
-| 🇭🇰 Hong Kong SAR China | 131 |
-| 🇫🇷 France | 126 |
-| 🇸🇬 Singapore | 124 |
-| 🇮🇳 India | 117 |
+| 🇺🇸 United States | 1688 |
+| 🇨🇦 Canada | 188 |
+| 🇯🇵 Japan | 174 |
+| 🇭🇰 Hong Kong SAR China | 145 |
+| 🇸🇬 Singapore | 133 |
+| 🇫🇷 France | 127 |
+| 🇮🇳 India | 122 |
+| 🇦🇹 Austria | 111 |
 | 🇬🇧 United Kingdom | 108 |
-| 🇦🇹 Austria | 94 |
-| 🇧🇷 Brazil | 67 |
-| 🇰🇿 Kazakhstan | 63 |
+| 🇧🇷 Brazil | 73 |
+| 🇰🇿 Kazakhstan | 68 |
+| 🇸🇪 Sweden | 65 |
+| 🇩🇪 Germany | 63 |
 | 🇰🇷 South Korea | 59 |
-| 🇩🇪 Germany | 54 |
-| 🇸🇪 Sweden | 53 |
-| 🇵🇱 Poland | 30 |
+| 🇵🇱 Poland | 32 |
+| 🇹🇼 Taiwan | 28 |
 | 🇳🇱 Netherlands | 24 |
-| 🇹🇼 Taiwan | 22 |
-| 🇲🇾 Malaysia | 13 |
-| 🇮🇪 Ireland | 9 |
-| 🇨🇳 China | 4 |
+| 🇲🇾 Malaysia | 19 |
+| 🇮🇪 Ireland | 8 |
+| 🇨🇳 China | 5 |
 | 🇹🇭 Thailand | 4 |
 | 🇮🇩 Indonesia | 2 |
+| 🇦🇪 United Arab Emirates | 1 |
 | 🇨🇿 Czechia | 1 |
-| 🇻🇳 Vietnam | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · PNEQ | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
-| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
-| 🇫🇷 France · QA8T | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
-| 🇫🇷 France · 8044 | 🇫🇷 France | 11 ms (🇫🇷 France) | 8/8 |
-| 🇫🇷 France · GNZJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 8/8 |
+| 🇫🇷 France · 8CQN | 🇫🇷 France | 10 ms (🇫🇷 France) | 9/9 |
+| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 9/9 |
+| 🇫🇷 France · 8NVZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 9/9 |
+| 🇫🇷 France · 3WR2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 9/9 |
+| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 9/9 |
 

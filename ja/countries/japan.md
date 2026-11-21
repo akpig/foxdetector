@@ -5,9 +5,9 @@
 
 [国・地域](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-21 17:24:37 UTC
+**直近の検証完了時刻** · 2026-11-21 23:19:05 UTC
 
-**検証に合格したノード** · 360
+**検証に合格したノード** · 344
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VMess | 200 |
-| VLESS | 135 |
-| Shadowsocks | 17 |
+| VMess | 174 |
+| VLESS | 142 |
+| Shadowsocks | 19 |
 | Hysteria2 | 5 |
-| Trojan | 3 |
+| Trojan | 4 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇯🇵 日本 · 9B06 | Shadowsocks | 217 ms (🇫🇷 フランス) | 8/8 |
-| 🇯🇵 日本 · JJE4 | VLESS | 217 ms (🇫🇷 フランス) | 8/8 |
-| 🇯🇵 日本 · 0SNT | Shadowsocks | 218 ms (🇫🇷 フランス) | 8/8 |
-| 🇯🇵 日本 · AGP1 | VMess | 219 ms (🇫🇷 フランス) | 8/8 |
-| 🇯🇵 日本 · GG1P | Shadowsocks | 220 ms (🇫🇷 フランス) | 8/8 |
+| 🇯🇵 日本 · BQH4 | Shadowsocks | 217 ms (🇫🇷 フランス) | 9/9 |
+| 🇯🇵 日本 · GBQV | VLESS | 217 ms (🇫🇷 フランス) | 9/9 |
+| 🇯🇵 日本 · JJE4 | VLESS | 217 ms (🇫🇷 フランス) | 9/9 |
+| 🇯🇵 日本 · FQ6C | Shadowsocks | 218 ms (🇫🇷 フランス) | 9/9 |
+| 🇯🇵 日本 · P1PG | Shadowsocks | 218 ms (🇫🇷 フランス) | 9/9 |
 

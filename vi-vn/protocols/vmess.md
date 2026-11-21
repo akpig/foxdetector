@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 17:24:37 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 23:19:05 UTC
 
-**Nút đạt yêu cầu** · 3106
+**Nút đạt yêu cầu** · 3248
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,38 +15,38 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1618 |
-| 🇯🇵 Nhật Bản | 200 |
-| 🇨🇦 Canada | 182 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 131 |
-| 🇫🇷 Pháp | 126 |
-| 🇸🇬 Singapore | 124 |
-| 🇮🇳 Ấn Độ | 117 |
+| 🇺🇸 Hoa Kỳ | 1688 |
+| 🇨🇦 Canada | 188 |
+| 🇯🇵 Nhật Bản | 174 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 145 |
+| 🇸🇬 Singapore | 133 |
+| 🇫🇷 Pháp | 127 |
+| 🇮🇳 Ấn Độ | 122 |
+| 🇦🇹 Áo | 111 |
 | 🇬🇧 Vương quốc Anh | 108 |
-| 🇦🇹 Áo | 94 |
-| 🇧🇷 Brazil | 67 |
-| 🇰🇿 Kazakhstan | 63 |
+| 🇧🇷 Brazil | 73 |
+| 🇰🇿 Kazakhstan | 68 |
+| 🇸🇪 Thụy Điển | 65 |
+| 🇩🇪 Đức | 63 |
 | 🇰🇷 Hàn Quốc | 59 |
-| 🇩🇪 Đức | 54 |
-| 🇸🇪 Thụy Điển | 53 |
-| 🇵🇱 Ba Lan | 30 |
+| 🇵🇱 Ba Lan | 32 |
+| 🇹🇼 Đài Loan | 28 |
 | 🇳🇱 Hà Lan | 24 |
-| 🇹🇼 Đài Loan | 22 |
-| 🇲🇾 Malaysia | 13 |
-| 🇮🇪 Ireland | 9 |
-| 🇨🇳 Trung Quốc | 4 |
+| 🇲🇾 Malaysia | 19 |
+| 🇮🇪 Ireland | 8 |
+| 🇨🇳 Trung Quốc | 5 |
 | 🇹🇭 Thái Lan | 4 |
 | 🇮🇩 Indonesia | 2 |
+| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 1 |
 | 🇨🇿 Séc | 1 |
-| 🇻🇳 Việt Nam | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · PNEQ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
-| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
-| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
-| 🇫🇷 Pháp · 8044 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 8/8 |
-| 🇫🇷 Pháp · GNZJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 8/8 |
+| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · 8NVZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · 3WR2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 9/9 |
 
