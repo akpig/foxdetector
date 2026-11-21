@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 23:07:39 UTC
+**Latest completed test** · 2026-11-21 05:09:55 UTC
 
-**Passed nodes** · 805
+**Passed nodes** · 933
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -15,42 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 242 |
-| 🇳🇱 Netherlands | 110 |
-| 🇩🇪 Germany | 87 |
-| 🇮🇹 Italy | 49 |
-| 🇨🇦 Canada | 45 |
-| 🇸🇬 Singapore | 39 |
-| 🇬🇧 United Kingdom | 38 |
-| 🇪🇸 Spain | 36 |
-| 🇫🇷 France | 36 |
-| 🇨🇭 Switzerland | 20 |
-| 🇯🇵 Japan | 17 |
-| 🇦🇱 Albania | 12 |
-| 🇧🇬 Bulgaria | 11 |
+| 🇺🇸 United States | 291 |
+| 🇳🇱 Netherlands | 121 |
+| 🇩🇪 Germany | 99 |
+| 🇨🇦 Canada | 60 |
+| 🇮🇹 Italy | 58 |
+| 🇬🇧 United Kingdom | 49 |
+| 🇫🇷 France | 48 |
+| 🇪🇸 Spain | 41 |
+| 🇸🇬 Singapore | 36 |
+| 🇨🇭 Switzerland | 25 |
+| 🇦🇱 Albania | 16 |
+| 🇯🇵 Japan | 15 |
 | 🇵🇱 Poland | 11 |
+| 🇧🇬 Bulgaria | 10 |
 | 🇱🇻 Latvia | 9 |
 | 🇱🇹 Lithuania | 8 |
-| 🇰🇷 South Korea | 6 |
-| 🇹🇷 Turkey | 6 |
-| 🇦🇹 Austria | 5 |
-| 🇸🇪 Sweden | 4 |
-| 🇫🇮 Finland | 3 |
-| 🇿🇦 South Africa | 3 |
+| 🇹🇷 Turkey | 8 |
+| 🇦🇹 Austria | 6 |
+| 🇸🇪 Sweden | 5 |
+| 🇫🇮 Finland | 4 |
+| 🇷🇺 Russia | 4 |
+| 🇰🇷 South Korea | 3 |
 | 🇳🇴 Norway | 2 |
-| 🇷🇺 Russia | 2 |
-| 🇨🇱 Chile | 1 |
+| 🇿🇦 South Africa | 2 |
 | 🇭🇰 Hong Kong SAR China | 1 |
-| 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · BV01 | 🇫🇷 France | 9 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 France · 1V47 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 Netherlands · WN5C | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 Netherlands · XP4W | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 Netherlands · 9W3E | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · A7SR | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · FFH7 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
+| 🇬🇧 United Kingdom · 3J81 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
+| 🇬🇧 United Kingdom · 28E0 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
 

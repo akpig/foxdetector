@@ -5,9 +5,9 @@
 
 [Ülkeler ve bölgeler](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-20 23:07:39 UTC
+**Son testin tamamlanma zamanı** · 2026-11-21 05:09:55 UTC
 
-**Testi geçen düğümler** · 341
+**Testi geçen düğümler** · 394
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VLESS | 164 |
-| Shadowsocks | 87 |
-| Trojan | 43 |
-| VMess | 35 |
+| VLESS | 188 |
+| Shadowsocks | 99 |
+| Trojan | 58 |
+| VMess | 37 |
 | Hysteria2 | 12 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇩🇪 Almanya · HFCV | Hysteria2 | 11 ms (🇫🇷 Fransa) | 5/5 |
-| 🇩🇪 Almanya · 21NZ | Hysteria2 | 12 ms (🇫🇷 Fransa) | 5/5 |
-| 🇩🇪 Almanya · ANXK | Hysteria2 | 12 ms (🇫🇷 Fransa) | 5/5 |
-| 🇩🇪 Almanya · FJAX | Hysteria2 | 12 ms (🇫🇷 Fransa) | 5/5 |
-| 🇩🇪 Almanya · G9Y8 | VLESS | 13 ms (🇫🇷 Fransa) | 5/5 |
+| 🇩🇪 Almanya · 4SXK | Hysteria2 | 11 ms (🇫🇷 Fransa) | 6/6 |
+| 🇩🇪 Almanya · P7VP | Hysteria2 | 12 ms (🇫🇷 Fransa) | 6/6 |
+| 🇩🇪 Almanya · 75QS | Hysteria2 | 12 ms (🇫🇷 Fransa) | 6/6 |
+| 🇩🇪 Almanya · T1JF | VLESS | 12 ms (🇫🇷 Fransa) | 6/6 |
+| 🇩🇪 Almanya · 05NA | Hysteria2 | 12 ms (🇫🇷 Fransa) | 6/6 |
 

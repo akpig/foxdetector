@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 23:07:39 UTC
+**Latest completed test** · 2026-11-21 05:09:55 UTC
 
-**Passed nodes** · 2508
+**Passed nodes** · 2676
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,35 +15,36 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1279 |
-| 🇨🇦 Canada | 149 |
-| 🇯🇵 Japan | 146 |
-| 🇭🇰 Hong Kong SAR China | 135 |
-| 🇸🇬 Singapore | 127 |
-| 🇫🇷 France | 102 |
-| 🇮🇳 India | 102 |
-| 🇬🇧 United Kingdom | 97 |
-| 🇰🇿 Kazakhstan | 61 |
-| 🇦🇹 Austria | 55 |
-| 🇰🇷 South Korea | 54 |
-| 🇸🇪 Sweden | 42 |
-| 🇧🇷 Brazil | 40 |
-| 🇩🇪 Germany | 35 |
-| 🇵🇱 Poland | 25 |
-| 🇳🇱 Netherlands | 19 |
-| 🇲🇾 Malaysia | 13 |
-| 🇹🇼 Taiwan | 13 |
-| 🇮🇩 Indonesia | 5 |
+| 🇺🇸 United States | 1354 |
+| 🇨🇦 Canada | 168 |
+| 🇯🇵 Japan | 158 |
+| 🇭🇰 Hong Kong SAR China | 144 |
+| 🇮🇳 India | 114 |
+| 🇸🇬 Singapore | 111 |
+| 🇫🇷 France | 109 |
+| 🇬🇧 United Kingdom | 100 |
+| 🇦🇹 Austria | 70 |
+| 🇰🇿 Kazakhstan | 66 |
+| 🇰🇷 South Korea | 58 |
+| 🇧🇷 Brazil | 50 |
+| 🇸🇪 Sweden | 44 |
+| 🇩🇪 Germany | 37 |
+| 🇵🇱 Poland | 27 |
+| 🇳🇱 Netherlands | 21 |
+| 🇹🇼 Taiwan | 17 |
+| 🇲🇾 Malaysia | 14 |
 | 🇮🇪 Ireland | 5 |
+| 🇨🇳 China | 4 |
 | 🇹🇭 Thailand | 4 |
+| 🇵🇪 Peru | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 2X38 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 France · RNQ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 France · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 France · T6ZZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 France · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · FA33 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · 1ZJ8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · 6HPA | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
 

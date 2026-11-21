@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-20 23:07:39 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 05:09:55 UTC
 
 [Giao thức · Mở FoxDetector](https://www.foxdetector.com/vi-vn/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | Giao thức | Nút đạt yêu cầu | Vị trí thoát |
 | --- | --- | --- |
-| [VMess](vmess.md) | 2508 | 21 |
-| [VLESS](vless.md) | 988 | 46 |
-| [Shadowsocks](shadowsocks.md) | 805 | 28 |
-| [Trojan](https://www.foxdetector.com/vi-vn/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 657 | 18 |
-| [Hysteria2](https://www.foxdetector.com/vi-vn/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 95 | 22 |
+| [VMess](vmess.md) | 2676 | 22 |
+| [VLESS](vless.md) | 1128 | 48 |
+| [Shadowsocks](shadowsocks.md) | 933 | 26 |
+| [Trojan](https://www.foxdetector.com/vi-vn/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 713 | 18 |
+| [Hysteria2](https://www.foxdetector.com/vi-vn/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 104 | 22 |
 | [AnyTLS](https://www.foxdetector.com/vi-vn/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
 

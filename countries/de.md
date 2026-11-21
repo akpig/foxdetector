@@ -5,9 +5,9 @@
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-20 23:07:39 UTC
+**Latest completed test** · 2026-11-21 05:09:55 UTC
 
-**Passed nodes** · 341
+**Passed nodes** · 394
 
 [See all passing nodes and import options](https://www.foxdetector.com/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VLESS | 164 |
-| Shadowsocks | 87 |
-| Trojan | 43 |
-| VMess | 35 |
+| VLESS | 188 |
+| Shadowsocks | 99 |
+| Trojan | 58 |
+| VMess | 37 |
 | Hysteria2 | 12 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇩🇪 Germany · HFCV | Hysteria2 | 11 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 Germany · 21NZ | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 Germany · ANXK | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 Germany · FJAX | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 Germany · G9Y8 | VLESS | 13 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · 4SXK | Hysteria2 | 11 ms (🇫🇷 France) | 6/6 |
+| 🇩🇪 Germany · P7VP | Hysteria2 | 12 ms (🇫🇷 France) | 6/6 |
+| 🇩🇪 Germany · 75QS | Hysteria2 | 12 ms (🇫🇷 France) | 6/6 |
+| 🇩🇪 Germany · T1JF | VLESS | 12 ms (🇫🇷 France) | 6/6 |
+| 🇩🇪 Germany · 05NA | Hysteria2 | 12 ms (🇫🇷 France) | 6/6 |
 

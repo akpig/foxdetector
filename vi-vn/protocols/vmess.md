@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-20 23:07:39 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 05:09:55 UTC
 
-**Nút đạt yêu cầu** · 2508
+**Nút đạt yêu cầu** · 2676
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,35 +15,36 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1279 |
-| 🇨🇦 Canada | 149 |
-| 🇯🇵 Nhật Bản | 146 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 135 |
-| 🇸🇬 Singapore | 127 |
-| 🇫🇷 Pháp | 102 |
-| 🇮🇳 Ấn Độ | 102 |
-| 🇬🇧 Vương quốc Anh | 97 |
-| 🇰🇿 Kazakhstan | 61 |
-| 🇦🇹 Áo | 55 |
-| 🇰🇷 Hàn Quốc | 54 |
-| 🇸🇪 Thụy Điển | 42 |
-| 🇧🇷 Brazil | 40 |
-| 🇩🇪 Đức | 35 |
-| 🇵🇱 Ba Lan | 25 |
-| 🇳🇱 Hà Lan | 19 |
-| 🇲🇾 Malaysia | 13 |
-| 🇹🇼 Đài Loan | 13 |
-| 🇮🇩 Indonesia | 5 |
+| 🇺🇸 Hoa Kỳ | 1354 |
+| 🇨🇦 Canada | 168 |
+| 🇯🇵 Nhật Bản | 158 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 144 |
+| 🇮🇳 Ấn Độ | 114 |
+| 🇸🇬 Singapore | 111 |
+| 🇫🇷 Pháp | 109 |
+| 🇬🇧 Vương quốc Anh | 100 |
+| 🇦🇹 Áo | 70 |
+| 🇰🇿 Kazakhstan | 66 |
+| 🇰🇷 Hàn Quốc | 58 |
+| 🇧🇷 Brazil | 50 |
+| 🇸🇪 Thụy Điển | 44 |
+| 🇩🇪 Đức | 37 |
+| 🇵🇱 Ba Lan | 27 |
+| 🇳🇱 Hà Lan | 21 |
+| 🇹🇼 Đài Loan | 17 |
+| 🇲🇾 Malaysia | 14 |
 | 🇮🇪 Ireland | 5 |
+| 🇨🇳 Trung Quốc | 4 |
 | 🇹🇭 Thái Lan | 4 |
+| 🇵🇪 Peru | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 2X38 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 5/5 |
-| 🇫🇷 Pháp · RNQ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 5/5 |
-| 🇫🇷 Pháp · 1TTG | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 5/5 |
-| 🇫🇷 Pháp · T6ZZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 5/5 |
-| 🇫🇷 Pháp · 00Z1 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 5/5 |
+| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
+| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
+| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
+| 🇫🇷 Pháp · 1ZJ8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
+| 🇫🇷 Pháp · 6HPA | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
 

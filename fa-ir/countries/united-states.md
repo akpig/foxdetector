@@ -5,9 +5,9 @@
 
 [کشورها و مناطق](README.md) · [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-20 23:07:39 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-21 05:09:55 UTC
 
-**گره‌های موفق در آزمایش** · 2073
+**گره‌های موفق در آزمایش** · 2230
 
 [مشاهدهٔ همهٔ گره‌های موفق و روش‌های وارد کردن](https://www.foxdetector.com/fa-ir/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | پروتکل | گره‌های موفق در آزمایش |
 | --- | --- |
-| VMess | 1279 |
-| Trojan | 389 |
-| Shadowsocks | 242 |
-| VLESS | 151 |
-| Hysteria2 | 11 |
+| VMess | 1354 |
+| Trojan | 410 |
+| Shadowsocks | 291 |
+| VLESS | 160 |
+| Hysteria2 | 14 |
 | AnyTLS | 1 |
 
 ## نمونه‌ای از گره‌های موفق در آزمون
 
 | گره | پروتکل | تأخیر و محل آزمایش | نتایج اخیر |
 | --- | --- | --- | --- |
-| 🇺🇸 ایالات متحده · QBCH | Shadowsocks | 25 ms (🇫🇷 فرانسه) | 5/5 |
-| 🇺🇸 ایالات متحده · G29DB | Shadowsocks | 27 ms (🇫🇷 فرانسه) | 5/5 |
-| 🇺🇸 ایالات متحده · 4EKP | VLESS | 29 ms (🇫🇷 فرانسه) | 5/5 |
-| 🇺🇸 ایالات متحده · 8VFS | VLESS | 30 ms (🇫🇷 فرانسه) | 5/5 |
-| 🇺🇸 ایالات متحده · VC7K | Shadowsocks | 33 ms (🇫🇷 فرانسه) | 5/5 |
+| 🇺🇸 ایالات متحده · 99DM | Shadowsocks | 24 ms (🇫🇷 فرانسه) | 6/6 |
+| 🇺🇸 ایالات متحده · 72V7 | VLESS | 26 ms (🇫🇷 فرانسه) | 6/6 |
+| 🇺🇸 ایالات متحده · GT87 | VLESS | 28 ms (🇫🇷 فرانسه) | 6/6 |
+| 🇺🇸 ایالات متحده · KVB0 | Shadowsocks | 30 ms (🇫🇷 فرانسه) | 6/6 |
+| 🇺🇸 ایالات متحده · HX9J | VLESS | 54 ms (🇫🇷 فرانسه) | 6/6 |
 

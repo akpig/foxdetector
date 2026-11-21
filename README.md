@@ -11,10 +11,10 @@ FoxDetector aggregates publicly shared proxy nodes and tests their availability.
 
 ## Latest snapshot
 
-**Latest completed test** · 2026-11-20 23:07:39 UTC
+**Latest completed test** · 2026-11-21 05:09:55 UTC
 
-**Passed nodes** · 5054  
-**Exit locations** · 54  
+**Passed nodes** · 5555  
+**Exit locations** · 56  
 **Protocols** · 6  
 **Recommended nodes** · 500
 
@@ -22,11 +22,11 @@ FoxDetector aggregates publicly shared proxy nodes and tests their availability.
 
 | Rank | Node | Exit location | Protocol | Observed latency | Pass streak | Recent passes |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 United States · V6VD | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 5 | 5/5 |
-| 2 | 🇺🇸 United States · FQ4M | 🇺🇸 United States | Shadowsocks | 116 ms (🇫🇷 France) | 5 | 5/5 |
-| 3 | 🇫🇷 France · 9HJD | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 5 | 5/5 |
-| 7 | 🇸🇪 Sweden · BRVE | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 5 | 5/5 |
-| 9 | 🇺🇸 United States · DBHS | 🇺🇸 United States | VMess | 84 ms (🇫🇷 France) | 5 | 5/5 |
+| 1 | 🇺🇸 United States · V6VD | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 6 | 6/6 |
+| 6 | 🇺🇸 United States · RD3F | 🇺🇸 United States | Shadowsocks | 111 ms (🇫🇷 France) | 6 | 6/6 |
+| 8 | 🇫🇷 France · QFEJ | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 6 | 6/6 |
+| 9 | 🇫🇷 France · PXBS | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 6 | 6/6 |
+| 11 | 🇸🇪 Sweden · 566F | 🇸🇪 Sweden | Shadowsocks | 42 ms (🇫🇷 France) | 6 | 6/6 |
 
 [Browse the ranking preview](top500.md) · [See the full ranking and import options](https://www.foxdetector.com/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 
