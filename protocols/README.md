@@ -1,12 +1,15 @@
 # Protocols
 
-[Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/protocols/README.md) · [简体中文](../zh-cn/protocols/README.md) · [繁體中文](../zh-hant/protocols/README.md) · [日本語](../ja/protocols/README.md) · [فارسی](../fa-ir/protocols/README.md) · [Русский](../ru-ru/protocols/README.md) · [Türkçe](../tr-tr/protocols/README.md) · [اردو](../ur-pk/protocols/README.md) · [Tiếng Việt](../vi-vn/protocols/README.md)
+
+[FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-[View the latest directory on FoxDetector](https://www.foxdetector.com/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
+[Protocols · Open FoxDetector](https://www.foxdetector.com/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
-| Protocol | Currently passed | Exit locations |
+| Protocol | Passed nodes | Exit locations |
 | --- | --- | --- |
 | [VMess](vmess.md) | 2508 | 21 |
 | [VLESS](vless.md) | 988 | 46 |

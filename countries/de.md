@@ -1,16 +1,19 @@
 # 🇩🇪 Germany
 
-[Countries and regions](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/countries/de.md) · [简体中文](../zh-cn/countries/de.md) · [繁體中文](../zh-hant/countries/de.md) · [日本語](../ja/countries/de.md) · [فارسی](../fa-ir/countries/de.md) · [Русский](../ru-ru/countries/de.md) · [Türkçe](../tr-tr/countries/de.md) · [اردو](../ur-pk/countries/de.md) · [Tiếng Việt](../vi-vn/countries/de.md)
+
+[Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**341 currently passed nodes**
+**Passed nodes** · 341
 
-[See all currently passed nodes and import options](https://www.foxdetector.com/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
 
-## Protocol breakdown
+## Protocols
 
-| Protocol | Currently passed |
+| Protocol | Passed nodes |
 | --- | --- |
 | VLESS | 164 |
 | Shadowsocks | 87 |
@@ -18,7 +21,7 @@
 | VMess | 35 |
 | Hysteria2 | 12 |
 
-## Sample of passed nodes
+## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |

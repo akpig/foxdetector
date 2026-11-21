@@ -1,12 +1,15 @@
 # Countries and regions
 
-[Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/countries/README.md) · [简体中文](../zh-cn/countries/README.md) · [繁體中文](../zh-hant/countries/README.md) · [日本語](../ja/countries/README.md) · [فارسی](../fa-ir/countries/README.md) · [Русский](../ru-ru/countries/README.md) · [Türkçe](../tr-tr/countries/README.md) · [اردو](../ur-pk/countries/README.md) · [Tiếng Việt](../vi-vn/countries/README.md)
+
+[FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-[View the latest directory on FoxDetector](https://www.foxdetector.com/country/?utm_campaign=repository&utm_content=countries&utm_medium=referral&utm_source=github)
+[Countries and regions · Open FoxDetector](https://www.foxdetector.com/country/?utm_campaign=repository&utm_content=countries&utm_medium=referral&utm_source=github)
 
-| Exit location | Currently passed | Protocols |
+| Exit location | Passed nodes | Protocols |
 | --- | --- | --- |
 | [🇺🇸 United States](united-states.md) | 2073 | 6 |
 | [🇩🇪 Germany](de.md) | 341 | 5 |

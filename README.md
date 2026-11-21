@@ -1,7 +1,7 @@
 # <img src="assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector
 
 **Languages**  
-**English** · [العربية](README.ar.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [فارسی](README.fa-IR.md) · [Русский](README.ru-RU.md) · [Türkçe](README.tr-TR.md) · [اردو](README.ur-PK.md) · [Tiếng Việt](README.vi-VN.md)
+**English** · [العربية](ar/README.md) · [简体中文](zh-cn/README.md) · [繁體中文](zh-hant/README.md) · [日本語](ja/README.md) · [فارسی](fa-ir/README.md) · [Русский](ru-ru/README.md) · [Türkçe](tr-tr/README.md) · [اردو](ur-pk/README.md) · [Tiếng Việt](vi-vn/README.md)
 
 FoxDetector aggregates publicly shared proxy nodes and tests their availability. Browse results by exit location or protocol, compare recent reliability, and find client import options.
 

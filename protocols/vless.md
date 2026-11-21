@@ -1,16 +1,19 @@
 # VLESS
 
-[Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/protocols/vless.md) · [简体中文](../zh-cn/protocols/vless.md) · [繁體中文](../zh-hant/protocols/vless.md) · [日本語](../ja/protocols/vless.md) · [فارسی](../fa-ir/protocols/vless.md) · [Русский](../ru-ru/protocols/vless.md) · [Türkçe](../tr-tr/protocols/vless.md) · [اردو](../ur-pk/protocols/vless.md) · [Tiếng Việt](../vi-vn/protocols/vless.md)
+
+[Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**988 currently passed nodes**
+**Passed nodes** · 988
 
-[See all currently passed nodes and import options](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
 
-## Exit location breakdown
+## Exit locations
 
-| Exit location | Currently passed |
+| Exit location | Passed nodes |
 | --- | --- |
 | 🇩🇪 Germany | 164 |
 | 🇺🇸 United States | 151 |
@@ -59,7 +62,7 @@
 | 🇵🇦 Panama | 1 |
 | 🇸🇦 Saudi Arabia | 1 |
 
-## Sample of passed nodes
+## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |

@@ -1,16 +1,19 @@
 # 🇺🇸 United States
 
-[Countries and regions](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/countries/united-states.md) · [简体中文](../zh-cn/countries/united-states.md) · [繁體中文](../zh-hant/countries/united-states.md) · [日本語](../ja/countries/united-states.md) · [فارسی](../fa-ir/countries/united-states.md) · [Русский](../ru-ru/countries/united-states.md) · [Türkçe](../tr-tr/countries/united-states.md) · [اردو](../ur-pk/countries/united-states.md) · [Tiếng Việt](../vi-vn/countries/united-states.md)
+
+[Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**2073 currently passed nodes**
+**Passed nodes** · 2073
 
-[See all currently passed nodes and import options](https://www.foxdetector.com/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
 
-## Protocol breakdown
+## Protocols
 
-| Protocol | Currently passed |
+| Protocol | Passed nodes |
 | --- | --- |
 | VMess | 1279 |
 | Trojan | 389 |
@@ -19,7 +22,7 @@
 | Hysteria2 | 11 |
 | AnyTLS | 1 |
 
-## Sample of passed nodes
+## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |

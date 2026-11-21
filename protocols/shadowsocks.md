@@ -1,16 +1,19 @@
 # Shadowsocks
 
-[Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/protocols/shadowsocks.md) · [简体中文](../zh-cn/protocols/shadowsocks.md) · [繁體中文](../zh-hant/protocols/shadowsocks.md) · [日本語](../ja/protocols/shadowsocks.md) · [فارسی](../fa-ir/protocols/shadowsocks.md) · [Русский](../ru-ru/protocols/shadowsocks.md) · [Türkçe](../tr-tr/protocols/shadowsocks.md) · [اردو](../ur-pk/protocols/shadowsocks.md) · [Tiếng Việt](../vi-vn/protocols/shadowsocks.md)
+
+[Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**805 currently passed nodes**
+**Passed nodes** · 805
 
-[See all currently passed nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
-## Exit location breakdown
+## Exit locations
 
-| Exit location | Currently passed |
+| Exit location | Passed nodes |
 | --- | --- |
 | 🇺🇸 United States | 242 |
 | 🇳🇱 Netherlands | 110 |
@@ -41,7 +44,7 @@
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
 
-## Sample of passed nodes
+## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |

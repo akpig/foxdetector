@@ -1,16 +1,19 @@
 # VMess
 
-[Protocols](README.md) · [Repository home](../README.md) · [Global Top 500](../top500.md)
+**Languages**  
+**English** · [العربية](../ar/protocols/vmess.md) · [简体中文](../zh-cn/protocols/vmess.md) · [繁體中文](../zh-hant/protocols/vmess.md) · [日本語](../ja/protocols/vmess.md) · [فارسی](../fa-ir/protocols/vmess.md) · [Русский](../ru-ru/protocols/vmess.md) · [Türkçe](../tr-tr/protocols/vmess.md) · [اردو](../ur-pk/protocols/vmess.md) · [Tiếng Việt](../vi-vn/protocols/vmess.md)
+
+[Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Latest completed test** · 2026-11-20 23:07:39 UTC
 
-**2508 currently passed nodes**
+**Passed nodes** · 2508
 
-[See all currently passed nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
-## Exit location breakdown
+## Exit locations
 
-| Exit location | Currently passed |
+| Exit location | Passed nodes |
 | --- | --- |
 | 🇺🇸 United States | 1279 |
 | 🇨🇦 Canada | 149 |
@@ -34,7 +37,7 @@
 | 🇮🇪 Ireland | 5 |
 | 🇹🇭 Thailand | 4 |
 
-## Sample of passed nodes
+## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
