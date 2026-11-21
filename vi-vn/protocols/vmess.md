@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 05:09:55 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 11:18:14 UTC
 
-**Nút đạt yêu cầu** · 2676
+**Nút đạt yêu cầu** · 2863
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,38 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1354 |
-| 🇨🇦 Canada | 168 |
-| 🇯🇵 Nhật Bản | 158 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 144 |
-| 🇮🇳 Ấn Độ | 114 |
-| 🇸🇬 Singapore | 111 |
-| 🇫🇷 Pháp | 109 |
-| 🇬🇧 Vương quốc Anh | 100 |
-| 🇦🇹 Áo | 70 |
-| 🇰🇿 Kazakhstan | 66 |
-| 🇰🇷 Hàn Quốc | 58 |
-| 🇧🇷 Brazil | 50 |
-| 🇸🇪 Thụy Điển | 44 |
-| 🇩🇪 Đức | 37 |
-| 🇵🇱 Ba Lan | 27 |
+| 🇺🇸 Hoa Kỳ | 1453 |
+| 🇯🇵 Nhật Bản | 195 |
+| 🇨🇦 Canada | 175 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 138 |
+| 🇸🇬 Singapore | 119 |
+| 🇫🇷 Pháp | 116 |
+| 🇮🇳 Ấn Độ | 116 |
+| 🇬🇧 Vương quốc Anh | 102 |
+| 🇦🇹 Áo | 79 |
+| 🇰🇿 Kazakhstan | 65 |
+| 🇰🇷 Hàn Quốc | 56 |
+| 🇧🇷 Brazil | 52 |
+| 🇸🇪 Thụy Điển | 47 |
+| 🇩🇪 Đức | 40 |
+| 🇵🇱 Ba Lan | 30 |
+| 🇹🇼 Đài Loan | 23 |
 | 🇳🇱 Hà Lan | 21 |
-| 🇹🇼 Đài Loan | 17 |
-| 🇲🇾 Malaysia | 14 |
-| 🇮🇪 Ireland | 5 |
+| 🇲🇾 Malaysia | 19 |
+| 🇮🇪 Ireland | 6 |
 | 🇨🇳 Trung Quốc | 4 |
 | 🇹🇭 Thái Lan | 4 |
-| 🇵🇪 Peru | 1 |
+| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 1 |
+| 🇩🇰 Đan Mạch | 1 |
+| 🇮🇩 Indonesia | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
-| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
-| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
-| 🇫🇷 Pháp · 1ZJ8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
-| 🇫🇷 Pháp · 6HPA | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 6/6 |
+| 🇫🇷 Pháp · WKGV | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
+| 🇫🇷 Pháp · 1TTG | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
+| 🇫🇷 Pháp · 8NVZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
+| 🇫🇷 Pháp · YZ08 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 7/7 |
+| 🇫🇷 Pháp · 7P8Z | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 7/7 |
 

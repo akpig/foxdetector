@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 05:09:55 UTC
+**Latest completed test** · 2026-11-21 11:18:14 UTC
 
-**Passed nodes** · 933
+**Passed nodes** · 1078
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -15,30 +15,29 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 291 |
-| 🇳🇱 Netherlands | 121 |
-| 🇩🇪 Germany | 99 |
-| 🇨🇦 Canada | 60 |
-| 🇮🇹 Italy | 58 |
-| 🇬🇧 United Kingdom | 49 |
-| 🇫🇷 France | 48 |
-| 🇪🇸 Spain | 41 |
-| 🇸🇬 Singapore | 36 |
-| 🇨🇭 Switzerland | 25 |
-| 🇦🇱 Albania | 16 |
-| 🇯🇵 Japan | 15 |
-| 🇵🇱 Poland | 11 |
+| 🇺🇸 United States | 349 |
+| 🇳🇱 Netherlands | 132 |
+| 🇩🇪 Germany | 116 |
+| 🇨🇦 Canada | 71 |
+| 🇮🇹 Italy | 66 |
+| 🇫🇷 France | 57 |
+| 🇬🇧 United Kingdom | 53 |
+| 🇪🇸 Spain | 47 |
+| 🇸🇬 Singapore | 44 |
+| 🇨🇭 Switzerland | 32 |
+| 🇦🇱 Albania | 19 |
+| 🇯🇵 Japan | 17 |
 | 🇧🇬 Bulgaria | 10 |
+| 🇵🇱 Poland | 10 |
+| 🇱🇹 Lithuania | 9 |
 | 🇱🇻 Latvia | 9 |
-| 🇱🇹 Lithuania | 8 |
-| 🇹🇷 Turkey | 8 |
-| 🇦🇹 Austria | 6 |
-| 🇸🇪 Sweden | 5 |
-| 🇫🇮 Finland | 4 |
-| 🇷🇺 Russia | 4 |
-| 🇰🇷 South Korea | 3 |
+| 🇦🇹 Austria | 7 |
+| 🇷🇺 Russia | 7 |
+| 🇸🇪 Sweden | 6 |
+| 🇫🇮 Finland | 5 |
+| 🇰🇷 South Korea | 5 |
+| 🇿🇦 South Africa | 3 |
 | 🇳🇴 Norway | 2 |
-| 🇿🇦 South Africa | 2 |
 | 🇭🇰 Hong Kong SAR China | 1 |
 | 🇮🇳 India | 1 |
 
@@ -46,9 +45,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇳🇱 Netherlands · A7SR | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · FFH7 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
-| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
-| 🇬🇧 United Kingdom · 3J81 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
-| 🇬🇧 United Kingdom · 28E0 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · 5FEE | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇳🇱 Netherlands · XJEP | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 7/7 |
+| 🇳🇱 Netherlands · GAQS | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 7/7 |
+| 🇳🇱 Netherlands · EYJX | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 7/7 |
 

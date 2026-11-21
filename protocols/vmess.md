@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 05:09:55 UTC
+**Latest completed test** · 2026-11-21 11:18:14 UTC
 
-**Passed nodes** · 2676
+**Passed nodes** · 2863
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,38 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1354 |
-| 🇨🇦 Canada | 168 |
-| 🇯🇵 Japan | 158 |
-| 🇭🇰 Hong Kong SAR China | 144 |
-| 🇮🇳 India | 114 |
-| 🇸🇬 Singapore | 111 |
-| 🇫🇷 France | 109 |
-| 🇬🇧 United Kingdom | 100 |
-| 🇦🇹 Austria | 70 |
-| 🇰🇿 Kazakhstan | 66 |
-| 🇰🇷 South Korea | 58 |
-| 🇧🇷 Brazil | 50 |
-| 🇸🇪 Sweden | 44 |
-| 🇩🇪 Germany | 37 |
-| 🇵🇱 Poland | 27 |
+| 🇺🇸 United States | 1453 |
+| 🇯🇵 Japan | 195 |
+| 🇨🇦 Canada | 175 |
+| 🇭🇰 Hong Kong SAR China | 138 |
+| 🇸🇬 Singapore | 119 |
+| 🇫🇷 France | 116 |
+| 🇮🇳 India | 116 |
+| 🇬🇧 United Kingdom | 102 |
+| 🇦🇹 Austria | 79 |
+| 🇰🇿 Kazakhstan | 65 |
+| 🇰🇷 South Korea | 56 |
+| 🇧🇷 Brazil | 52 |
+| 🇸🇪 Sweden | 47 |
+| 🇩🇪 Germany | 40 |
+| 🇵🇱 Poland | 30 |
+| 🇹🇼 Taiwan | 23 |
 | 🇳🇱 Netherlands | 21 |
-| 🇹🇼 Taiwan | 17 |
-| 🇲🇾 Malaysia | 14 |
-| 🇮🇪 Ireland | 5 |
+| 🇲🇾 Malaysia | 19 |
+| 🇮🇪 Ireland | 6 |
 | 🇨🇳 China | 4 |
 | 🇹🇭 Thailand | 4 |
-| 🇵🇪 Peru | 1 |
+| 🇦🇪 United Arab Emirates | 1 |
+| 🇩🇰 Denmark | 1 |
+| 🇮🇩 Indonesia | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · FA33 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · 1ZJ8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · 6HPA | 🇫🇷 France | 11 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · WKGV | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · 8NVZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · YZ08 | 🇫🇷 France | 11 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · 7P8Z | 🇫🇷 France | 12 ms (🇫🇷 France) | 7/7 |
 

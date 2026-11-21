@@ -5,9 +5,9 @@
 
 [کشورها و مناطق](README.md) · [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-21 05:09:55 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-21 11:18:14 UTC
 
-**گره‌های موفق در آزمایش** · 394
+**گره‌های موفق در آزمایش** · 344
 
 [مشاهدهٔ همهٔ گره‌های موفق و روش‌های وارد کردن](https://www.foxdetector.com/fa-ir/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | پروتکل | گره‌های موفق در آزمایش |
 | --- | --- |
-| VLESS | 188 |
-| Shadowsocks | 99 |
-| Trojan | 58 |
-| VMess | 37 |
-| Hysteria2 | 12 |
+| VLESS | 125 |
+| Shadowsocks | 116 |
+| Trojan | 50 |
+| VMess | 40 |
+| Hysteria2 | 13 |
 
 ## نمونه‌ای از گره‌های موفق در آزمون
 
 | گره | پروتکل | تأخیر و محل آزمایش | نتایج اخیر |
 | --- | --- | --- | --- |
-| 🇩🇪 آلمان · 4SXK | Hysteria2 | 11 ms (🇫🇷 فرانسه) | 6/6 |
-| 🇩🇪 آلمان · P7VP | Hysteria2 | 12 ms (🇫🇷 فرانسه) | 6/6 |
-| 🇩🇪 آلمان · 75QS | Hysteria2 | 12 ms (🇫🇷 فرانسه) | 6/6 |
-| 🇩🇪 آلمان · T1JF | VLESS | 12 ms (🇫🇷 فرانسه) | 6/6 |
-| 🇩🇪 آلمان · 05NA | Hysteria2 | 12 ms (🇫🇷 فرانسه) | 6/6 |
+| 🇩🇪 آلمان · DJM5 | VLESS | 12 ms (🇫🇷 فرانسه) | 7/7 |
+| 🇩🇪 آلمان · 6H2K | VLESS | 13 ms (🇫🇷 فرانسه) | 7/7 |
+| 🇩🇪 آلمان · QHFY | VLESS | 13 ms (🇫🇷 فرانسه) | 7/7 |
+| 🇩🇪 آلمان · HJWC | VLESS | 13 ms (🇫🇷 فرانسه) | 7/7 |
+| 🇩🇪 آلمان · FG64 | Shadowsocks | 13 ms (🇫🇷 فرانسه) | 7/7 |
 

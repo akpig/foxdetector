@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-21 05:09:55 UTC
+**Latest completed test** · 2026-11-21 11:18:14 UTC
 
-**Passed nodes** · 1128
+**Passed nodes** · 864
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
 
@@ -15,62 +15,58 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇩🇪 Germany | 188 |
-| 🇺🇸 United States | 160 |
 | 🇯🇵 Japan | 134 |
-| 🇳🇱 Netherlands | 133 |
-| 🇨🇦 Canada | 68 |
-| 🇸🇬 Singapore | 52 |
-| 🇫🇷 France | 45 |
+| 🇺🇸 United States | 133 |
+| 🇳🇱 Netherlands | 127 |
+| 🇩🇪 Germany | 125 |
 | 🇫🇮 Finland | 42 |
-| 🇬🇧 United Kingdom | 34 |
-| 🇵🇱 Poland | 27 |
-| 🇮🇪 Ireland | 23 |
-| 🇭🇰 Hong Kong SAR China | 21 |
-| 🇮🇶 Iraq | 21 |
-| 🇸🇪 Sweden | 20 |
+| 🇸🇬 Singapore | 38 |
+| 🇬🇧 United Kingdom | 31 |
+| 🇫🇷 France | 26 |
+| 🇭🇰 Hong Kong SAR China | 23 |
+| 🇵🇱 Poland | 20 |
 | 🇪🇸 Spain | 19 |
-| 🇷🇺 Russia | 17 |
+| 🇸🇪 Sweden | 14 |
+| 🇷🇺 Russia | 13 |
+| 🇨🇦 Canada | 10 |
 | 🇨🇭 Switzerland | 10 |
-| 🇨🇿 Czechia | 10 |
 | 🇧🇾 Belarus | 9 |
-| 🇳🇴 Norway | 8 |
+| 🇨🇿 Czechia | 9 |
+| 🇰🇷 South Korea | 8 |
 | 🇮🇷 Iran | 7 |
-| 🇰🇷 South Korea | 6 |
+| 🇮🇹 Italy | 6 |
 | 🇰🇿 Kazakhstan | 6 |
-| 🇪🇪 Estonia | 5 |
-| 🇱🇹 Lithuania | 5 |
-| 🇱🇻 Latvia | 5 |
 | 🇺🇦 Ukraine | 5 |
 | 🇻🇳 Vietnam | 5 |
 | 🇦🇪 United Arab Emirates | 4 |
-| 🇦🇺 Australia | 4 |
+| 🇪🇪 Estonia | 4 |
+| 🇱🇻 Latvia | 4 |
 | 🇹🇷 Turkey | 4 |
-| 🇧🇪 Belgium | 3 |
-| 🇮🇹 Italy | 3 |
+| 🇦🇺 Australia | 3 |
 | 🇵🇹 Portugal | 3 |
-| 🇷🇴 Romania | 3 |
 | 🇹🇼 Taiwan | 3 |
+| 🇦🇱 Albania | 2 |
 | 🇧🇬 Bulgaria | 2 |
-| 🇧🇷 Brazil | 2 |
 | 🇬🇷 Greece | 2 |
-| 🇵🇫 French Polynesia | 2 |
-| 🇦🇱 Albania | 1 |
-| 🇦🇲 Armenia | 1 |
-| 🇦🇹 Austria | 1 |
+| 🇱🇹 Lithuania | 2 |
+| 🇻🇮 U.S. Virgin Islands | 2 |
+| 🇨🇴 Colombia | 1 |
 | 🇨🇾 Cyprus | 1 |
 | 🇩🇰 Denmark | 1 |
+| 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
+| 🇲🇽 Mexico | 1 |
 | 🇵🇦 Panama | 1 |
+| 🇷🇴 Romania | 1 |
 | 🇸🇦 Saudi Arabia | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · HG00 | 🇫🇷 France | 4 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · GH1Q | 🇫🇷 France | 4 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · 5HAV | 🇫🇷 France | 4 ms (🇫🇷 France) | 6/6 |
-| 🇫🇷 France · Q9TX | 🇫🇷 France | 4 ms (🇫🇷 France) | 6/6 |
-| 🇷🇺 Russia · 0WZD | 🇷🇺 Russia | 5 ms (🇫🇷 France) | 6/6 |
+| 🇫🇷 France · 56WJ | 🇫🇷 France | 4 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · F68E | 🇫🇷 France | 4 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · JMAP | 🇫🇷 France | 4 ms (🇫🇷 France) | 7/7 |
+| 🇷🇺 Russia · J7NE | 🇷🇺 Russia | 6 ms (🇫🇷 France) | 7/7 |
+| 🇫🇷 France · 4GE8 | 🇫🇷 France | 6 ms (🇫🇷 France) | 7/7 |
 

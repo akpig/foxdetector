@@ -11,10 +11,10 @@ FoxDetector herkese açık olarak paylaşılan proxy düğümlerini toplar ve ç
 
 ## En güncel veriler
 
-**Son testin tamamlanma zamanı** · 2026-11-21 05:09:55 UTC
+**Son testin tamamlanma zamanı** · 2026-11-21 11:18:14 UTC
 
-**Testi geçen düğümler** · 5555  
-**Çıkış konumları** · 56  
+**Testi geçen düğümler** · 5583  
+**Çıkış konumları** · 55  
 **Protokoller** · 6  
 **Önerilen düğümler** · 500
 
@@ -22,11 +22,11 @@ FoxDetector herkese açık olarak paylaşılan proxy düğümlerini toplar ve ç
 
 | Sıra | Düğüm | Çıkış konumu | Protokol | Gecikme ve test konumu | Art arda başarılı testler | Son test sonuçları |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 Amerika Birleşik Devletleri · V6VD | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 85 ms (🇫🇷 Fransa) | 6 | 6/6 |
-| 6 | 🇺🇸 Amerika Birleşik Devletleri · RD3F | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 111 ms (🇫🇷 Fransa) | 6 | 6/6 |
-| 8 | 🇫🇷 Fransa · QFEJ | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 6 | 6/6 |
-| 9 | 🇫🇷 Fransa · PXBS | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 6 | 6/6 |
-| 11 | 🇸🇪 İsveç · 566F | 🇸🇪 İsveç | Shadowsocks | 42 ms (🇫🇷 Fransa) | 6 | 6/6 |
+| 1 | 🇩🇪 Almanya · BQHT | 🇩🇪 Almanya | Shadowsocks | 14 ms (🇫🇷 Fransa) | 7 | 7/7 |
+| 3 | 🇺🇸 Amerika Birleşik Devletleri · FQ4M | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 115 ms (🇫🇷 Fransa) | 7 | 7/7 |
+| 4 | 🇫🇷 Fransa · HTHS | 🇫🇷 Fransa | VLESS | 12 ms (🇫🇷 Fransa) | 7 | 7/7 |
+| 5 | 🇫🇷 Fransa · QFEJ | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 7 | 7/7 |
+| 6 | 🇫🇷 Fransa · PXBS | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 7 | 7/7 |
 
 [Sıralama önizlemesine göz at](top500.md) · [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

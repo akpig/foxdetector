@@ -5,66 +5,65 @@
 
 [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-21 05:09:55 UTC
+**直近の検証完了時刻** · 2026-11-21 11:18:14 UTC
 
 [国・地域 · FoxDetector を開く](https://www.foxdetector.com/ja/country/?utm_campaign=repository&utm_content=countries&utm_medium=referral&utm_source=github)
 
 | 出口拠点 | 検証に合格したノード | プロトコル |
 | --- | --- | --- |
-| [🇺🇸 アメリカ合衆国](united-states.md) | 2230 | 6 |
-| [🇩🇪 ドイツ](germany.md) | 394 | 5 |
-| [🇨🇦 カナダ](canada.md) | 350 | 4 |
-| [🇳🇱 オランダ](https://www.foxdetector.com/ja/country/netherlands/?utm_campaign=repository&utm_content=country_netherlands&utm_medium=referral&utm_source=github) | 331 | 5 |
-| [🇯🇵 日本](https://www.foxdetector.com/ja/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github) | 315 | 5 |
-| [🇸🇬 シンガポール](https://www.foxdetector.com/ja/country/singapore/?utm_campaign=repository&utm_content=country_singapore&utm_medium=referral&utm_source=github) | 207 | 5 |
-| [🇫🇷 フランス](https://www.foxdetector.com/ja/country/france/?utm_campaign=repository&utm_content=country_france&utm_medium=referral&utm_source=github) | 206 | 4 |
-| [🇬🇧 イギリス](https://www.foxdetector.com/ja/country/united-kingdom/?utm_campaign=repository&utm_content=country_united-kingdom&utm_medium=referral&utm_source=github) | 186 | 4 |
-| [🇭🇰 中華人民共和国香港特別行政区](https://www.foxdetector.com/ja/country/hong-kong-sar-china/?utm_campaign=repository&utm_content=country_hong-kong-sar-china&utm_medium=referral&utm_source=github) | 177 | 5 |
-| [🇮🇳 インド](https://www.foxdetector.com/ja/country/india/?utm_campaign=repository&utm_content=country_india&utm_medium=referral&utm_source=github) | 116 | 3 |
-| [🇪🇸 スペイン](https://www.foxdetector.com/ja/country/spain/?utm_campaign=repository&utm_content=country_spain&utm_medium=referral&utm_source=github) | 106 | 3 |
-| [🇨🇭 スイス](https://www.foxdetector.com/ja/country/switzerland/?utm_campaign=repository&utm_content=country_switzerland&utm_medium=referral&utm_source=github) | 81 | 4 |
-| [🇦🇹 オーストリア](https://www.foxdetector.com/ja/country/austria/?utm_campaign=repository&utm_content=country_austria&utm_medium=referral&utm_source=github) | 77 | 3 |
-| [🇰🇷 韓国](https://www.foxdetector.com/ja/country/south-korea/?utm_campaign=repository&utm_content=country_south-korea&utm_medium=referral&utm_source=github) | 75 | 5 |
-| [🇸🇪 スウェーデン](https://www.foxdetector.com/ja/country/sweden/?utm_campaign=repository&utm_content=country_sweden&utm_medium=referral&utm_source=github) | 75 | 5 |
-| [🇰🇿 カザフスタン](https://www.foxdetector.com/ja/country/kazakhstan/?utm_campaign=repository&utm_content=country_kazakhstan&utm_medium=referral&utm_source=github) | 72 | 2 |
-| [🇵🇱 ポーランド](https://www.foxdetector.com/ja/country/poland/?utm_campaign=repository&utm_content=country_poland&utm_medium=referral&utm_source=github) | 72 | 4 |
-| [🇮🇹 イタリア](https://www.foxdetector.com/ja/country/italy/?utm_campaign=repository&utm_content=country_italy&utm_medium=referral&utm_source=github) | 61 | 2 |
-| [🇧🇷 ブラジル](https://www.foxdetector.com/ja/country/brazil/?utm_campaign=repository&utm_content=country_brazil&utm_medium=referral&utm_source=github) | 55 | 4 |
-| [🇫🇮 フィンランド](https://www.foxdetector.com/ja/country/finland/?utm_campaign=repository&utm_content=country_finland&utm_medium=referral&utm_source=github) | 54 | 3 |
-| [🇮🇪 アイルランド](https://www.foxdetector.com/ja/country/ireland/?utm_campaign=repository&utm_content=country_ireland&utm_medium=referral&utm_source=github) | 28 | 2 |
-| [🇳🇬 ナイジェリア](https://www.foxdetector.com/ja/country/nigeria/?utm_campaign=repository&utm_content=country_nigeria&utm_medium=referral&utm_source=github) | 24 | 1 |
-| [🇷🇺 ロシア](https://www.foxdetector.com/ja/country/russia/?utm_campaign=repository&utm_content=country_russia&utm_medium=referral&utm_source=github) | 23 | 3 |
-| [🇹🇼 台湾](https://www.foxdetector.com/ja/country/taiwan/?utm_campaign=repository&utm_content=country_taiwan&utm_medium=referral&utm_source=github) | 23 | 3 |
-| [🇮🇶 イラク](https://www.foxdetector.com/ja/country/iraq/?utm_campaign=repository&utm_content=country_iraq&utm_medium=referral&utm_source=github) | 21 | 1 |
-| [🇦🇱 アルバニア](https://www.foxdetector.com/ja/country/albania/?utm_campaign=repository&utm_content=country_albania&utm_medium=referral&utm_source=github) | 17 | 2 |
-| [🇲🇾 マレーシア](https://www.foxdetector.com/ja/country/malaysia/?utm_campaign=repository&utm_content=country_malaysia&utm_medium=referral&utm_source=github) | 15 | 2 |
-| [🇱🇻 ラトビア](https://www.foxdetector.com/ja/country/latvia/?utm_campaign=repository&utm_content=country_latvia&utm_medium=referral&utm_source=github) | 14 | 2 |
-| [🇦🇪 アラブ首長国連邦](https://www.foxdetector.com/ja/country/united-arab-emirates/?utm_campaign=repository&utm_content=country_united-arab-emirates&utm_medium=referral&utm_source=github) | 14 | 2 |
+| [🇺🇸 アメリカ合衆国](united-states.md) | 2334 | 6 |
+| [🇯🇵 日本](japan.md) | 355 | 5 |
+| [🇩🇪 ドイツ](germany.md) | 344 | 5 |
+| [🇳🇱 オランダ](https://www.foxdetector.com/ja/country/netherlands/?utm_campaign=repository&utm_content=country_netherlands&utm_medium=referral&utm_source=github) | 336 | 5 |
+| [🇨🇦 カナダ](https://www.foxdetector.com/ja/country/canada/?utm_campaign=repository&utm_content=country_canada&utm_medium=referral&utm_source=github) | 311 | 4 |
+| [🇸🇬 シンガポール](https://www.foxdetector.com/ja/country/singapore/?utm_campaign=repository&utm_content=country_singapore&utm_medium=referral&utm_source=github) | 209 | 5 |
+| [🇫🇷 フランス](https://www.foxdetector.com/ja/country/france/?utm_campaign=repository&utm_content=country_france&utm_medium=referral&utm_source=github) | 203 | 4 |
+| [🇬🇧 イギリス](https://www.foxdetector.com/ja/country/united-kingdom/?utm_campaign=repository&utm_content=country_united-kingdom&utm_medium=referral&utm_source=github) | 189 | 4 |
+| [🇭🇰 中華人民共和国香港特別行政区](https://www.foxdetector.com/ja/country/hong-kong-sar-china/?utm_campaign=repository&utm_content=country_hong-kong-sar-china&utm_medium=referral&utm_source=github) | 172 | 5 |
+| [🇮🇳 インド](https://www.foxdetector.com/ja/country/india/?utm_campaign=repository&utm_content=country_india&utm_medium=referral&utm_source=github) | 118 | 3 |
+| [🇪🇸 スペイン](https://www.foxdetector.com/ja/country/spain/?utm_campaign=repository&utm_content=country_spain&utm_medium=referral&utm_source=github) | 105 | 3 |
+| [🇨🇭 スイス](https://www.foxdetector.com/ja/country/switzerland/?utm_campaign=repository&utm_content=country_switzerland&utm_medium=referral&utm_source=github) | 95 | 4 |
+| [🇦🇹 オーストリア](https://www.foxdetector.com/ja/country/austria/?utm_campaign=repository&utm_content=country_austria&utm_medium=referral&utm_source=github) | 86 | 2 |
+| [🇰🇷 韓国](https://www.foxdetector.com/ja/country/south-korea/?utm_campaign=repository&utm_content=country_south-korea&utm_medium=referral&utm_source=github) | 77 | 5 |
+| [🇮🇹 イタリア](https://www.foxdetector.com/ja/country/italy/?utm_campaign=repository&utm_content=country_italy&utm_medium=referral&utm_source=github) | 72 | 2 |
+| [🇰🇿 カザフスタン](https://www.foxdetector.com/ja/country/kazakhstan/?utm_campaign=repository&utm_content=country_kazakhstan&utm_medium=referral&utm_source=github) | 71 | 2 |
+| [🇸🇪 スウェーデン](https://www.foxdetector.com/ja/country/sweden/?utm_campaign=repository&utm_content=country_sweden&utm_medium=referral&utm_source=github) | 71 | 5 |
+| [🇵🇱 ポーランド](https://www.foxdetector.com/ja/country/poland/?utm_campaign=repository&utm_content=country_poland&utm_medium=referral&utm_source=github) | 63 | 4 |
+| [🇫🇮 フィンランド](https://www.foxdetector.com/ja/country/finland/?utm_campaign=repository&utm_content=country_finland&utm_medium=referral&utm_source=github) | 57 | 3 |
+| [🇧🇷 ブラジル](https://www.foxdetector.com/ja/country/brazil/?utm_campaign=repository&utm_content=country_brazil&utm_medium=referral&utm_source=github) | 55 | 3 |
+| [🇹🇼 台湾](https://www.foxdetector.com/ja/country/taiwan/?utm_campaign=repository&utm_content=country_taiwan&utm_medium=referral&utm_source=github) | 30 | 4 |
+| [🇳🇬 ナイジェリア](https://www.foxdetector.com/ja/country/nigeria/?utm_campaign=repository&utm_content=country_nigeria&utm_medium=referral&utm_source=github) | 22 | 1 |
+| [🇦🇱 アルバニア](https://www.foxdetector.com/ja/country/albania/?utm_campaign=repository&utm_content=country_albania&utm_medium=referral&utm_source=github) | 21 | 2 |
+| [🇷🇺 ロシア](https://www.foxdetector.com/ja/country/russia/?utm_campaign=repository&utm_content=country_russia&utm_medium=referral&utm_source=github) | 21 | 3 |
+| [🇲🇾 マレーシア](https://www.foxdetector.com/ja/country/malaysia/?utm_campaign=repository&utm_content=country_malaysia&utm_medium=referral&utm_source=github) | 20 | 2 |
+| [🇦🇪 アラブ首長国連邦](https://www.foxdetector.com/ja/country/united-arab-emirates/?utm_campaign=repository&utm_content=country_united-arab-emirates&utm_medium=referral&utm_source=github) | 14 | 3 |
 | [🇧🇬 ブルガリア](https://www.foxdetector.com/ja/country/bulgaria/?utm_campaign=repository&utm_content=country_bulgaria&utm_medium=referral&utm_source=github) | 13 | 3 |
-| [🇱🇹 リトアニア](https://www.foxdetector.com/ja/country/lithuania/?utm_campaign=repository&utm_content=country_lithuania&utm_medium=referral&utm_source=github) | 13 | 2 |
-| [🇹🇷 トルコ](https://www.foxdetector.com/ja/country/turkey/?utm_campaign=repository&utm_content=country_turkey&utm_medium=referral&utm_source=github) | 12 | 2 |
+| [🇱🇻 ラトビア](https://www.foxdetector.com/ja/country/latvia/?utm_campaign=repository&utm_content=country_latvia&utm_medium=referral&utm_source=github) | 13 | 2 |
 | [🇧🇾 ベラルーシ](https://www.foxdetector.com/ja/country/belarus/?utm_campaign=repository&utm_content=country_belarus&utm_medium=referral&utm_source=github) | 11 | 2 |
-| [🇦🇺 オーストラリア](https://www.foxdetector.com/ja/country/australia/?utm_campaign=repository&utm_content=country_australia&utm_medium=referral&utm_source=github) | 10 | 3 |
-| [🇨🇿 チェコ](https://www.foxdetector.com/ja/country/czechia/?utm_campaign=repository&utm_content=country_czechia&utm_medium=referral&utm_source=github) | 10 | 1 |
-| [🇳🇴 ノルウェー](https://www.foxdetector.com/ja/country/norway/?utm_campaign=repository&utm_content=country_norway&utm_medium=referral&utm_source=github) | 10 | 2 |
+| [🇱🇹 リトアニア](https://www.foxdetector.com/ja/country/lithuania/?utm_campaign=repository&utm_content=country_lithuania&utm_medium=referral&utm_source=github) | 11 | 2 |
+| [🇨🇿 チェコ](https://www.foxdetector.com/ja/country/czechia/?utm_campaign=repository&utm_content=country_czechia&utm_medium=referral&utm_source=github) | 9 | 1 |
+| [🇦🇺 オーストラリア](https://www.foxdetector.com/ja/country/australia/?utm_campaign=repository&utm_content=country_australia&utm_medium=referral&utm_source=github) | 8 | 3 |
 | [🇮🇷 イラン](https://www.foxdetector.com/ja/country/iran/?utm_campaign=repository&utm_content=country_iran&utm_medium=referral&utm_source=github) | 7 | 1 |
-| [🇪🇪 エストニア](https://www.foxdetector.com/ja/country/estonia/?utm_campaign=repository&utm_content=country_estonia&utm_medium=referral&utm_source=github) | 6 | 2 |
+| [🇮🇪 アイルランド](https://www.foxdetector.com/ja/country/ireland/?utm_campaign=repository&utm_content=country_ireland&utm_medium=referral&utm_source=github) | 7 | 2 |
+| [🇪🇪 エストニア](https://www.foxdetector.com/ja/country/estonia/?utm_campaign=repository&utm_content=country_estonia&utm_medium=referral&utm_source=github) | 5 | 2 |
 | [🇺🇦 ウクライナ](https://www.foxdetector.com/ja/country/ukraine/?utm_campaign=repository&utm_content=country_ukraine&utm_medium=referral&utm_source=github) | 5 | 1 |
 | [🇻🇳 ベトナム](https://www.foxdetector.com/ja/country/vietnam/?utm_campaign=repository&utm_content=country_vietnam&utm_medium=referral&utm_source=github) | 5 | 1 |
 | [🇨🇳 中国](https://www.foxdetector.com/ja/country/china/?utm_campaign=repository&utm_content=country_china&utm_medium=referral&utm_source=github) | 4 | 1 |
-| [🇷🇴 ルーマニア](https://www.foxdetector.com/ja/country/romania/?utm_campaign=repository&utm_content=country_romania&utm_medium=referral&utm_source=github) | 4 | 2 |
+| [🇿🇦 南アフリカ](https://www.foxdetector.com/ja/country/south-africa/?utm_campaign=repository&utm_content=country_south-africa&utm_medium=referral&utm_source=github) | 4 | 2 |
 | [🇹🇭 タイ](https://www.foxdetector.com/ja/country/thailand/?utm_campaign=repository&utm_content=country_thailand&utm_medium=referral&utm_source=github) | 4 | 1 |
-| [🇧🇪 ベルギー](https://www.foxdetector.com/ja/country/belgium/?utm_campaign=repository&utm_content=country_belgium&utm_medium=referral&utm_source=github) | 3 | 1 |
+| [🇹🇷 トルコ](https://www.foxdetector.com/ja/country/turkey/?utm_campaign=repository&utm_content=country_turkey&utm_medium=referral&utm_source=github) | 4 | 1 |
 | [🇵🇹 ポルトガル](https://www.foxdetector.com/ja/country/portugal/?utm_campaign=repository&utm_content=country_portugal&utm_medium=referral&utm_source=github) | 3 | 1 |
-| [🇿🇦 南アフリカ](https://www.foxdetector.com/ja/country/south-africa/?utm_campaign=repository&utm_content=country_south-africa&utm_medium=referral&utm_source=github) | 3 | 2 |
 | [🇨🇱 チリ](https://www.foxdetector.com/ja/country/chile/?utm_campaign=repository&utm_content=country_chile&utm_medium=referral&utm_source=github) | 2 | 1 |
-| [🇵🇫 仏領ポリネシア](https://www.foxdetector.com/ja/country/french-polynesia/?utm_campaign=repository&utm_content=country_french-polynesia&utm_medium=referral&utm_source=github) | 2 | 1 |
+| [🇩🇰 デンマーク](https://www.foxdetector.com/ja/country/denmark/?utm_campaign=repository&utm_content=country_denmark&utm_medium=referral&utm_source=github) | 2 | 2 |
 | [🇬🇷 ギリシャ](https://www.foxdetector.com/ja/country/greece/?utm_campaign=repository&utm_content=country_greece&utm_medium=referral&utm_source=github) | 2 | 1 |
-| [🇦🇲 アルメニア](https://www.foxdetector.com/ja/country/armenia/?utm_campaign=repository&utm_content=country_armenia&utm_medium=referral&utm_source=github) | 1 | 1 |
+| [🇳🇴 ノルウェー](https://www.foxdetector.com/ja/country/norway/?utm_campaign=repository&utm_content=country_norway&utm_medium=referral&utm_source=github) | 2 | 1 |
+| [🇷🇴 ルーマニア](https://www.foxdetector.com/ja/country/romania/?utm_campaign=repository&utm_content=country_romania&utm_medium=referral&utm_source=github) | 2 | 2 |
+| [🇻🇮 米領ヴァージン諸島](https://www.foxdetector.com/ja/country/u-s-virgin-islands/?utm_campaign=repository&utm_content=country_u-s-virgin-islands&utm_medium=referral&utm_source=github) | 2 | 1 |
+| [🇨🇴 コロンビア](https://www.foxdetector.com/ja/country/colombia/?utm_campaign=repository&utm_content=country_colombia&utm_medium=referral&utm_source=github) | 1 | 1 |
 | [🇨🇾 キプロス](https://www.foxdetector.com/ja/country/cyprus/?utm_campaign=repository&utm_content=country_cyprus&utm_medium=referral&utm_source=github) | 1 | 1 |
-| [🇩🇰 デンマーク](https://www.foxdetector.com/ja/country/denmark/?utm_campaign=repository&utm_content=country_denmark&utm_medium=referral&utm_source=github) | 1 | 1 |
+| [🇮🇩 インドネシア](https://www.foxdetector.com/ja/country/indonesia/?utm_campaign=repository&utm_content=country_indonesia&utm_medium=referral&utm_source=github) | 1 | 1 |
 | [🇮🇱 イスラエル](https://www.foxdetector.com/ja/country/israel/?utm_campaign=repository&utm_content=country_israel&utm_medium=referral&utm_source=github) | 1 | 1 |
+| [🇲🇽 メキシコ](https://www.foxdetector.com/ja/country/mexico/?utm_campaign=repository&utm_content=country_mexico&utm_medium=referral&utm_source=github) | 1 | 1 |
 | [🇵🇦 パナマ](https://www.foxdetector.com/ja/country/panama/?utm_campaign=repository&utm_content=country_panama&utm_medium=referral&utm_source=github) | 1 | 1 |
-| [🇵🇪 ペルー](https://www.foxdetector.com/ja/country/peru/?utm_campaign=repository&utm_content=country_peru&utm_medium=referral&utm_source=github) | 1 | 1 |
 | [🇸🇦 サウジアラビア](https://www.foxdetector.com/ja/country/saudi-arabia/?utm_campaign=repository&utm_content=country_saudi-arabia&utm_medium=referral&utm_source=github) | 1 | 1 |
 
