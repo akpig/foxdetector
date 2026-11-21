@@ -1,7 +1,7 @@
 # 🇩🇪 ألمانيا
 
 **اللغات**  
-[English](../../countries/de.md) · **العربية** · [简体中文](../../zh-cn/countries/de.md) · [繁體中文](../../zh-hant/countries/de.md) · [日本語](../../ja/countries/de.md) · [فارسی](../../fa-ir/countries/de.md) · [Русский](../../ru-ru/countries/de.md) · [Türkçe](../../tr-tr/countries/de.md) · [اردو](../../ur-pk/countries/de.md) · [Tiếng Việt](../../vi-vn/countries/de.md)
+[English](../../countries/germany.md) · **العربية** · [简体中文](../../zh-cn/countries/germany.md) · [繁體中文](../../zh-hant/countries/germany.md) · [日本語](../../ja/countries/germany.md) · [فارسی](../../fa-ir/countries/germany.md) · [Русский](../../ru-ru/countries/germany.md) · [Türkçe](../../tr-tr/countries/germany.md) · [اردو](../../ur-pk/countries/germany.md) · [Tiếng Việt](../../vi-vn/countries/germany.md)
 
 [البلدان والمناطق](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **العُقد التي اجتازت الاختبار** · 394
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

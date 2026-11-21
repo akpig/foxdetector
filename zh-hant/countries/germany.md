@@ -1,7 +1,7 @@
 # 🇩🇪 德國
 
 **語言**  
-[English](../../countries/de.md) · [العربية](../../ar/countries/de.md) · [简体中文](../../zh-cn/countries/de.md) · **繁體中文** · [日本語](../../ja/countries/de.md) · [فارسی](../../fa-ir/countries/de.md) · [Русский](../../ru-ru/countries/de.md) · [Türkçe](../../tr-tr/countries/de.md) · [اردو](../../ur-pk/countries/de.md) · [Tiếng Việt](../../vi-vn/countries/de.md)
+[English](../../countries/germany.md) · [العربية](../../ar/countries/germany.md) · [简体中文](../../zh-cn/countries/germany.md) · **繁體中文** · [日本語](../../ja/countries/germany.md) · [فارسی](../../fa-ir/countries/germany.md) · [Русский](../../ru-ru/countries/germany.md) · [Türkçe](../../tr-tr/countries/germany.md) · [اردو](../../ur-pk/countries/germany.md) · [Tiếng Việt](../../vi-vn/countries/germany.md)
 
 [國家和地區](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **通過節點** · 394
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## 通訊協定
 

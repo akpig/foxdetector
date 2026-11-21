@@ -1,7 +1,7 @@
 # 🇨🇦 加拿大
 
 **語言**  
-[English](../../countries/ca.md) · [العربية](../../ar/countries/ca.md) · [简体中文](../../zh-cn/countries/ca.md) · **繁體中文** · [日本語](../../ja/countries/ca.md) · [فارسی](../../fa-ir/countries/ca.md) · [Русский](../../ru-ru/countries/ca.md) · [Türkçe](../../tr-tr/countries/ca.md) · [اردو](../../ur-pk/countries/ca.md) · [Tiếng Việt](../../vi-vn/countries/ca.md)
+[English](../../countries/canada.md) · [العربية](../../ar/countries/canada.md) · [简体中文](../../zh-cn/countries/canada.md) · **繁體中文** · [日本語](../../ja/countries/canada.md) · [فارسی](../../fa-ir/countries/canada.md) · [Русский](../../ru-ru/countries/canada.md) · [Türkçe](../../tr-tr/countries/canada.md) · [اردو](../../ur-pk/countries/canada.md) · [Tiếng Việt](../../vi-vn/countries/canada.md)
 
 [國家和地區](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **通過節點** · 350
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/ca/?utm_campaign=repository&utm_content=country_ca&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/canada/?utm_campaign=repository&utm_content=country_canada&utm_medium=referral&utm_source=github)
 
 ## 通訊協定
 

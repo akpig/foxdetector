@@ -1,7 +1,7 @@
 # 🇩🇪 جرمنی
 
 **زبانیں**  
-[English](../../countries/de.md) · [العربية](../../ar/countries/de.md) · [简体中文](../../zh-cn/countries/de.md) · [繁體中文](../../zh-hant/countries/de.md) · [日本語](../../ja/countries/de.md) · [فارسی](../../fa-ir/countries/de.md) · [Русский](../../ru-ru/countries/de.md) · [Türkçe](../../tr-tr/countries/de.md) · **اردو** · [Tiếng Việt](../../vi-vn/countries/de.md)
+[English](../../countries/germany.md) · [العربية](../../ar/countries/germany.md) · [简体中文](../../zh-cn/countries/germany.md) · [繁體中文](../../zh-hant/countries/germany.md) · [日本語](../../ja/countries/germany.md) · [فارسی](../../fa-ir/countries/germany.md) · [Русский](../../ru-ru/countries/germany.md) · [Türkçe](../../tr-tr/countries/germany.md) · **اردو** · [Tiếng Việt](../../vi-vn/countries/germany.md)
 
 [ممالک اور علاقے](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **جانچ میں کامیاب نوڈز** · 394
 
-[تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## پروٹوکولز
 

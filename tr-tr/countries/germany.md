@@ -1,7 +1,7 @@
 # 🇩🇪 Almanya
 
 **Diller**  
-[English](../../countries/de.md) · [العربية](../../ar/countries/de.md) · [简体中文](../../zh-cn/countries/de.md) · [繁體中文](../../zh-hant/countries/de.md) · [日本語](../../ja/countries/de.md) · [فارسی](../../fa-ir/countries/de.md) · [Русский](../../ru-ru/countries/de.md) · **Türkçe** · [اردو](../../ur-pk/countries/de.md) · [Tiếng Việt](../../vi-vn/countries/de.md)
+[English](../../countries/germany.md) · [العربية](../../ar/countries/germany.md) · [简体中文](../../zh-cn/countries/germany.md) · [繁體中文](../../zh-hant/countries/germany.md) · [日本語](../../ja/countries/germany.md) · [فارسی](../../fa-ir/countries/germany.md) · [Русский](../../ru-ru/countries/germany.md) · **Türkçe** · [اردو](../../ur-pk/countries/germany.md) · [Tiếng Việt](../../vi-vn/countries/germany.md)
 
 [Ülkeler ve bölgeler](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **Testi geçen düğümler** · 394
 
-[Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## Protokoller
 

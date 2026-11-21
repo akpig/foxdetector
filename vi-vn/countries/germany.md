@@ -1,7 +1,7 @@
 # 🇩🇪 Đức
 
 **Ngôn ngữ**  
-[English](../../countries/de.md) · [العربية](../../ar/countries/de.md) · [简体中文](../../zh-cn/countries/de.md) · [繁體中文](../../zh-hant/countries/de.md) · [日本語](../../ja/countries/de.md) · [فارسی](../../fa-ir/countries/de.md) · [Русский](../../ru-ru/countries/de.md) · [Türkçe](../../tr-tr/countries/de.md) · [اردو](../../ur-pk/countries/de.md) · **Tiếng Việt**
+[English](../../countries/germany.md) · [العربية](../../ar/countries/germany.md) · [简体中文](../../zh-cn/countries/germany.md) · [繁體中文](../../zh-hant/countries/germany.md) · [日本語](../../ja/countries/germany.md) · [فارسی](../../fa-ir/countries/germany.md) · [Русский](../../ru-ru/countries/germany.md) · [Türkçe](../../tr-tr/countries/germany.md) · [اردو](../../ur-pk/countries/germany.md) · **Tiếng Việt**
 
 [Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **Nút đạt yêu cầu** · 394
 
-[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## Giao thức
 

@@ -1,7 +1,7 @@
 # 🇩🇪 Germany
 
 **Languages**  
-**English** · [العربية](../ar/countries/de.md) · [简体中文](../zh-cn/countries/de.md) · [繁體中文](../zh-hant/countries/de.md) · [日本語](../ja/countries/de.md) · [فارسی](../fa-ir/countries/de.md) · [Русский](../ru-ru/countries/de.md) · [Türkçe](../tr-tr/countries/de.md) · [اردو](../ur-pk/countries/de.md) · [Tiếng Việt](../vi-vn/countries/de.md)
+**English** · [العربية](../ar/countries/germany.md) · [简体中文](../zh-cn/countries/germany.md) · [繁體中文](../zh-hant/countries/germany.md) · [日本語](../ja/countries/germany.md) · [فارسی](../fa-ir/countries/germany.md) · [Русский](../ru-ru/countries/germany.md) · [Türkçe](../tr-tr/countries/germany.md) · [اردو](../ur-pk/countries/germany.md) · [Tiếng Việt](../vi-vn/countries/germany.md)
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
@@ -9,7 +9,7 @@
 
 **Passed nodes** · 394
 
-[See all passing nodes and import options](https://www.foxdetector.com/country/de/?utm_campaign=repository&utm_content=country_de&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
 ## Protocols
 
