@@ -22,9 +22,9 @@
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇳🇱 荷兰 · WN5C | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · SGYB | VLESS | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · XP4W | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · 9W3E | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · 1WC5 | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · WN5C | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · SGYB | VLESS | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · XP4W | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · 9W3E | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · 1WC5 | Shadowsocks | 12 ms (🇫🇷 France) | 5/5 |
 

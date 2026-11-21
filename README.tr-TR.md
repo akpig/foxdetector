@@ -24,11 +24,11 @@ Depodaki sıralama ve kategori sayfaları İngilizcedir.
 
 | Sıra | Düğüm | Çıkış konumu | Protokol | Gecikme ve test konumu | Art arda başarılı testler | Son test sonuçları |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 美国 · V6VD | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 85 ms (🇫🇷 Fransa) | 5 | 5/5 |
-| 2 | 🇺🇸 美国 · FQ4M | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 116 ms (🇫🇷 Fransa) | 5 | 5/5 |
-| 3 | 🇫🇷 法国 · 9HJD | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 5 | 5/5 |
-| 7 | 🇸🇪 瑞典 · BRVE | 🇸🇪 İsveç | VMess | 43 ms (🇫🇷 Fransa) | 5 | 5/5 |
-| 9 | 🇺🇸 美国 · DBHS | 🇺🇸 Amerika Birleşik Devletleri | VMess | 84 ms (🇫🇷 Fransa) | 5 | 5/5 |
+| 1 | 🇺🇸 Amerika Birleşik Devletleri · V6VD | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 85 ms (🇫🇷 Fransa) | 5 | 5/5 |
+| 2 | 🇺🇸 Amerika Birleşik Devletleri · FQ4M | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 116 ms (🇫🇷 Fransa) | 5 | 5/5 |
+| 3 | 🇫🇷 Fransa · 9HJD | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 5 | 5/5 |
+| 7 | 🇸🇪 İsveç · BRVE | 🇸🇪 İsveç | VMess | 43 ms (🇫🇷 Fransa) | 5 | 5/5 |
+| 9 | 🇺🇸 Amerika Birleşik Devletleri · DBHS | 🇺🇸 Amerika Birleşik Devletleri | VMess | 84 ms (🇫🇷 Fransa) | 5 | 5/5 |
 
 [Sıralama önizlemesine göz at](top500.md) · [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

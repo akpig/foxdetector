@@ -45,9 +45,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 法国 · BV01 | 🇫🇷 France | 9 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · 1V47 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · WN5C | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · XP4W | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
-| 🇳🇱 荷兰 · 9W3E | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · BV01 | 🇫🇷 France | 9 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · 1V47 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · WN5C | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · XP4W | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
+| 🇳🇱 Netherlands · 9W3E | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 5/5 |
 

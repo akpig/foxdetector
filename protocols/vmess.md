@@ -38,9 +38,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 法国 · 2X38 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · RNQ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · T6ZZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · 2X38 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · RNQ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · T6ZZ | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 5/5 |
 

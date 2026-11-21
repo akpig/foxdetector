@@ -22,11 +22,11 @@ FoxDetector aggregates publicly shared proxy nodes and tests their availability.
 
 | Rank | Node | Exit location | Protocol | Observed latency | Pass streak | Recent passes |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 美国 · V6VD | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 5 | 5/5 |
-| 2 | 🇺🇸 美国 · FQ4M | 🇺🇸 United States | Shadowsocks | 116 ms (🇫🇷 France) | 5 | 5/5 |
-| 3 | 🇫🇷 法国 · 9HJD | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 5 | 5/5 |
-| 7 | 🇸🇪 瑞典 · BRVE | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 5 | 5/5 |
-| 9 | 🇺🇸 美国 · DBHS | 🇺🇸 United States | VMess | 84 ms (🇫🇷 France) | 5 | 5/5 |
+| 1 | 🇺🇸 United States · V6VD | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 5 | 5/5 |
+| 2 | 🇺🇸 United States · FQ4M | 🇺🇸 United States | Shadowsocks | 116 ms (🇫🇷 France) | 5 | 5/5 |
+| 3 | 🇫🇷 France · 9HJD | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 5 | 5/5 |
+| 7 | 🇸🇪 Sweden · BRVE | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 5 | 5/5 |
+| 9 | 🇺🇸 United States · DBHS | 🇺🇸 United States | VMess | 84 ms (🇫🇷 France) | 5 | 5/5 |
 
 [Browse the ranking preview](top500.md) · [See the full ranking and import options](https://www.foxdetector.com/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

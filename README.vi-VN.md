@@ -24,11 +24,11 @@ Các trang xếp hạng và phân loại trong kho lưu trữ dùng tiếng Anh.
 
 | Hạng | Nút | Vị trí thoát | Giao thức | Độ trễ và nơi đo | Số lần đạt liên tiếp | Kết quả gần đây |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇺🇸 美国 · V6VD | 🇺🇸 Hoa Kỳ | Shadowsocks | 85 ms (🇫🇷 Pháp) | 5 | 5/5 |
-| 2 | 🇺🇸 美国 · FQ4M | 🇺🇸 Hoa Kỳ | Shadowsocks | 116 ms (🇫🇷 Pháp) | 5 | 5/5 |
-| 3 | 🇫🇷 法国 · 9HJD | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 5 | 5/5 |
-| 7 | 🇸🇪 瑞典 · BRVE | 🇸🇪 Thụy Điển | VMess | 43 ms (🇫🇷 Pháp) | 5 | 5/5 |
-| 9 | 🇺🇸 美国 · DBHS | 🇺🇸 Hoa Kỳ | VMess | 84 ms (🇫🇷 Pháp) | 5 | 5/5 |
+| 1 | 🇺🇸 Hoa Kỳ · V6VD | 🇺🇸 Hoa Kỳ | Shadowsocks | 85 ms (🇫🇷 Pháp) | 5 | 5/5 |
+| 2 | 🇺🇸 Hoa Kỳ · FQ4M | 🇺🇸 Hoa Kỳ | Shadowsocks | 116 ms (🇫🇷 Pháp) | 5 | 5/5 |
+| 3 | 🇫🇷 Pháp · 9HJD | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 5 | 5/5 |
+| 7 | 🇸🇪 Thụy Điển · BRVE | 🇸🇪 Thụy Điển | VMess | 43 ms (🇫🇷 Pháp) | 5 | 5/5 |
+| 9 | 🇺🇸 Hoa Kỳ · DBHS | 🇺🇸 Hoa Kỳ | VMess | 84 ms (🇫🇷 Pháp) | 5 | 5/5 |
 
 [Xem trước bảng xếp hạng](top500.md) · [Xem bảng xếp hạng đầy đủ và cách nhập vào ứng dụng](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
 

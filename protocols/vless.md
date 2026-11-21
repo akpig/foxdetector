@@ -63,9 +63,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 法国 · F68E | 🇫🇷 France | 3 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · JJNY | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · XM6T | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
-| 🇷🇺 俄罗斯 · 0WZD | 🇷🇺 Russia | 5 ms (🇫🇷 France) | 5/5 |
-| 🇫🇷 法国 · 2VKT | 🇫🇷 France | 5 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · F68E | 🇫🇷 France | 3 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · JJNY | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · XM6T | 🇫🇷 France | 4 ms (🇫🇷 France) | 5/5 |
+| 🇷🇺 Russia · 0WZD | 🇷🇺 Russia | 5 ms (🇫🇷 France) | 5/5 |
+| 🇫🇷 France · 2VKT | 🇫🇷 France | 5 ms (🇫🇷 France) | 5/5 |
 

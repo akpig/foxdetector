@@ -22,9 +22,9 @@
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇩🇪 德国 · HFCV | Hysteria2 | 11 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 德国 · 21NZ | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 德国 · ANXK | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 德国 · FJAX | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
-| 🇩🇪 德国 · G9Y8 | VLESS | 13 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · HFCV | Hysteria2 | 11 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · 21NZ | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · ANXK | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · FJAX | Hysteria2 | 12 ms (🇫🇷 France) | 5/5 |
+| 🇩🇪 Germany · G9Y8 | VLESS | 13 ms (🇫🇷 France) | 5/5 |
 
