@@ -9,7 +9,7 @@
 
 **العُقد التي اجتازت الاختبار** · 2621
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

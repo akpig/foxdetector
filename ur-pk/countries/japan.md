@@ -9,7 +9,7 @@
 
 **جانچ میں کامیاب نوڈز** · 374
 
-[تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## پروٹوکولز
 

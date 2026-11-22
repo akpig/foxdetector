@@ -9,7 +9,7 @@
 
 **Узлы, прошедшие проверку** · 980
 
-[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
+[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
 ## Места выхода
 

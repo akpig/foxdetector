@@ -9,7 +9,7 @@
 
 **العُقد التي اجتازت الاختبار** · 3310
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
 ## مواقع الخروج
 

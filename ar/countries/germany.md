@@ -9,7 +9,7 @@
 
 **العُقد التي اجتازت الاختبار** · 384
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

@@ -1,11 +1,13 @@
-# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector
+# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector · Ücretsiz Proxy Düğümü Abonelikleri
+
+FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder ve son dönemdeki kararlılıklarına göre sıralar. Ülke, bölge veya protokole göre göz atın ve Clash/Mihomo, sing-box ya da V2Ray aboneliği alın.
+
+**[İlk 500 düğümü görün ve abonelik alın](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
+
+[Ülkeler ve bölgeler](https://www.foxdetector.com/tr-tr/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [İstemci kurulum kılavuzu](https://www.foxdetector.com/tr-tr/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **Diller**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · **Türkçe** · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
-
-FoxDetector herkese açık olarak paylaşılan proxy düğümlerini toplar ve çalışıp çalışmadıklarını sınar. Sonuçlara çıkış konumuna veya protokole göre göz atabilir, son testlerdeki kararlılığı karşılaştırabilir ve istemciye aktarma seçeneklerini inceleyebilirsiniz.
-
-[FoxDetector’ı aç](https://www.foxdetector.com/tr-tr/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [Test yöntemi](https://www.foxdetector.com/tr-tr/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 
 [İlk 500](top500.md) · [Ülkeler ve bölgeler](countries/README.md) · [Protokoller](protocols/README.md)
 
@@ -28,5 +30,7 @@ FoxDetector herkese açık olarak paylaşılan proxy düğümlerini toplar ve ç
 | 9 | 🇺🇸 Amerika Birleşik Devletleri · 4JKV | 🇺🇸 Amerika Birleşik Devletleri | VMess | 116 ms (🇫🇷 Fransa) | 11 | 11/11 |
 | 11 | 🇸🇪 İsveç · GV8X | 🇸🇪 İsveç | VMess | 45 ms (🇫🇷 Fransa) | 11 | 11/11 |
 
-[Sıralama önizlemesine göz at](top500.md) · [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
+[Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Sıralama önizlemesine göz at](top500.md)
+
+[FoxDetector’ı aç](https://www.foxdetector.com/tr-tr/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [Test yöntemi](https://www.foxdetector.com/tr-tr/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 

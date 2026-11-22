@@ -9,12 +9,12 @@
 
 [プロトコル · FoxDetector を開く](https://www.foxdetector.com/ja/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
-| プロトコル | 検証に合格したノード | 出口拠点 |
-| --- | --- | --- |
-| [VMess](vmess.md) | 3310 | 21 |
-| [Shadowsocks](shadowsocks.md) | 1320 | 25 |
-| [VLESS](vless.md) | 980 | 52 |
-| [Trojan](https://www.foxdetector.com/ja/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 |
-| [Hysteria2](https://www.foxdetector.com/ja/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 |
-| [AnyTLS](https://www.foxdetector.com/ja/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
+| プロトコル | 検証に合格したノード | 出口拠点 | 検査サンプル |
+| --- | --- | --- | --- |
+| [VMess](https://www.foxdetector.com/ja/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3310 | 21 | [検査サンプル](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/ja/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1320 | 25 | [検査サンプル](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/ja/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 980 | 52 | [検査サンプル](vless.md) |
+| [Trojan](https://www.foxdetector.com/ja/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 | — |
+| [Hysteria2](https://www.foxdetector.com/ja/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 | — |
+| [AnyTLS](https://www.foxdetector.com/ja/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

@@ -9,7 +9,7 @@
 
 **Passed nodes** · 374
 
-[See all passing nodes and import options](https://www.foxdetector.com/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[See all passing nodes and import options](https://www.foxdetector.com/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## Protocols
 

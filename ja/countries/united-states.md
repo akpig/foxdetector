@@ -9,7 +9,7 @@
 
 **検証に合格したノード** · 2621
 
-[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
+[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## プロトコル
 

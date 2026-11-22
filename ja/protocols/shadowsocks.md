@@ -9,7 +9,7 @@
 
 **検証に合格したノード** · 1320
 
-[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
+[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
 ## 出口拠点
 

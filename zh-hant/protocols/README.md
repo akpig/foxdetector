@@ -9,12 +9,12 @@
 
 [通訊協定 · 開啟狐探](https://www.foxdetector.com/zh-hant/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
-| 通訊協定 | 通過節點 | 出口位置 |
-| --- | --- | --- |
-| [VMess](vmess.md) | 3310 | 21 |
-| [Shadowsocks](shadowsocks.md) | 1320 | 25 |
-| [VLESS](vless.md) | 980 | 52 |
-| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 |
-| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 |
-| [AnyTLS](https://www.foxdetector.com/zh-hant/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
+| 通訊協定 | 通過節點 | 出口位置 | 檢測樣本 |
+| --- | --- | --- | --- |
+| [VMess](https://www.foxdetector.com/zh-hant/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3310 | 21 | [檢測樣本](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/zh-hant/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1320 | 25 | [檢測樣本](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/zh-hant/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 980 | 52 | [檢測樣本](vless.md) |
+| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 | — |
+| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 | — |
+| [AnyTLS](https://www.foxdetector.com/zh-hant/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

@@ -9,7 +9,7 @@
 
 **Nút đạt yêu cầu** · 374
 
-[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## Giao thức
 

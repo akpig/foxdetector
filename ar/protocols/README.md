@@ -9,12 +9,12 @@
 
 [البروتوكولات · افتح FoxDetector](https://www.foxdetector.com/ar/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
-| البروتوكول | العُقد التي اجتازت الاختبار | مواقع الخروج |
-| --- | --- | --- |
-| [VMess](vmess.md) | 3310 | 21 |
-| [Shadowsocks](shadowsocks.md) | 1320 | 25 |
-| [VLESS](vless.md) | 980 | 52 |
-| [Trojan](https://www.foxdetector.com/ar/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 |
-| [Hysteria2](https://www.foxdetector.com/ar/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 |
-| [AnyTLS](https://www.foxdetector.com/ar/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
+| البروتوكول | العُقد التي اجتازت الاختبار | مواقع الخروج | عينة اختبار |
+| --- | --- | --- | --- |
+| [VMess](https://www.foxdetector.com/ar/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3310 | 21 | [عينة اختبار](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/ar/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1320 | 25 | [عينة اختبار](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/ar/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 980 | 52 | [عينة اختبار](vless.md) |
+| [Trojan](https://www.foxdetector.com/ar/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 | — |
+| [Hysteria2](https://www.foxdetector.com/ar/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 | — |
+| [AnyTLS](https://www.foxdetector.com/ar/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

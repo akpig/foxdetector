@@ -9,7 +9,7 @@
 
 **通過節點** · 384
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
 ## 通訊協定
 

@@ -9,7 +9,7 @@
 
 **通過節點** · 980
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
 ## 出口位置
 

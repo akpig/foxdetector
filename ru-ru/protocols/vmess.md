@@ -9,7 +9,7 @@
 
 **Узлы, прошедшие проверку** · 3310
 
-[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
+[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
 ## Места выхода
 

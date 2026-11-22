@@ -1,11 +1,13 @@
-# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector
+# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector · Бесплатные подписки на прокси-узлы
+
+FoxDetector проверяет общедоступные прокси-узлы с помощью Xray и sing-box и сортирует их по надёжности за последнее время. Выбирайте узлы по стране, региону или протоколу и получайте подписки для Clash/Mihomo, sing-box и V2Ray.
+
+**[Открыть топ-500 и получить подписку](https://www.foxdetector.com/ru-ru/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
+
+[Страны и регионы](https://www.foxdetector.com/ru-ru/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [Руководство по настройке клиентов](https://www.foxdetector.com/ru-ru/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **Языки**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · **Русский** · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
-
-FoxDetector собирает общедоступные прокси-узлы и проверяет их доступность. Просматривайте результаты по месту выхода или протоколу, сравнивайте стабильность по последним проверкам и узнавайте, как импортировать список в клиент.
-
-[Открыть FoxDetector](https://www.foxdetector.com/ru-ru/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [Как проходят проверки](https://www.foxdetector.com/ru-ru/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 
 [Топ-500](top500.md) · [Страны и регионы](countries/README.md) · [Протоколы](protocols/README.md)
 
@@ -28,5 +30,7 @@ FoxDetector собирает общедоступные прокси-узлы и
 | 9 | 🇺🇸 Соединенные Штаты · 4JKV | 🇺🇸 Соединенные Штаты | VMess | 116 ms (🇫🇷 Франция) | 11 | 11/11 |
 | 11 | 🇸🇪 Швеция · GV8X | 🇸🇪 Швеция | VMess | 45 ms (🇫🇷 Франция) | 11 | 11/11 |
 
-[Открыть предварительный список](top500.md) · [Посмотреть полный рейтинг и способы импорта](https://www.foxdetector.com/ru-ru/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
+[Посмотреть полный рейтинг и способы импорта](https://www.foxdetector.com/ru-ru/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Открыть предварительный список](top500.md)
+
+[Открыть FoxDetector](https://www.foxdetector.com/ru-ru/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [Как проходят проверки](https://www.foxdetector.com/ru-ru/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 

@@ -9,7 +9,7 @@
 
 **العُقد التي اجتازت الاختبار** · 374
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

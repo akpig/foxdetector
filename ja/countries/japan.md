@@ -9,7 +9,7 @@
 
 **検証に合格したノード** · 374
 
-[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## プロトコル
 

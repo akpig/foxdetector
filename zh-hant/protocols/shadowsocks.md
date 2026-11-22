@@ -9,7 +9,7 @@
 
 **通過節點** · 1320
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
 ## 出口位置
 

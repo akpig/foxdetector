@@ -9,12 +9,12 @@
 
 [Protokoller · FoxDetector’ı aç](https://www.foxdetector.com/tr-tr/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
-| Protokol | Testi geçen düğümler | Çıkış konumları |
-| --- | --- | --- |
-| [VMess](vmess.md) | 3310 | 21 |
-| [Shadowsocks](shadowsocks.md) | 1320 | 25 |
-| [VLESS](vless.md) | 980 | 52 |
-| [Trojan](https://www.foxdetector.com/tr-tr/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 |
-| [Hysteria2](https://www.foxdetector.com/tr-tr/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 |
-| [AnyTLS](https://www.foxdetector.com/tr-tr/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
+| Protokol | Testi geçen düğümler | Çıkış konumları | Test örneği |
+| --- | --- | --- | --- |
+| [VMess](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3310 | 21 | [Test örneği](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1320 | 25 | [Test örneği](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/tr-tr/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 980 | 52 | [Test örneği](vless.md) |
+| [Trojan](https://www.foxdetector.com/tr-tr/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 | — |
+| [Hysteria2](https://www.foxdetector.com/tr-tr/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 | — |
+| [AnyTLS](https://www.foxdetector.com/tr-tr/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

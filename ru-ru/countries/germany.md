@@ -9,7 +9,7 @@
 
 **Узлы, прошедшие проверку** · 384
 
-[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
+[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
 ## Протоколы
 

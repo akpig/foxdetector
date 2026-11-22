@@ -9,7 +9,7 @@
 
 **通过节点** · 2621
 
-[查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
+[查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## 协议
 

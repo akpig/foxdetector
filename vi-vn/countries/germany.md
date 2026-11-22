@@ -9,7 +9,7 @@
 
 **Nút đạt yêu cầu** · 384
 
-[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
+[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
 ## Giao thức
 

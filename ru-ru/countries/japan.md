@@ -9,7 +9,7 @@
 
 **Узлы, прошедшие проверку** · 374
 
-[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## Протоколы
 

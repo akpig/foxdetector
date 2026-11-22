@@ -9,7 +9,7 @@
 
 **通過節點** · 374
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
 ## 通訊協定
 

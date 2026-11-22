@@ -1,11 +1,13 @@
-# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector
+# <img src="../assets/foxdetector-logo.png" width="40" height="40" align="absmiddle" style="vertical-align: middle; transform: translateY(-0.06em);" alt=""> FoxDetector · اشتراک رایگان گره‌های پراکسی
+
+FoxDetector گره‌های پراکسی عمومی را با Xray و sing-box آزمایش می‌کند و بر اساس پایداری اخیر مرتب می‌کند. بر اساس کشور، منطقه یا پروتکل جست‌وجو کنید و اشتراک Clash/Mihomo، sing-box یا V2Ray را دریافت کنید.
+
+**[مشاهده ۵۰۰ گره برتر و دریافت اشتراک](https://www.foxdetector.com/fa-ir/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
+
+[کشورها و مناطق](https://www.foxdetector.com/fa-ir/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [راهنمای وارد کردن اشتراک](https://www.foxdetector.com/fa-ir/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **زبان‌ها**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · **فارسی** · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
-
-FoxDetector گره‌های پراکسی را که به‌صورت عمومی به اشتراک گذاشته شده‌اند جمع‌آوری می‌کند و در دسترس بودن آن‌ها را می‌سنجد. می‌توانید نتایج را بر اساس محل خروج یا پروتکل مرور کنید، پایداری اخیر را مقایسه کنید و روش افزودن گره‌ها به برنامهٔ خود را ببینید.
-
-[باز کردن FoxDetector](https://www.foxdetector.com/fa-ir/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [روش آزمایش](https://www.foxdetector.com/fa-ir/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 
 [۵۰۰ گره برتر](top500.md) · [کشورها و مناطق](countries/README.md) · [پروتکل‌ها](protocols/README.md)
 
@@ -28,5 +30,7 @@ FoxDetector گره‌های پراکسی را که به‌صورت عمومی ب
 | 9 | 🇺🇸 ایالات متحده · 4JKV | 🇺🇸 ایالات متحده | VMess | 116 ms (🇫🇷 فرانسه) | 11 | 11/11 |
 | 11 | 🇸🇪 سوئد · GV8X | 🇸🇪 سوئد | VMess | 45 ms (🇫🇷 فرانسه) | 11 | 11/11 |
 
-[دیدن پیش‌نمایش رتبه‌بندی](top500.md) · [دیدن رتبه‌بندی کامل و روش‌های افزودن به برنامه](https://www.foxdetector.com/fa-ir/top500/?utm_campaign=repository&utm_content=readme_top500&utm_medium=referral&utm_source=github)
+[دیدن رتبه‌بندی کامل و روش‌های افزودن به برنامه](https://www.foxdetector.com/fa-ir/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [دیدن پیش‌نمایش رتبه‌بندی](top500.md)
+
+[باز کردن FoxDetector](https://www.foxdetector.com/fa-ir/?utm_campaign=repository&utm_content=readme_home&utm_medium=referral&utm_source=github) · [روش آزمایش](https://www.foxdetector.com/fa-ir/methodology/?utm_campaign=repository&utm_content=readme_methodology&utm_medium=referral&utm_source=github)
 

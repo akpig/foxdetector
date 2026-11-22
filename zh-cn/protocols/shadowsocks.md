@@ -9,7 +9,7 @@
 
 **通过节点** · 1320
 
-[查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
+[查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
 ## 出口位置
 

@@ -9,7 +9,7 @@
 
 **Узлы, прошедшие проверку** · 1320
 
-[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
+[Посмотреть все прошедшие проверку узлы и способы импорта](https://www.foxdetector.com/ru-ru/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
 ## Места выхода
 
