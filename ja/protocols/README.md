@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-22 17:37:09 UTC
+**直近の検証完了時刻** · 2026-11-22 23:32:27 UTC
 
 [プロトコル · FoxDetector を開く](https://www.foxdetector.com/ja/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | プロトコル | 検証に合格したノード | 出口拠点 | 検査サンプル |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/ja/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3599 | 22 | [検査サンプル](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/ja/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1468 | 26 | [検査サンプル](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/ja/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 982 | 46 | [検査サンプル](vless.md) |
-| [Trojan](https://www.foxdetector.com/ja/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 497 | 19 | — |
-| [Hysteria2](https://www.foxdetector.com/ja/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 99 | 20 | — |
-| [AnyTLS](https://www.foxdetector.com/ja/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [VMess](https://www.foxdetector.com/ja/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3954 | 21 | [検査サンプル](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/ja/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1645 | 26 | [検査サンプル](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/ja/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1017 | 48 | [検査サンプル](vless.md) |
+| [Trojan](https://www.foxdetector.com/ja/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 496 | 20 | — |
+| [Hysteria2](https://www.foxdetector.com/ja/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 101 | 19 | — |
+| [AnyTLS](https://www.foxdetector.com/ja/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 2 | 2 | — |
 

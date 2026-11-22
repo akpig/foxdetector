@@ -5,9 +5,9 @@
 
 [Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 17:37:09 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 23:32:27 UTC
 
-**Nút đạt yêu cầu** · 423
+**Nút đạt yêu cầu** · 455
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| VLESS | 192 |
-| Shadowsocks | 143 |
-| VMess | 69 |
-| Hysteria2 | 11 |
-| Trojan | 8 |
+| VLESS | 188 |
+| Shadowsocks | 159 |
+| VMess | 81 |
+| Trojan | 15 |
+| Hysteria2 | 12 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇩🇪 Đức · TY6H | Hysteria2 | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇩🇪 Đức · WQ7W | Hysteria2 | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇩🇪 Đức · FQZQ | Hysteria2 | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇩🇪 Đức · 80QT | VLESS | 13 ms (🇫🇷 Pháp) | 12/12 |
-| 🇩🇪 Đức · TMC1 | Shadowsocks | 14 ms (🇫🇷 Pháp) | 12/12 |
+| 🇩🇪 Đức · TY6H | Hysteria2 | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇩🇪 Đức · YWFF | Hysteria2 | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇩🇪 Đức · 4RTE | Hysteria2 | 12 ms (🇫🇷 Pháp) | 13/13 |
+| 🇩🇪 Đức · 6NVK | VLESS | 12 ms (🇫🇷 Pháp) | 13/13 |
+| 🇩🇪 Đức · KQAY | VLESS | 12 ms (🇫🇷 Pháp) | 13/13 |
 

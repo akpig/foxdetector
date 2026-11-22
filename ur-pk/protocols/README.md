@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-22 17:37:09 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-22 23:32:27 UTC
 
 [پروٹوکولز · FoxDetector کھولیں](https://www.foxdetector.com/ur-pk/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | پروٹوکول | جانچ میں کامیاب نوڈز | مقاماتِ خروج | جانچ کا نمونہ |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/ur-pk/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3599 | 22 | [جانچ کا نمونہ](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/ur-pk/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1468 | 26 | [جانچ کا نمونہ](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/ur-pk/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 982 | 46 | [جانچ کا نمونہ](vless.md) |
-| [Trojan](https://www.foxdetector.com/ur-pk/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 497 | 19 | — |
-| [Hysteria2](https://www.foxdetector.com/ur-pk/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 99 | 20 | — |
-| [AnyTLS](https://www.foxdetector.com/ur-pk/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [VMess](https://www.foxdetector.com/ur-pk/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3954 | 21 | [جانچ کا نمونہ](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/ur-pk/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1645 | 26 | [جانچ کا نمونہ](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/ur-pk/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1017 | 48 | [جانچ کا نمونہ](vless.md) |
+| [Trojan](https://www.foxdetector.com/ur-pk/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 496 | 20 | — |
+| [Hysteria2](https://www.foxdetector.com/ur-pk/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 101 | 19 | — |
+| [AnyTLS](https://www.foxdetector.com/ur-pk/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 2 | 2 | — |
 

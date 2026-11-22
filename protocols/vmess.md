@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-22 17:37:09 UTC
+**Latest completed test** · 2026-11-22 23:32:27 UTC
 
-**Passed nodes** · 3599
+**Passed nodes** · 3954
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,35 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1898 |
-| 🇨🇦 Canada | 210 |
-| 🇯🇵 Japan | 196 |
-| 🇦🇹 Austria | 148 |
-| 🇫🇷 France | 146 |
-| 🇸🇬 Singapore | 145 |
-| 🇭🇰 Hong Kong SAR China | 128 |
-| 🇮🇳 India | 125 |
-| 🇬🇧 United Kingdom | 111 |
-| 🇧🇷 Brazil | 91 |
-| 🇰🇿 Kazakhstan | 76 |
-| 🇰🇷 South Korea | 70 |
-| 🇩🇪 Germany | 69 |
-| 🇸🇪 Sweden | 59 |
-| 🇵🇱 Poland | 35 |
-| 🇹🇼 Taiwan | 32 |
-| 🇳🇱 Netherlands | 28 |
-| 🇲🇾 Malaysia | 20 |
-| 🇮🇪 Ireland | 6 |
+| 🇺🇸 United States | 2067 |
+| 🇯🇵 Japan | 268 |
+| 🇨🇦 Canada | 228 |
+| 🇭🇰 Hong Kong SAR China | 181 |
+| 🇸🇬 Singapore | 165 |
+| 🇫🇷 France | 158 |
+| 🇬🇧 United Kingdom | 129 |
+| 🇮🇳 India | 129 |
+| 🇦🇹 Austria | 103 |
+| 🇧🇷 Brazil | 85 |
+| 🇩🇪 Germany | 81 |
+| 🇰🇷 South Korea | 81 |
+| 🇰🇿 Kazakhstan | 81 |
+| 🇸🇪 Sweden | 63 |
+| 🇵🇱 Poland | 36 |
+| 🇳🇱 Netherlands | 31 |
+| 🇹🇼 Taiwan | 30 |
+| 🇲🇾 Malaysia | 24 |
+| 🇮🇪 Ireland | 9 |
 | 🇹🇭 Thailand | 4 |
-| 🇮🇩 Indonesia | 1 |
-| 🇻🇳 Vietnam | 1 |
+| 🇨🇳 China | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · MZTD | 🇫🇷 France | 11 ms (🇫🇷 France) | 12/12 |
-| 🇫🇷 France · H33H | 🇫🇷 France | 11 ms (🇫🇷 France) | 12/12 |
-| 🇫🇷 France · FR98 | 🇫🇷 France | 11 ms (🇫🇷 France) | 12/12 |
-| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 12/12 |
-| 🇫🇷 France · 9HJD | 🇫🇷 France | 12 ms (🇫🇷 France) | 12/12 |
+| 🇳🇱 Netherlands · 8MM2 | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 13/13 |
+| 🇫🇷 France · MZTD | 🇫🇷 France | 11 ms (🇫🇷 France) | 13/13 |
+| 🇫🇷 France · QA8T | 🇫🇷 France | 11 ms (🇫🇷 France) | 13/13 |
+| 🇫🇷 France · KKXC | 🇫🇷 France | 11 ms (🇫🇷 France) | 13/13 |
+| 🇫🇷 France · PXBS | 🇫🇷 France | 12 ms (🇫🇷 France) | 13/13 |
 

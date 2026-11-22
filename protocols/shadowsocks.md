@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-22 17:37:09 UTC
+**Latest completed test** · 2026-11-22 23:32:27 UTC
 
-**Passed nodes** · 1468
+**Passed nodes** · 1645
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 521 |
-| 🇳🇱 Netherlands | 163 |
-| 🇩🇪 Germany | 143 |
-| 🇮🇹 Italy | 90 |
-| 🇨🇦 Canada | 89 |
-| 🇫🇷 France | 78 |
-| 🇸🇬 Singapore | 67 |
-| 🇬🇧 United Kingdom | 64 |
-| 🇪🇸 Spain | 63 |
-| 🇨🇭 Switzerland | 47 |
-| 🇯🇵 Japan | 23 |
-| 🇦🇱 Albania | 21 |
-| 🇵🇱 Poland | 21 |
+| 🇺🇸 United States | 585 |
+| 🇳🇱 Netherlands | 174 |
+| 🇩🇪 Germany | 159 |
+| 🇨🇦 Canada | 101 |
+| 🇮🇹 Italy | 97 |
+| 🇫🇷 France | 86 |
+| 🇬🇧 United Kingdom | 70 |
+| 🇸🇬 Singapore | 70 |
+| 🇪🇸 Spain | 69 |
+| 🇵🇱 Poland | 52 |
+| 🇨🇭 Switzerland | 41 |
+| 🇦🇱 Albania | 29 |
+| 🇯🇵 Japan | 25 |
+| 🇫🇮 Finland | 13 |
+| 🇦🇹 Austria | 11 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇫🇮 Finland | 11 |
-| 🇦🇹 Austria | 10 |
-| 🇱🇹 Lithuania | 10 |
+| 🇱🇹 Lithuania | 11 |
 | 🇸🇪 Sweden | 10 |
 | 🇱🇻 Latvia | 9 |
-| 🇰🇷 South Korea | 6 |
-| 🇷🇺 Russia | 4 |
-| 🇳🇴 Norway | 2 |
-| 🇿🇦 South Africa | 2 |
+| 🇰🇷 South Korea | 7 |
+| 🇷🇺 Russia | 6 |
+| 🇳🇴 Norway | 3 |
+| 🇿🇦 South Africa | 3 |
 | 🇭🇰 Hong Kong SAR China | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 India | 1 |
+| 🇹🇷 Turkey | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · EMNJ | 🇫🇷 France | 11 ms (🇫🇷 France) | 12/12 |
-| 🇬🇧 United Kingdom · 01RH | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 12/12 |
-| 🇳🇱 Netherlands · RENQ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 12/12 |
-| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 12/12 |
-| 🇳🇱 Netherlands · D974 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 12/12 |
+| 🇫🇷 France · FMCG | 🇫🇷 France | 10 ms (🇫🇷 France) | 13/13 |
+| 🇳🇱 Netherlands · KG3Q | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 13/13 |
+| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 13/13 |
+| 🇬🇧 United Kingdom · XXZV | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 13/13 |
+| 🇳🇱 Netherlands · 6MWG | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 13/13 |
 

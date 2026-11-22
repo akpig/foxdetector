@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 17:37:09 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 23:32:27 UTC
 
-**Nút đạt yêu cầu** · 1468
+**Nút đạt yêu cầu** · 1645
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,40 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 521 |
-| 🇳🇱 Hà Lan | 163 |
-| 🇩🇪 Đức | 143 |
-| 🇮🇹 Italy | 90 |
-| 🇨🇦 Canada | 89 |
-| 🇫🇷 Pháp | 78 |
-| 🇸🇬 Singapore | 67 |
-| 🇬🇧 Vương quốc Anh | 64 |
-| 🇪🇸 Tây Ban Nha | 63 |
-| 🇨🇭 Thụy Sĩ | 47 |
-| 🇯🇵 Nhật Bản | 23 |
-| 🇦🇱 Albania | 21 |
-| 🇵🇱 Ba Lan | 21 |
+| 🇺🇸 Hoa Kỳ | 585 |
+| 🇳🇱 Hà Lan | 174 |
+| 🇩🇪 Đức | 159 |
+| 🇨🇦 Canada | 101 |
+| 🇮🇹 Italy | 97 |
+| 🇫🇷 Pháp | 86 |
+| 🇬🇧 Vương quốc Anh | 70 |
+| 🇸🇬 Singapore | 70 |
+| 🇪🇸 Tây Ban Nha | 69 |
+| 🇵🇱 Ba Lan | 52 |
+| 🇨🇭 Thụy Sĩ | 41 |
+| 🇦🇱 Albania | 29 |
+| 🇯🇵 Nhật Bản | 25 |
+| 🇫🇮 Phần Lan | 13 |
+| 🇦🇹 Áo | 11 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇫🇮 Phần Lan | 11 |
-| 🇦🇹 Áo | 10 |
-| 🇱🇹 Litva | 10 |
+| 🇱🇹 Litva | 11 |
 | 🇸🇪 Thụy Điển | 10 |
 | 🇱🇻 Latvia | 9 |
-| 🇰🇷 Hàn Quốc | 6 |
-| 🇷🇺 Nga | 4 |
-| 🇳🇴 Na Uy | 2 |
-| 🇿🇦 Nam Phi | 2 |
+| 🇰🇷 Hàn Quốc | 7 |
+| 🇷🇺 Nga | 6 |
+| 🇳🇴 Na Uy | 3 |
+| 🇿🇦 Nam Phi | 3 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 Ấn Độ | 1 |
+| 🇹🇷 Thổ Nhĩ Kỳ | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · EMNJ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 12/12 |
-| 🇬🇧 Vương quốc Anh · 01RH | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇳🇱 Hà Lan · RENQ | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇬🇧 Vương quốc Anh · 6J4T | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 12/12 |
-| 🇳🇱 Hà Lan · D974 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 12/12 |
+| 🇫🇷 Pháp · FMCG | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 13/13 |
+| 🇳🇱 Hà Lan · KG3Q | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇬🇧 Vương quốc Anh · XXZV | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇳🇱 Hà Lan · 6MWG | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 13/13 |
 
