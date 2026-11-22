@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-21 23:19:05 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-22 05:27:03 UTC
 
 [پروٹوکولز · FoxDetector کھولیں](https://www.foxdetector.com/ur-pk/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | پروٹوکول | جانچ میں کامیاب نوڈز | مقاماتِ خروج |
 | --- | --- | --- |
-| [VMess](vmess.md) | 3248 | 24 |
-| [Shadowsocks](shadowsocks.md) | 1219 | 26 |
-| [VLESS](vless.md) | 907 | 47 |
-| [Trojan](https://www.foxdetector.com/ur-pk/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 650 | 19 |
-| [Hysteria2](https://www.foxdetector.com/ur-pk/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 93 | 21 |
+| [VMess](vmess.md) | 3334 | 23 |
+| [Shadowsocks](shadowsocks.md) | 1328 | 24 |
+| [VLESS](vless.md) | 1250 | 50 |
+| [Trojan](https://www.foxdetector.com/ur-pk/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 666 | 20 |
+| [Hysteria2](https://www.foxdetector.com/ur-pk/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 95 | 21 |
 | [AnyTLS](https://www.foxdetector.com/ur-pk/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
 

@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 23:19:05 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 05:27:03 UTC
 
-**Nút đạt yêu cầu** · 3248
+**Nút đạt yêu cầu** · 3334
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github)
 
@@ -15,38 +15,37 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1688 |
-| 🇨🇦 Canada | 188 |
-| 🇯🇵 Nhật Bản | 174 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 145 |
-| 🇸🇬 Singapore | 133 |
-| 🇫🇷 Pháp | 127 |
-| 🇮🇳 Ấn Độ | 122 |
-| 🇦🇹 Áo | 111 |
-| 🇬🇧 Vương quốc Anh | 108 |
-| 🇧🇷 Brazil | 73 |
-| 🇰🇿 Kazakhstan | 68 |
-| 🇸🇪 Thụy Điển | 65 |
-| 🇩🇪 Đức | 63 |
-| 🇰🇷 Hàn Quốc | 59 |
-| 🇵🇱 Ba Lan | 32 |
-| 🇹🇼 Đài Loan | 28 |
+| 🇺🇸 Hoa Kỳ | 1742 |
+| 🇯🇵 Nhật Bản | 225 |
+| 🇨🇦 Canada | 198 |
+| 🇸🇬 Singapore | 138 |
+| 🇫🇷 Pháp | 128 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 125 |
+| 🇦🇹 Áo | 117 |
+| 🇬🇧 Vương quốc Anh | 112 |
+| 🇮🇳 Ấn Độ | 111 |
+| 🇧🇷 Brazil | 71 |
+| 🇰🇿 Kazakhstan | 71 |
+| 🇸🇪 Thụy Điển | 57 |
+| 🇩🇪 Đức | 56 |
+| 🇰🇷 Hàn Quốc | 54 |
+| 🇹🇼 Đài Loan | 36 |
+| 🇵🇱 Ba Lan | 34 |
 | 🇳🇱 Hà Lan | 24 |
-| 🇲🇾 Malaysia | 19 |
-| 🇮🇪 Ireland | 8 |
-| 🇨🇳 Trung Quốc | 5 |
+| 🇲🇾 Malaysia | 15 |
+| 🇨🇳 Trung Quốc | 6 |
+| 🇮🇪 Ireland | 6 |
 | 🇹🇭 Thái Lan | 4 |
+| 🇨🇭 Thụy Sĩ | 2 |
 | 🇮🇩 Indonesia | 2 |
-| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 1 |
-| 🇨🇿 Séc | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 9/9 |
-| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇫🇷 Pháp · 8NVZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇫🇷 Pháp · 3WR2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · 1TTG | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 10/10 |
+| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 10/10 |
+| 🇫🇷 Pháp · 3R55 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 10/10 |
+| 🇫🇷 Pháp · WKGV | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 10/10 |
+| 🇫🇷 Pháp · 6ES5 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 10/10 |
 

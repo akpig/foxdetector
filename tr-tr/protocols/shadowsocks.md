@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-21 23:19:05 UTC
+**Son testin tamamlanma zamanı** · 2026-11-22 05:27:03 UTC
 
-**Testi geçen düğümler** · 1219
+**Testi geçen düğümler** · 1328
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,38 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 413 |
-| 🇳🇱 Hollanda | 141 |
-| 🇩🇪 Almanya | 126 |
-| 🇨🇦 Kanada | 74 |
-| 🇮🇹 İtalya | 69 |
-| 🇫🇷 Fransa | 62 |
-| 🇸🇬 Singapur | 58 |
-| 🇬🇧 Birleşik Krallık | 55 |
-| 🇪🇸 İspanya | 54 |
-| 🇨🇭 İsviçre | 39 |
-| 🇦🇱 Arnavutluk | 24 |
-| 🇯🇵 Japonya | 19 |
-| 🇵🇱 Polonya | 19 |
+| 🇺🇸 Amerika Birleşik Devletleri | 462 |
+| 🇳🇱 Hollanda | 153 |
+| 🇩🇪 Almanya | 137 |
+| 🇮🇹 İtalya | 80 |
+| 🇨🇦 Kanada | 73 |
+| 🇫🇷 Fransa | 70 |
+| 🇬🇧 Birleşik Krallık | 60 |
+| 🇸🇬 Singapur | 59 |
+| 🇪🇸 İspanya | 58 |
+| 🇨🇭 İsviçre | 46 |
+| 🇦🇱 Arnavutluk | 25 |
+| 🇯🇵 Japonya | 21 |
+| 🇵🇱 Polonya | 21 |
 | 🇧🇬 Bulgaristan | 10 |
-| 🇱🇹 Litvanya | 9 |
-| 🇱🇻 Letonya | 9 |
-| 🇸🇪 İsveç | 9 |
-| 🇦🇹 Avusturya | 8 |
-| 🇫🇮 Finlandiya | 6 |
-| 🇰🇷 Güney Kore | 6 |
+| 🇱🇻 Letonya | 10 |
+| 🇦🇹 Avusturya | 9 |
+| 🇫🇮 Finlandiya | 9 |
+| 🇸🇪 İsveç | 8 |
+| 🇱🇹 Litvanya | 6 |
+| 🇰🇷 Güney Kore | 4 |
 | 🇿🇦 Güney Afrika | 3 |
 | 🇳🇴 Norveç | 2 |
-| 🇨🇱 Şili | 1 |
 | 🇭🇰 Çin Hong Kong ÖİB | 1 |
-| 🇮🇳 Hindistan | 1 |
 | 🇷🇺 Rusya | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · 0QTA | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 9/9 |
-| 🇬🇧 Birleşik Krallık · JYEE | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 9/9 |
-| 🇳🇱 Hollanda · 43QX | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 9/9 |
-| 🇫🇷 Fransa · ERZ2 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 9/9 |
-| 🇬🇧 Birleşik Krallık · 6J4T | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 9/9 |
+| 🇫🇷 Fransa · G2TY | 🇫🇷 Fransa | 7 ms (🇫🇷 Fransa) | 10/10 |
+| 🇳🇱 Hollanda · 4E7G | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 10/10 |
+| 🇳🇱 Hollanda · 21VH | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 10/10 |
+| 🇫🇷 Fransa · JVF2 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 10/10 |
+| 🇬🇧 Birleşik Krallık · ZPF0 | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 10/10 |
 

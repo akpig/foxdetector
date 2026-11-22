@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-21 23:19:05 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 05:27:03 UTC
 
-**Nút đạt yêu cầu** · 1219
+**Nút đạt yêu cầu** · 1328
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,38 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 413 |
-| 🇳🇱 Hà Lan | 141 |
-| 🇩🇪 Đức | 126 |
-| 🇨🇦 Canada | 74 |
-| 🇮🇹 Italy | 69 |
-| 🇫🇷 Pháp | 62 |
-| 🇸🇬 Singapore | 58 |
-| 🇬🇧 Vương quốc Anh | 55 |
-| 🇪🇸 Tây Ban Nha | 54 |
-| 🇨🇭 Thụy Sĩ | 39 |
-| 🇦🇱 Albania | 24 |
-| 🇯🇵 Nhật Bản | 19 |
-| 🇵🇱 Ba Lan | 19 |
+| 🇺🇸 Hoa Kỳ | 462 |
+| 🇳🇱 Hà Lan | 153 |
+| 🇩🇪 Đức | 137 |
+| 🇮🇹 Italy | 80 |
+| 🇨🇦 Canada | 73 |
+| 🇫🇷 Pháp | 70 |
+| 🇬🇧 Vương quốc Anh | 60 |
+| 🇸🇬 Singapore | 59 |
+| 🇪🇸 Tây Ban Nha | 58 |
+| 🇨🇭 Thụy Sĩ | 46 |
+| 🇦🇱 Albania | 25 |
+| 🇯🇵 Nhật Bản | 21 |
+| 🇵🇱 Ba Lan | 21 |
 | 🇧🇬 Bulgaria | 10 |
-| 🇱🇹 Litva | 9 |
-| 🇱🇻 Latvia | 9 |
-| 🇸🇪 Thụy Điển | 9 |
-| 🇦🇹 Áo | 8 |
-| 🇫🇮 Phần Lan | 6 |
-| 🇰🇷 Hàn Quốc | 6 |
+| 🇱🇻 Latvia | 10 |
+| 🇦🇹 Áo | 9 |
+| 🇫🇮 Phần Lan | 9 |
+| 🇸🇪 Thụy Điển | 8 |
+| 🇱🇹 Litva | 6 |
+| 🇰🇷 Hàn Quốc | 4 |
 | 🇿🇦 Nam Phi | 3 |
 | 🇳🇴 Na Uy | 2 |
-| 🇨🇱 Chile | 1 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 1 |
-| 🇮🇳 Ấn Độ | 1 |
 | 🇷🇺 Nga | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 0QTA | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 9/9 |
-| 🇬🇧 Vương quốc Anh · JYEE | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇳🇱 Hà Lan · 43QX | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 9/9 |
-| 🇬🇧 Vương quốc Anh · 6J4T | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 9/9 |
+| 🇫🇷 Pháp · G2TY | 🇫🇷 Pháp | 7 ms (🇫🇷 Pháp) | 10/10 |
+| 🇳🇱 Hà Lan · 4E7G | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 10/10 |
+| 🇳🇱 Hà Lan · 21VH | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 10/10 |
+| 🇫🇷 Pháp · JVF2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 10/10 |
+| 🇬🇧 Vương quốc Anh · ZPF0 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 10/10 |
 
