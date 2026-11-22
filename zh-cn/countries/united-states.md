@@ -5,9 +5,9 @@
 
 [国家和地区](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-22 05:27:03 UTC
+**最近检测完成** · 2026-11-22 11:35:52 UTC
 
-**通过节点** · 2767
+**通过节点** · 2621
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github)
 
@@ -15,10 +15,10 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 1742 |
-| Shadowsocks | 462 |
-| Trojan | 395 |
-| VLESS | 154 |
+| VMess | 1718 |
+| Shadowsocks | 461 |
+| Trojan | 276 |
+| VLESS | 152 |
 | Hysteria2 | 13 |
 | AnyTLS | 1 |
 
@@ -26,9 +26,9 @@
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇺🇸 美国 · SDZ7 | VLESS | 18 ms (🇫🇷 法国) | 10/10 |
-| 🇺🇸 美国 · QBCH | Shadowsocks | 23 ms (🇫🇷 法国) | 10/10 |
-| 🇺🇸 美国 · 4EKP | VLESS | 23 ms (🇫🇷 法国) | 10/10 |
-| 🇺🇸 美国 · KYET | Shadowsocks | 23 ms (🇫🇷 法国) | 10/10 |
-| 🇺🇸 美国 · SFE0 | VLESS | 25 ms (🇫🇷 法国) | 10/10 |
+| 🇺🇸 美国 · BE6N | Shadowsocks | 23 ms (🇫🇷 法国) | 11/11 |
+| 🇺🇸 美国 · ZC2W | VLESS | 25 ms (🇫🇷 法国) | 11/11 |
+| 🇺🇸 美国 · 2BGD | VLESS | 31 ms (🇫🇷 法国) | 11/11 |
+| 🇺🇸 美国 · 72V7 | VLESS | 35 ms (🇫🇷 法国) | 11/11 |
+| 🇺🇸 美国 · 9B37 | VLESS | 50 ms (🇫🇷 法国) | 11/11 |
 

@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-22 05:27:03 UTC
+**Son testin tamamlanma zamanı** · 2026-11-22 11:35:52 UTC
 
-**Testi geçen düğümler** · 1328
+**Testi geçen düğümler** · 1320
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github)
 
@@ -15,16 +15,16 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 462 |
-| 🇳🇱 Hollanda | 153 |
-| 🇩🇪 Almanya | 137 |
-| 🇮🇹 İtalya | 80 |
-| 🇨🇦 Kanada | 73 |
+| 🇺🇸 Amerika Birleşik Devletleri | 461 |
+| 🇳🇱 Hollanda | 150 |
+| 🇩🇪 Almanya | 129 |
+| 🇮🇹 İtalya | 81 |
+| 🇨🇦 Kanada | 80 |
 | 🇫🇷 Fransa | 70 |
-| 🇬🇧 Birleşik Krallık | 60 |
-| 🇸🇬 Singapur | 59 |
-| 🇪🇸 İspanya | 58 |
-| 🇨🇭 İsviçre | 46 |
+| 🇸🇬 Singapur | 60 |
+| 🇪🇸 İspanya | 59 |
+| 🇬🇧 Birleşik Krallık | 57 |
+| 🇨🇭 İsviçre | 40 |
 | 🇦🇱 Arnavutluk | 25 |
 | 🇯🇵 Japonya | 21 |
 | 🇵🇱 Polonya | 21 |
@@ -32,21 +32,22 @@
 | 🇱🇻 Letonya | 10 |
 | 🇦🇹 Avusturya | 9 |
 | 🇫🇮 Finlandiya | 9 |
+| 🇱🇹 Litvanya | 8 |
 | 🇸🇪 İsveç | 8 |
-| 🇱🇹 Litvanya | 6 |
 | 🇰🇷 Güney Kore | 4 |
 | 🇿🇦 Güney Afrika | 3 |
 | 🇳🇴 Norveç | 2 |
+| 🇨🇱 Şili | 1 |
 | 🇭🇰 Çin Hong Kong ÖİB | 1 |
-| 🇷🇺 Rusya | 1 |
+| 🇮🇳 Hindistan | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · G2TY | 🇫🇷 Fransa | 7 ms (🇫🇷 Fransa) | 10/10 |
-| 🇳🇱 Hollanda · 4E7G | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 10/10 |
-| 🇳🇱 Hollanda · 21VH | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 10/10 |
-| 🇫🇷 Fransa · JVF2 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 10/10 |
-| 🇬🇧 Birleşik Krallık · ZPF0 | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 10/10 |
+| 🇬🇧 Birleşik Krallık · 6J4T | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 11/11 |
+| 🇳🇱 Hollanda · DBQ5 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
+| 🇳🇱 Hollanda · TN94 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
+| 🇳🇱 Hollanda · 48AW | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
+| 🇳🇱 Hollanda · VCHH | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
 

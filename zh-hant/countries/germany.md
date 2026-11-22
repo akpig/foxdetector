@@ -5,9 +5,9 @@
 
 [國家和地區](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-22 05:27:03 UTC
+**最近完成檢測** · 2026-11-22 11:35:52 UTC
 
-**通過節點** · 448
+**通過節點** · 384
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| VLESS | 236 |
-| Shadowsocks | 137 |
-| VMess | 56 |
-| Hysteria2 | 10 |
-| Trojan | 9 |
+| VLESS | 184 |
+| Shadowsocks | 129 |
+| VMess | 52 |
+| Hysteria2 | 11 |
+| Trojan | 8 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇩🇪 德國 · P7VP | Hysteria2 | 11 ms (🇫🇷 法國) | 10/10 |
-| 🇩🇪 德國 · TY6H | Hysteria2 | 11 ms (🇫🇷 法國) | 10/10 |
-| 🇩🇪 德國 · M3ZK | Hysteria2 | 11 ms (🇫🇷 法國) | 10/10 |
-| 🇩🇪 德國 · S0J6 | Hysteria2 | 11 ms (🇫🇷 法國) | 10/10 |
-| 🇩🇪 德國 · AQDV | Shadowsocks | 13 ms (🇫🇷 法國) | 10/10 |
+| 🇩🇪 德國 · WQ7W | Hysteria2 | 11 ms (🇫🇷 法國) | 11/11 |
+| 🇩🇪 德國 · 4SXK | Hysteria2 | 11 ms (🇫🇷 法國) | 11/11 |
+| 🇩🇪 德國 · M7YP | Hysteria2 | 12 ms (🇫🇷 法國) | 11/11 |
+| 🇩🇪 德國 · 1W02 | VLESS | 12 ms (🇫🇷 法國) | 11/11 |
+| 🇩🇪 德國 · G9Y8 | VLESS | 13 ms (🇫🇷 法國) | 11/11 |
 

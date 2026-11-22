@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [Топ-500](../top500.md)
 
-**Завершение последней проверки** · 2026-11-22 05:27:03 UTC
+**Завершение последней проверки** · 2026-11-22 11:35:52 UTC
 
 [Протоколы · Открыть FoxDetector](https://www.foxdetector.com/ru-ru/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | Протокол | Узлы, прошедшие проверку | Места выхода |
 | --- | --- | --- |
-| [VMess](vmess.md) | 3334 | 23 |
-| [Shadowsocks](shadowsocks.md) | 1328 | 24 |
-| [VLESS](vless.md) | 1250 | 50 |
-| [Trojan](https://www.foxdetector.com/ru-ru/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 666 | 20 |
-| [Hysteria2](https://www.foxdetector.com/ru-ru/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 95 | 21 |
+| [VMess](vmess.md) | 3310 | 21 |
+| [Shadowsocks](shadowsocks.md) | 1320 | 25 |
+| [VLESS](vless.md) | 980 | 52 |
+| [Trojan](https://www.foxdetector.com/ru-ru/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 |
+| [Hysteria2](https://www.foxdetector.com/ru-ru/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 |
 | [AnyTLS](https://www.foxdetector.com/ru-ru/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 |
 

@@ -5,9 +5,9 @@
 
 [国・地域](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-22 05:27:03 UTC
+**直近の検証完了時刻** · 2026-11-22 11:35:52 UTC
 
-**検証に合格したノード** · 448
+**検証に合格したノード** · 384
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VLESS | 236 |
-| Shadowsocks | 137 |
-| VMess | 56 |
-| Hysteria2 | 10 |
-| Trojan | 9 |
+| VLESS | 184 |
+| Shadowsocks | 129 |
+| VMess | 52 |
+| Hysteria2 | 11 |
+| Trojan | 8 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇩🇪 ドイツ · P7VP | Hysteria2 | 11 ms (🇫🇷 フランス) | 10/10 |
-| 🇩🇪 ドイツ · TY6H | Hysteria2 | 11 ms (🇫🇷 フランス) | 10/10 |
-| 🇩🇪 ドイツ · M3ZK | Hysteria2 | 11 ms (🇫🇷 フランス) | 10/10 |
-| 🇩🇪 ドイツ · S0J6 | Hysteria2 | 11 ms (🇫🇷 フランス) | 10/10 |
-| 🇩🇪 ドイツ · AQDV | Shadowsocks | 13 ms (🇫🇷 フランス) | 10/10 |
+| 🇩🇪 ドイツ · WQ7W | Hysteria2 | 11 ms (🇫🇷 フランス) | 11/11 |
+| 🇩🇪 ドイツ · 4SXK | Hysteria2 | 11 ms (🇫🇷 フランス) | 11/11 |
+| 🇩🇪 ドイツ · M7YP | Hysteria2 | 12 ms (🇫🇷 フランス) | 11/11 |
+| 🇩🇪 ドイツ · 1W02 | VLESS | 12 ms (🇫🇷 フランス) | 11/11 |
+| 🇩🇪 ドイツ · G9Y8 | VLESS | 13 ms (🇫🇷 フランス) | 11/11 |
 

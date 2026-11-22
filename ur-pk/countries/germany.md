@@ -5,9 +5,9 @@
 
 [ممالک اور علاقے](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-22 05:27:03 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-22 11:35:52 UTC
 
-**جانچ میں کامیاب نوڈز** · 448
+**جانچ میں کامیاب نوڈز** · 384
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| VLESS | 236 |
-| Shadowsocks | 137 |
-| VMess | 56 |
-| Hysteria2 | 10 |
-| Trojan | 9 |
+| VLESS | 184 |
+| Shadowsocks | 129 |
+| VMess | 52 |
+| Hysteria2 | 11 |
+| Trojan | 8 |
 
 ## ٹیسٹ میں کامیاب نوڈز کے نمونے
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇩🇪 جرمنی · P7VP | Hysteria2 | 11 ms (🇫🇷 فرانس) | 10/10 |
-| 🇩🇪 جرمنی · TY6H | Hysteria2 | 11 ms (🇫🇷 فرانس) | 10/10 |
-| 🇩🇪 جرمنی · M3ZK | Hysteria2 | 11 ms (🇫🇷 فرانس) | 10/10 |
-| 🇩🇪 جرمنی · S0J6 | Hysteria2 | 11 ms (🇫🇷 فرانس) | 10/10 |
-| 🇩🇪 جرمنی · AQDV | Shadowsocks | 13 ms (🇫🇷 فرانس) | 10/10 |
+| 🇩🇪 جرمنی · WQ7W | Hysteria2 | 11 ms (🇫🇷 فرانس) | 11/11 |
+| 🇩🇪 جرمنی · 4SXK | Hysteria2 | 11 ms (🇫🇷 فرانس) | 11/11 |
+| 🇩🇪 جرمنی · M7YP | Hysteria2 | 12 ms (🇫🇷 فرانس) | 11/11 |
+| 🇩🇪 جرمنی · 1W02 | VLESS | 12 ms (🇫🇷 فرانس) | 11/11 |
+| 🇩🇪 جرمنی · G9Y8 | VLESS | 13 ms (🇫🇷 فرانس) | 11/11 |
 
