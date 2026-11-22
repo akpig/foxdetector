@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-22 11:35:52 UTC
+**Latest completed test** · 2026-11-22 17:37:09 UTC
 
-**Passed nodes** · 1320
+**Passed nodes** · 1468
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,39 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 461 |
-| 🇳🇱 Netherlands | 150 |
-| 🇩🇪 Germany | 129 |
-| 🇮🇹 Italy | 81 |
-| 🇨🇦 Canada | 80 |
-| 🇫🇷 France | 70 |
-| 🇸🇬 Singapore | 60 |
-| 🇪🇸 Spain | 59 |
-| 🇬🇧 United Kingdom | 57 |
-| 🇨🇭 Switzerland | 40 |
-| 🇦🇱 Albania | 25 |
-| 🇯🇵 Japan | 21 |
+| 🇺🇸 United States | 521 |
+| 🇳🇱 Netherlands | 163 |
+| 🇩🇪 Germany | 143 |
+| 🇮🇹 Italy | 90 |
+| 🇨🇦 Canada | 89 |
+| 🇫🇷 France | 78 |
+| 🇸🇬 Singapore | 67 |
+| 🇬🇧 United Kingdom | 64 |
+| 🇪🇸 Spain | 63 |
+| 🇨🇭 Switzerland | 47 |
+| 🇯🇵 Japan | 23 |
+| 🇦🇱 Albania | 21 |
 | 🇵🇱 Poland | 21 |
-| 🇧🇬 Bulgaria | 10 |
-| 🇱🇻 Latvia | 10 |
-| 🇦🇹 Austria | 9 |
-| 🇫🇮 Finland | 9 |
-| 🇱🇹 Lithuania | 8 |
-| 🇸🇪 Sweden | 8 |
-| 🇰🇷 South Korea | 4 |
-| 🇿🇦 South Africa | 3 |
+| 🇧🇬 Bulgaria | 11 |
+| 🇫🇮 Finland | 11 |
+| 🇦🇹 Austria | 10 |
+| 🇱🇹 Lithuania | 10 |
+| 🇸🇪 Sweden | 10 |
+| 🇱🇻 Latvia | 9 |
+| 🇰🇷 South Korea | 6 |
+| 🇷🇺 Russia | 4 |
 | 🇳🇴 Norway | 2 |
-| 🇨🇱 Chile | 1 |
+| 🇿🇦 South Africa | 2 |
 | 🇭🇰 Hong Kong SAR China | 1 |
+| 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 11/11 |
-| 🇳🇱 Netherlands · DBQ5 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 11/11 |
-| 🇳🇱 Netherlands · TN94 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 11/11 |
-| 🇳🇱 Netherlands · 48AW | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 11/11 |
-| 🇳🇱 Netherlands · VCHH | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 11/11 |
+| 🇫🇷 France · EMNJ | 🇫🇷 France | 11 ms (🇫🇷 France) | 12/12 |
+| 🇬🇧 United Kingdom · 01RH | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 12/12 |
+| 🇳🇱 Netherlands · RENQ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 12/12 |
+| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 12/12 |
+| 🇳🇱 Netherlands · D974 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 12/12 |
 

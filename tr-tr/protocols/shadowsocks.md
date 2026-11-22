@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-22 11:35:52 UTC
+**Son testin tamamlanma zamanı** · 2026-11-22 17:37:09 UTC
 
-**Testi geçen düğümler** · 1320
+**Testi geçen düğümler** · 1468
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,39 +15,40 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 461 |
-| 🇳🇱 Hollanda | 150 |
-| 🇩🇪 Almanya | 129 |
-| 🇮🇹 İtalya | 81 |
-| 🇨🇦 Kanada | 80 |
-| 🇫🇷 Fransa | 70 |
-| 🇸🇬 Singapur | 60 |
-| 🇪🇸 İspanya | 59 |
-| 🇬🇧 Birleşik Krallık | 57 |
-| 🇨🇭 İsviçre | 40 |
-| 🇦🇱 Arnavutluk | 25 |
-| 🇯🇵 Japonya | 21 |
+| 🇺🇸 Amerika Birleşik Devletleri | 521 |
+| 🇳🇱 Hollanda | 163 |
+| 🇩🇪 Almanya | 143 |
+| 🇮🇹 İtalya | 90 |
+| 🇨🇦 Kanada | 89 |
+| 🇫🇷 Fransa | 78 |
+| 🇸🇬 Singapur | 67 |
+| 🇬🇧 Birleşik Krallık | 64 |
+| 🇪🇸 İspanya | 63 |
+| 🇨🇭 İsviçre | 47 |
+| 🇯🇵 Japonya | 23 |
+| 🇦🇱 Arnavutluk | 21 |
 | 🇵🇱 Polonya | 21 |
-| 🇧🇬 Bulgaristan | 10 |
-| 🇱🇻 Letonya | 10 |
-| 🇦🇹 Avusturya | 9 |
-| 🇫🇮 Finlandiya | 9 |
-| 🇱🇹 Litvanya | 8 |
-| 🇸🇪 İsveç | 8 |
-| 🇰🇷 Güney Kore | 4 |
-| 🇿🇦 Güney Afrika | 3 |
+| 🇧🇬 Bulgaristan | 11 |
+| 🇫🇮 Finlandiya | 11 |
+| 🇦🇹 Avusturya | 10 |
+| 🇱🇹 Litvanya | 10 |
+| 🇸🇪 İsveç | 10 |
+| 🇱🇻 Letonya | 9 |
+| 🇰🇷 Güney Kore | 6 |
+| 🇷🇺 Rusya | 4 |
 | 🇳🇴 Norveç | 2 |
-| 🇨🇱 Şili | 1 |
+| 🇿🇦 Güney Afrika | 2 |
 | 🇭🇰 Çin Hong Kong ÖİB | 1 |
+| 🇮🇪 İrlanda | 1 |
 | 🇮🇳 Hindistan | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇬🇧 Birleşik Krallık · 6J4T | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 11/11 |
-| 🇳🇱 Hollanda · DBQ5 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
-| 🇳🇱 Hollanda · TN94 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
-| 🇳🇱 Hollanda · 48AW | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
-| 🇳🇱 Hollanda · VCHH | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 11/11 |
+| 🇫🇷 Fransa · EMNJ | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 12/12 |
+| 🇬🇧 Birleşik Krallık · 01RH | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 12/12 |
+| 🇳🇱 Hollanda · RENQ | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 12/12 |
+| 🇬🇧 Birleşik Krallık · 6J4T | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 12/12 |
+| 🇳🇱 Hollanda · D974 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 12/12 |
 

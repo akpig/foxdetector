@@ -5,16 +5,16 @@
 
 [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-22 11:35:52 UTC
+**最近检测完成** · 2026-11-22 17:37:09 UTC
 
 [协议 · 打开狐探](https://www.foxdetector.com/zh-cn/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | 协议 | 通过节点 | 出口位置 | 检测样本 |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/zh-cn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3310 | 21 | [检测样本](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/zh-cn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1320 | 25 | [检测样本](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/zh-cn/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 980 | 52 | [检测样本](vless.md) |
-| [Trojan](https://www.foxdetector.com/zh-cn/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 546 | 19 | — |
-| [Hysteria2](https://www.foxdetector.com/zh-cn/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 94 | 20 | — |
+| [VMess](https://www.foxdetector.com/zh-cn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 3599 | 22 | [检测样本](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/zh-cn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1468 | 26 | [检测样本](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/zh-cn/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 982 | 46 | [检测样本](vless.md) |
+| [Trojan](https://www.foxdetector.com/zh-cn/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 497 | 19 | — |
+| [Hysteria2](https://www.foxdetector.com/zh-cn/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 99 | 20 | — |
 | [AnyTLS](https://www.foxdetector.com/zh-cn/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

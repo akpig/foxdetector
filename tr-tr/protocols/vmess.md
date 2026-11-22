@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-22 11:35:52 UTC
+**Son testin tamamlanma zamanı** · 2026-11-22 17:37:09 UTC
 
-**Testi geçen düğümler** · 3310
+**Testi geçen düğümler** · 3599
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,35 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 1718 |
-| 🇯🇵 Japonya | 203 |
-| 🇨🇦 Kanada | 201 |
-| 🇫🇷 Fransa | 135 |
-| 🇸🇬 Singapur | 135 |
-| 🇦🇹 Avusturya | 132 |
-| 🇭🇰 Çin Hong Kong ÖİB | 132 |
-| 🇮🇳 Hindistan | 109 |
-| 🇬🇧 Birleşik Krallık | 104 |
-| 🇧🇷 Brezilya | 78 |
-| 🇰🇿 Kazakistan | 66 |
-| 🇰🇷 Güney Kore | 60 |
+| 🇺🇸 Amerika Birleşik Devletleri | 1898 |
+| 🇨🇦 Kanada | 210 |
+| 🇯🇵 Japonya | 196 |
+| 🇦🇹 Avusturya | 148 |
+| 🇫🇷 Fransa | 146 |
+| 🇸🇬 Singapur | 145 |
+| 🇭🇰 Çin Hong Kong ÖİB | 128 |
+| 🇮🇳 Hindistan | 125 |
+| 🇬🇧 Birleşik Krallık | 111 |
+| 🇧🇷 Brezilya | 91 |
+| 🇰🇿 Kazakistan | 76 |
+| 🇰🇷 Güney Kore | 70 |
+| 🇩🇪 Almanya | 69 |
 | 🇸🇪 İsveç | 59 |
-| 🇩🇪 Almanya | 52 |
-| 🇵🇱 Polonya | 34 |
-| 🇹🇼 Tayvan | 31 |
+| 🇵🇱 Polonya | 35 |
+| 🇹🇼 Tayvan | 32 |
 | 🇳🇱 Hollanda | 28 |
-| 🇲🇾 Malezya | 21 |
+| 🇲🇾 Malezya | 20 |
 | 🇮🇪 İrlanda | 6 |
 | 🇹🇭 Tayland | 4 |
-| 🇮🇩 Endonezya | 2 |
+| 🇮🇩 Endonezya | 1 |
+| 🇻🇳 Vietnam | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · WKGV | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 11/11 |
-| 🇫🇷 Fransa · PNEQ | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 11/11 |
-| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 11/11 |
-| 🇫🇷 Fransa · KKXC | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 11/11 |
-| 🇫🇷 Fransa · 1KZ4 | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 11/11 |
+| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 12/12 |
+| 🇫🇷 Fransa · H33H | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 12/12 |
+| 🇫🇷 Fransa · FR98 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 12/12 |
+| 🇫🇷 Fransa · QFEJ | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 12/12 |
+| 🇫🇷 Fransa · 9HJD | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 12/12 |
 
