@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-22 23:32:27 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-23 05:33:00 UTC
 
-**Nút đạt yêu cầu** · 1645
+**Nút đạt yêu cầu** · 1637
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,39 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 585 |
-| 🇳🇱 Hà Lan | 174 |
-| 🇩🇪 Đức | 159 |
-| 🇨🇦 Canada | 101 |
-| 🇮🇹 Italy | 97 |
+| 🇺🇸 Hoa Kỳ | 587 |
+| 🇳🇱 Hà Lan | 172 |
+| 🇩🇪 Đức | 157 |
+| 🇨🇦 Canada | 102 |
+| 🇮🇹 Italy | 98 |
 | 🇫🇷 Pháp | 86 |
 | 🇬🇧 Vương quốc Anh | 70 |
-| 🇸🇬 Singapore | 70 |
-| 🇪🇸 Tây Ban Nha | 69 |
+| 🇪🇸 Tây Ban Nha | 68 |
+| 🇸🇬 Singapore | 63 |
 | 🇵🇱 Ba Lan | 52 |
 | 🇨🇭 Thụy Sĩ | 41 |
-| 🇦🇱 Albania | 29 |
+| 🇦🇱 Albania | 28 |
 | 🇯🇵 Nhật Bản | 25 |
 | 🇫🇮 Phần Lan | 13 |
 | 🇦🇹 Áo | 11 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Litva | 11 |
+| 🇱🇹 Litva | 10 |
 | 🇸🇪 Thụy Điển | 10 |
 | 🇱🇻 Latvia | 9 |
-| 🇰🇷 Hàn Quốc | 7 |
-| 🇷🇺 Nga | 6 |
-| 🇳🇴 Na Uy | 3 |
-| 🇿🇦 Nam Phi | 3 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 1 |
+| 🇰🇷 Hàn Quốc | 8 |
+| 🇷🇺 Nga | 7 |
+| 🇳🇴 Na Uy | 4 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 2 |
+| 🇿🇦 Nam Phi | 2 |
 | 🇮🇪 Ireland | 1 |
-| 🇹🇷 Thổ Nhĩ Kỳ | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · FMCG | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 13/13 |
-| 🇳🇱 Hà Lan · KG3Q | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 13/13 |
-| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 13/13 |
-| 🇬🇧 Vương quốc Anh · XXZV | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 13/13 |
-| 🇳🇱 Hà Lan · 6MWG | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 13/13 |
+| 🇫🇷 Pháp · G2TY | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 14/14 |
+| 🇫🇷 Pháp · 1V47 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 14/14 |
+| 🇳🇱 Hà Lan · VCHH | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 14/14 |
+| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 14/14 |
+| 🇬🇧 Vương quốc Anh · 6E7V | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 14/14 |
 

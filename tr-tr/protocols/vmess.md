@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-22 23:32:27 UTC
+**Son testin tamamlanma zamanı** · 2026-11-23 05:33:00 UTC
 
-**Testi geçen düğümler** · 3954
+**Testi geçen düğümler** · 3985
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,35 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2067 |
-| 🇯🇵 Japonya | 268 |
-| 🇨🇦 Kanada | 228 |
-| 🇭🇰 Çin Hong Kong ÖİB | 181 |
-| 🇸🇬 Singapur | 165 |
-| 🇫🇷 Fransa | 158 |
-| 🇬🇧 Birleşik Krallık | 129 |
-| 🇮🇳 Hindistan | 129 |
-| 🇦🇹 Avusturya | 103 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2096 |
+| 🇯🇵 Japonya | 262 |
+| 🇨🇦 Kanada | 238 |
+| 🇭🇰 Çin Hong Kong ÖİB | 184 |
+| 🇸🇬 Singapur | 169 |
+| 🇫🇷 Fransa | 159 |
+| 🇮🇳 Hindistan | 128 |
+| 🇬🇧 Birleşik Krallık | 124 |
+| 🇦🇹 Avusturya | 105 |
 | 🇧🇷 Brezilya | 85 |
-| 🇩🇪 Almanya | 81 |
-| 🇰🇷 Güney Kore | 81 |
-| 🇰🇿 Kazakistan | 81 |
-| 🇸🇪 İsveç | 63 |
+| 🇰🇷 Güney Kore | 85 |
+| 🇩🇪 Almanya | 74 |
+| 🇰🇿 Kazakistan | 71 |
+| 🇸🇪 İsveç | 64 |
+| 🇹🇼 Tayvan | 37 |
 | 🇵🇱 Polonya | 36 |
-| 🇳🇱 Hollanda | 31 |
-| 🇹🇼 Tayvan | 30 |
-| 🇲🇾 Malezya | 24 |
+| 🇳🇱 Hollanda | 32 |
+| 🇲🇾 Malezya | 21 |
 | 🇮🇪 İrlanda | 9 |
 | 🇹🇭 Tayland | 4 |
 | 🇨🇳 Çin | 1 |
+| 🇮🇩 Endonezya | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇳🇱 Hollanda · 8MM2 | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 13/13 |
-| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 13/13 |
-| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 13/13 |
-| 🇫🇷 Fransa · KKXC | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 13/13 |
-| 🇫🇷 Fransa · PXBS | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 13/13 |
+| 🇫🇷 Fransa · R8D8 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 14/14 |
+| 🇫🇷 Fransa · 8044 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 14/14 |
+| 🇫🇷 Fransa · 8NVZ | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 14/14 |
+| 🇫🇷 Fransa · RNQ2 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 14/14 |
+| 🇫🇷 Fransa · DPW4 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 14/14 |
 
