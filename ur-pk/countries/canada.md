@@ -5,9 +5,9 @@
 
 [ممالک اور علاقے](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-23 05:33:00 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-23 11:44:42 UTC
 
-**جانچ میں کامیاب نوڈز** · 524
+**جانچ میں کامیاب نوڈز** · 439
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,18 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| VMess | 238 |
-| VLESS | 129 |
-| Shadowsocks | 102 |
-| Trojan | 55 |
+| VMess | 244 |
+| Shadowsocks | 110 |
+| Trojan | 52 |
+| VLESS | 33 |
 
 ## ٹیسٹ میں کامیاب نوڈز کے نمونے
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇨🇦 کینیڈا · 404R | Shadowsocks | 86 ms (🇫🇷 فرانس) | 14/14 |
-| 🇨🇦 کینیڈا · A833 | Shadowsocks | 86 ms (🇫🇷 فرانس) | 14/14 |
-| 🇨🇦 کینیڈا · MCT8 | Shadowsocks | 86 ms (🇫🇷 فرانس) | 14/14 |
-| 🇨🇦 کینیڈا · FPW8 | Shadowsocks | 88 ms (🇫🇷 فرانس) | 14/14 |
-| 🇨🇦 کینیڈا · 914D | VMess | 89 ms (🇫🇷 فرانس) | 14/14 |
+| 🇨🇦 کینیڈا · G4TM | VMess | 86 ms (🇫🇷 فرانس) | 15/15 |
+| 🇨🇦 کینیڈا · KHB7 | Shadowsocks | 87 ms (🇫🇷 فرانس) | 15/15 |
+| 🇨🇦 کینیڈا · V9WX | Shadowsocks | 89 ms (🇫🇷 فرانس) | 15/15 |
+| 🇨🇦 کینیڈا · 4FH6 | VMess | 90 ms (🇫🇷 فرانس) | 15/15 |
+| 🇨🇦 کینیڈا · V7FG | VMess | 91 ms (🇫🇷 فرانس) | 15/15 |
 

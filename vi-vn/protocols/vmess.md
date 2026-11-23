@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-23 05:33:00 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-23 11:44:42 UTC
 
-**Nút đạt yêu cầu** · 3985
+**Nút đạt yêu cầu** · 4004
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,35 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 2096 |
-| 🇯🇵 Nhật Bản | 262 |
-| 🇨🇦 Canada | 238 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 184 |
-| 🇸🇬 Singapore | 169 |
-| 🇫🇷 Pháp | 159 |
-| 🇮🇳 Ấn Độ | 128 |
-| 🇬🇧 Vương quốc Anh | 124 |
+| 🇺🇸 Hoa Kỳ | 2099 |
+| 🇯🇵 Nhật Bản | 277 |
+| 🇨🇦 Canada | 244 |
+| 🇸🇬 Singapore | 178 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 176 |
+| 🇫🇷 Pháp | 163 |
+| 🇮🇳 Ấn Độ | 126 |
+| 🇬🇧 Vương quốc Anh | 122 |
 | 🇦🇹 Áo | 105 |
 | 🇧🇷 Brazil | 85 |
-| 🇰🇷 Hàn Quốc | 85 |
+| 🇰🇷 Hàn Quốc | 77 |
 | 🇩🇪 Đức | 74 |
-| 🇰🇿 Kazakhstan | 71 |
+| 🇰🇿 Kazakhstan | 74 |
 | 🇸🇪 Thụy Điển | 64 |
-| 🇹🇼 Đài Loan | 37 |
-| 🇵🇱 Ba Lan | 36 |
+| 🇵🇱 Ba Lan | 38 |
 | 🇳🇱 Hà Lan | 32 |
-| 🇲🇾 Malaysia | 21 |
-| 🇮🇪 Ireland | 9 |
+| 🇹🇼 Đài Loan | 30 |
+| 🇲🇾 Malaysia | 27 |
+| 🇮🇪 Ireland | 8 |
 | 🇹🇭 Thái Lan | 4 |
 | 🇨🇳 Trung Quốc | 1 |
-| 🇮🇩 Indonesia | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 14/14 |
-| 🇫🇷 Pháp · 8044 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 14/14 |
-| 🇫🇷 Pháp · 8NVZ | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 14/14 |
-| 🇫🇷 Pháp · RNQ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 14/14 |
-| 🇫🇷 Pháp · DPW4 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 14/14 |
+| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 15/15 |
+| 🇫🇷 Pháp · PNEQ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 15/15 |
+| 🇫🇷 Pháp · PXBS | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 15/15 |
+| 🇫🇷 Pháp · 1KZ4 | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 15/15 |
+| 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 15/15 |
 

@@ -13,9 +13,9 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 
 ## Latest snapshot
 
-**Latest completed test** · 2026-11-23 05:33:00 UTC
+**Latest completed test** · 2026-11-23 11:44:42 UTC
 
-**Passed nodes** · 7536  
+**Passed nodes** · 7227  
 **Exit locations** · 58  
 **Protocols** · 6  
 **Recommended nodes** · 500
@@ -24,11 +24,11 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 
 | Rank | Node | Exit location | Protocol | Observed latency | Pass streak | Recent passes |
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | 🇸🇪 Sweden · 6WJH | 🇸🇪 Sweden | Shadowsocks | 42 ms (🇫🇷 France) | 14 | 14/14 |
-| 9 | 🇸🇪 Sweden · GV8X | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 14 | 14/14 |
-| 10 | 🇺🇸 United States · 4GP8 | 🇺🇸 United States | VLESS | 81 ms (🇫🇷 France) | 14 | 14/14 |
-| 11 | 🇫🇷 France · PXBS | 🇫🇷 France | VMess | 16 ms (🇫🇷 France) | 14 | 14/14 |
-| 12 | 🇸🇪 Sweden · SGT8 | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 14 | 14/14 |
+| 6 | 🇸🇪 Sweden · GV8X | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 15 | 15/15 |
+| 7 | 🇸🇪 Sweden · SGT8 | 🇸🇪 Sweden | VMess | 44 ms (🇫🇷 France) | 15 | 15/15 |
+| 8 | 🇫🇷 France · PXBS | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 15 | 15/15 |
+| 9 | 🇫🇷 France · 9HJD | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 15 | 15/15 |
+| 10 | 🇫🇷 France · GNZJ | 🇫🇷 France | VMess | 13 ms (🇫🇷 France) | 15 | 15/15 |
 
 [See the full ranking and import options](https://www.foxdetector.com/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Browse the ranking preview](top500.md)
 

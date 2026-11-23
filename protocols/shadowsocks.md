@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 05:33:00 UTC
+**Latest completed test** · 2026-11-23 11:44:42 UTC
 
-**Passed nodes** · 1637
+**Passed nodes** · 1619
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,24 +15,24 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 587 |
+| 🇺🇸 United States | 601 |
 | 🇳🇱 Netherlands | 172 |
-| 🇩🇪 Germany | 157 |
-| 🇨🇦 Canada | 102 |
-| 🇮🇹 Italy | 98 |
-| 🇫🇷 France | 86 |
-| 🇬🇧 United Kingdom | 70 |
-| 🇪🇸 Spain | 68 |
-| 🇸🇬 Singapore | 63 |
+| 🇨🇦 Canada | 110 |
+| 🇮🇹 Italy | 100 |
+| 🇩🇪 Germany | 88 |
+| 🇫🇷 France | 83 |
+| 🇬🇧 United Kingdom | 78 |
+| 🇪🇸 Spain | 74 |
+| 🇸🇬 Singapore | 66 |
 | 🇵🇱 Poland | 52 |
-| 🇨🇭 Switzerland | 41 |
+| 🇨🇭 Switzerland | 46 |
 | 🇦🇱 Albania | 28 |
-| 🇯🇵 Japan | 25 |
-| 🇫🇮 Finland | 13 |
-| 🇦🇹 Austria | 11 |
+| 🇯🇵 Japan | 27 |
+| 🇫🇮 Finland | 15 |
+| 🇦🇹 Austria | 12 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Lithuania | 10 |
-| 🇸🇪 Sweden | 10 |
+| 🇱🇹 Lithuania | 11 |
+| 🇸🇪 Sweden | 11 |
 | 🇱🇻 Latvia | 9 |
 | 🇰🇷 South Korea | 8 |
 | 🇷🇺 Russia | 7 |
@@ -40,14 +40,15 @@
 | 🇭🇰 Hong Kong SAR China | 2 |
 | 🇿🇦 South Africa | 2 |
 | 🇮🇪 Ireland | 1 |
+| 🇮🇳 India | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · G2TY | 🇫🇷 France | 10 ms (🇫🇷 France) | 14/14 |
-| 🇫🇷 France · 1V47 | 🇫🇷 France | 10 ms (🇫🇷 France) | 14/14 |
-| 🇳🇱 Netherlands · VCHH | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 14/14 |
-| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 14/14 |
-| 🇬🇧 United Kingdom · 6E7V | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 14/14 |
+| 🇬🇧 United Kingdom · XXZV | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 15/15 |
+| 🇫🇷 France · FMCG | 🇫🇷 France | 11 ms (🇫🇷 France) | 15/15 |
+| 🇳🇱 Netherlands · 7SCJ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 15/15 |
+| 🇳🇱 Netherlands · 5TG2 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 15/15 |
+| 🇳🇱 Netherlands · XXED | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 15/15 |
 

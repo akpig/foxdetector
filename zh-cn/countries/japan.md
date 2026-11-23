@@ -1,0 +1,33 @@
+# 🇯🇵 日本
+
+**语言**  
+[English](../../countries/japan.md) · [العربية](../../ar/countries/japan.md) · **简体中文** · [繁體中文](../../zh-hant/countries/japan.md) · [日本語](../../ja/countries/japan.md) · [فارسی](../../fa-ir/countries/japan.md) · [Русский](../../ru-ru/countries/japan.md) · [Türkçe](../../tr-tr/countries/japan.md) · [اردو](../../ur-pk/countries/japan.md) · [Tiếng Việt](../../vi-vn/countries/japan.md)
+
+[国家和地区](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
+
+**最近检测完成** · 2026-11-23 11:44:42 UTC
+
+**通过节点** · 461
+
+[查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
+
+## 协议
+
+| 协议 | 通过节点 |
+| --- | --- |
+| VMess | 277 |
+| VLESS | 150 |
+| Shadowsocks | 27 |
+| Hysteria2 | 4 |
+| Trojan | 3 |
+
+## 通过检测的节点示例
+
+| 节点 | 协议 | 观察点延时 | 近期通过记录 |
+| --- | --- | --- | --- |
+| 🇯🇵 日本 · FZE3 | Shadowsocks | 217 ms (🇫🇷 法国) | 15/15 |
+| 🇯🇵 日本 · QJAC | Shadowsocks | 217 ms (🇫🇷 法国) | 15/15 |
+| 🇯🇵 日本 · H0DT | Shadowsocks | 219 ms (🇫🇷 法国) | 15/15 |
+| 🇯🇵 日本 · QHAX | VMess | 219 ms (🇫🇷 法国) | 15/15 |
+| 🇯🇵 日本 · AGP1 | VMess | 219 ms (🇫🇷 法国) | 15/15 |
+
