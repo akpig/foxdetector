@@ -5,9 +5,9 @@
 
 [Ülkeler ve bölgeler](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-23 11:44:42 UTC
+**Son testin tamamlanma zamanı** · 2026-11-23 17:52:51 UTC
 
-**Testi geçen düğümler** · 439
+**Testi geçen düğümler** · 453
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,18 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VMess | 244 |
-| Shadowsocks | 110 |
-| Trojan | 52 |
-| VLESS | 33 |
+| VMess | 253 |
+| Shadowsocks | 108 |
+| Trojan | 54 |
+| VLESS | 38 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇨🇦 Kanada · G4TM | VMess | 86 ms (🇫🇷 Fransa) | 15/15 |
-| 🇨🇦 Kanada · KHB7 | Shadowsocks | 87 ms (🇫🇷 Fransa) | 15/15 |
-| 🇨🇦 Kanada · V9WX | Shadowsocks | 89 ms (🇫🇷 Fransa) | 15/15 |
-| 🇨🇦 Kanada · 4FH6 | VMess | 90 ms (🇫🇷 Fransa) | 15/15 |
-| 🇨🇦 Kanada · V7FG | VMess | 91 ms (🇫🇷 Fransa) | 15/15 |
+| 🇨🇦 Kanada · 5RH5 | VMess | 92 ms (🇫🇷 Fransa) | 16/16 |
+| 🇨🇦 Kanada · ASRV | VMess | 93 ms (🇫🇷 Fransa) | 16/16 |
+| 🇨🇦 Kanada · 2GFV | Shadowsocks | 93 ms (🇫🇷 Fransa) | 16/16 |
+| 🇨🇦 Kanada · K10F | VMess | 94 ms (🇫🇷 Fransa) | 16/16 |
+| 🇨🇦 Kanada · BJTV | VMess | 94 ms (🇫🇷 Fransa) | 16/16 |
 

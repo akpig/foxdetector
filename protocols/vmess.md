@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 11:44:42 UTC
+**Latest completed test** · 2026-11-23 17:52:51 UTC
 
-**Passed nodes** · 4004
+**Passed nodes** · 3988
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,25 +15,26 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 2099 |
-| 🇯🇵 Japan | 277 |
-| 🇨🇦 Canada | 244 |
-| 🇸🇬 Singapore | 178 |
-| 🇭🇰 Hong Kong SAR China | 176 |
-| 🇫🇷 France | 163 |
-| 🇮🇳 India | 126 |
-| 🇬🇧 United Kingdom | 122 |
-| 🇦🇹 Austria | 105 |
-| 🇧🇷 Brazil | 85 |
-| 🇰🇷 South Korea | 77 |
-| 🇩🇪 Germany | 74 |
-| 🇰🇿 Kazakhstan | 74 |
-| 🇸🇪 Sweden | 64 |
+| 🇺🇸 United States | 2091 |
+| 🇯🇵 Japan | 275 |
+| 🇨🇦 Canada | 253 |
+| 🇸🇬 Singapore | 177 |
+| 🇫🇷 France | 175 |
+| 🇭🇰 Hong Kong SAR China | 143 |
+| 🇬🇧 United Kingdom | 134 |
+| 🇮🇳 India | 124 |
+| 🇦🇹 Austria | 112 |
+| 🇧🇷 Brazil | 87 |
+| 🇰🇿 Kazakhstan | 80 |
+| 🇩🇪 Germany | 75 |
+| 🇸🇪 Sweden | 68 |
+| 🇰🇷 South Korea | 61 |
 | 🇵🇱 Poland | 38 |
 | 🇳🇱 Netherlands | 32 |
-| 🇹🇼 Taiwan | 30 |
-| 🇲🇾 Malaysia | 27 |
-| 🇮🇪 Ireland | 8 |
+| 🇲🇾 Malaysia | 26 |
+| 🇫🇮 Finland | 17 |
+| 🇮🇪 Ireland | 11 |
+| 🇨🇭 Switzerland | 4 |
 | 🇹🇭 Thailand | 4 |
 | 🇨🇳 China | 1 |
 
@@ -41,9 +42,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · FA33 | 🇫🇷 France | 11 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · PNEQ | 🇫🇷 France | 11 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · PXBS | 🇫🇷 France | 12 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · 1KZ4 | 🇫🇷 France | 12 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 15/15 |
+| 🇫🇷 France · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · 8044 | 🇫🇷 France | 11 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · 3R55 | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · 7JKS | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
 

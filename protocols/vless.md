@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 11:44:42 UTC
+**Latest completed test** · 2026-11-23 17:52:51 UTC
 
-**Passed nodes** · 1017
+**Passed nodes** · 1133
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
@@ -15,53 +15,52 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇩🇪 Germany | 210 |
-| 🇯🇵 Japan | 150 |
-| 🇺🇸 United States | 136 |
-| 🇳🇱 Netherlands | 126 |
-| 🇸🇬 Singapore | 43 |
-| 🇨🇦 Canada | 33 |
-| 🇫🇷 France | 32 |
-| 🇬🇧 United Kingdom | 31 |
-| 🇪🇸 Spain | 27 |
-| 🇸🇪 Sweden | 26 |
-| 🇫🇮 Finland | 24 |
-| 🇵🇱 Poland | 22 |
-| 🇭🇰 Hong Kong SAR China | 17 |
-| 🇨🇭 Switzerland | 10 |
-| 🇨🇿 Czechia | 9 |
-| 🇷🇺 Russia | 9 |
+| 🇩🇪 Germany | 206 |
+| 🇺🇸 United States | 192 |
+| 🇯🇵 Japan | 158 |
+| 🇳🇱 Netherlands | 120 |
+| 🇸🇬 Singapore | 44 |
+| 🇨🇦 Canada | 38 |
+| 🇫🇷 France | 36 |
+| 🇭🇰 Hong Kong SAR China | 35 |
+| 🇫🇮 Finland | 34 |
+| 🇬🇧 United Kingdom | 32 |
+| 🇵🇱 Poland | 30 |
+| 🇪🇸 Spain | 29 |
+| 🇸🇪 Sweden | 28 |
+| 🇨🇭 Switzerland | 13 |
+| 🇨🇿 Czechia | 12 |
+| 🇧🇾 Belarus | 9 |
 | 🇮🇪 Ireland | 8 |
-| 🇮🇶 Iraq | 8 |
-| 🇧🇾 Belarus | 7 |
+| 🇹🇷 Turkey | 8 |
+| 🇧🇬 Bulgaria | 7 |
 | 🇮🇷 Iran | 7 |
-| 🇰🇷 South Korea | 6 |
+| 🇰🇷 South Korea | 7 |
+| 🇷🇺 Russia | 7 |
+| 🇨🇾 Cyprus | 6 |
 | 🇺🇦 Ukraine | 6 |
+| 🇮🇶 Iraq | 5 |
 | 🇰🇿 Kazakhstan | 5 |
-| 🇱🇻 Latvia | 5 |
 | 🇻🇳 Vietnam | 5 |
 | 🇦🇪 United Arab Emirates | 4 |
-| 🇧🇬 Bulgaria | 4 |
-| 🇨🇾 Cyprus | 4 |
+| 🇱🇻 Latvia | 4 |
 | 🇹🇼 Taiwan | 4 |
 | 🇦🇺 Australia | 3 |
 | 🇪🇪 Estonia | 3 |
-| 🇮🇹 Italy | 3 |
 | 🇱🇹 Lithuania | 3 |
-| 🇳🇴 Norway | 3 |
-| 🇹🇷 Turkey | 3 |
-| 🇦🇷 Argentina | 2 |
+| 🇵🇹 Portugal | 3 |
+| 🇦🇱 Albania | 2 |
 | 🇩🇰 Denmark | 2 |
 | 🇬🇷 Greece | 2 |
-| 🇭🇳 Honduras | 2 |
-| 🇵🇹 Portugal | 2 |
+| 🇮🇹 Italy | 2 |
+| 🇲🇽 Mexico | 2 |
+| 🇳🇴 Norway | 2 |
 | 🇷🇴 Romania | 2 |
-| 🇦🇱 Albania | 1 |
 | 🇦🇹 Austria | 1 |
 | 🇦🇿 Azerbaijan | 1 |
 | 🇧🇷 Brazil | 1 |
+| 🇭🇳 Honduras | 1 |
 | 🇮🇳 India | 1 |
-| 🇲🇽 Mexico | 1 |
 | 🇵🇦 Panama | 1 |
 | 🇸🇦 Saudi Arabia | 1 |
 | 🇸🇰 Slovakia | 1 |
@@ -70,9 +69,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · GH1Q | 🇫🇷 France | 4 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · TZF9 | 🇫🇷 France | 4 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · JMAP | 🇫🇷 France | 4 ms (🇫🇷 France) | 15/15 |
-| 🇫🇷 France · 4GE8 | 🇫🇷 France | 5 ms (🇫🇷 France) | 15/15 |
-| 🇳🇱 Netherlands · 6Z4S | 🇳🇱 Netherlands | 10 ms (🇫🇷 France) | 15/15 |
+| 🇫🇷 France · FMFC | 🇫🇷 France | 4 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · Q994 | 🇫🇷 France | 4 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · JMAP | 🇫🇷 France | 5 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · 4GE8 | 🇫🇷 France | 5 ms (🇫🇷 France) | 16/16 |
+| 🇳🇱 Netherlands · BHMD | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 16/16 |
 

@@ -5,9 +5,9 @@
 
 [國家和地區](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-23 11:44:42 UTC
+**最近完成檢測** · 2026-11-23 17:52:51 UTC
 
-**通過節點** · 439
+**通過節點** · 453
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,18 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| VMess | 244 |
-| Shadowsocks | 110 |
-| Trojan | 52 |
-| VLESS | 33 |
+| VMess | 253 |
+| Shadowsocks | 108 |
+| Trojan | 54 |
+| VLESS | 38 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇨🇦 加拿大 · G4TM | VMess | 86 ms (🇫🇷 法國) | 15/15 |
-| 🇨🇦 加拿大 · KHB7 | Shadowsocks | 87 ms (🇫🇷 法國) | 15/15 |
-| 🇨🇦 加拿大 · V9WX | Shadowsocks | 89 ms (🇫🇷 法國) | 15/15 |
-| 🇨🇦 加拿大 · 4FH6 | VMess | 90 ms (🇫🇷 法國) | 15/15 |
-| 🇨🇦 加拿大 · V7FG | VMess | 91 ms (🇫🇷 法國) | 15/15 |
+| 🇨🇦 加拿大 · 5RH5 | VMess | 92 ms (🇫🇷 法國) | 16/16 |
+| 🇨🇦 加拿大 · ASRV | VMess | 93 ms (🇫🇷 法國) | 16/16 |
+| 🇨🇦 加拿大 · 2GFV | Shadowsocks | 93 ms (🇫🇷 法國) | 16/16 |
+| 🇨🇦 加拿大 · K10F | VMess | 94 ms (🇫🇷 法國) | 16/16 |
+| 🇨🇦 加拿大 · BJTV | VMess | 94 ms (🇫🇷 法國) | 16/16 |
 
