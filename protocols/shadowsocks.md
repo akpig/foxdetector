@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-24 11:59:00 UTC
+**Latest completed test** · 2026-11-24 18:03:16 UTC
 
-**Passed nodes** · 1762
+**Passed nodes** · 1753
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,28 +15,28 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 689 |
-| 🇳🇱 Netherlands | 191 |
-| 🇮🇹 Italy | 120 |
-| 🇨🇦 Canada | 109 |
-| 🇫🇷 France | 98 |
-| 🇩🇪 Germany | 94 |
-| 🇬🇧 United Kingdom | 91 |
-| 🇸🇬 Singapore | 73 |
-| 🇨🇭 Switzerland | 59 |
-| 🇪🇸 Spain | 57 |
+| 🇺🇸 United States | 691 |
+| 🇳🇱 Netherlands | 190 |
+| 🇮🇹 Italy | 114 |
+| 🇨🇦 Canada | 113 |
+| 🇫🇷 France | 97 |
+| 🇩🇪 Germany | 93 |
+| 🇬🇧 United Kingdom | 92 |
+| 🇸🇬 Singapore | 82 |
+| 🇨🇭 Switzerland | 58 |
+| 🇪🇸 Spain | 54 |
 | 🇵🇱 Poland | 50 |
 | 🇯🇵 Japan | 31 |
-| 🇦🇱 Albania | 23 |
+| 🇦🇱 Albania | 18 |
 | 🇦🇹 Austria | 14 |
 | 🇸🇪 Sweden | 13 |
 | 🇧🇬 Bulgaria | 11 |
 | 🇱🇹 Lithuania | 11 |
-| 🇱🇻 Latvia | 8 |
 | 🇰🇷 South Korea | 7 |
-| 🇭🇰 Hong Kong SAR China | 4 |
-| 🇷🇺 Russia | 3 |
+| 🇱🇻 Latvia | 5 |
+| 🇭🇰 Hong Kong SAR China | 2 |
 | 🇿🇦 South Africa | 2 |
+| 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
@@ -46,9 +46,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
-| 🇬🇧 United Kingdom · 6E7V | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 19/19 |
-| 🇫🇷 France · FMCG | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
-| 🇳🇱 Netherlands · DAY6 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 19/19 |
-| 🇳🇱 Netherlands · E6DY | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 19/19 |
+| 🇬🇧 United Kingdom · JYEE | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 20/20 |
+| 🇳🇱 Netherlands · 5BXH | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 20/20 |
+| 🇳🇱 Netherlands · MEV9 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 20/20 |
+| 🇬🇧 United Kingdom · 28E0 | 🇬🇧 United Kingdom | 13 ms (🇫🇷 France) | 20/20 |
+| 🇳🇱 Netherlands · N3KX | 🇳🇱 Netherlands | 13 ms (🇫🇷 France) | 20/20 |
 

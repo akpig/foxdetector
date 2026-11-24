@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-24 11:59:00 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-24 18:03:16 UTC
 
 [پروتکل‌ها · باز کردن FoxDetector](https://www.foxdetector.com/fa-ir/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | پروتکل | گره‌های موفق در آزمایش | محل‌های خروج | نمونهٔ آزمایش |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/fa-ir/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 4532 | 22 | [نمونهٔ آزمایش](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/fa-ir/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1762 | 26 | [نمونهٔ آزمایش](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/fa-ir/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1065 | 46 | [نمونهٔ آزمایش](vless.md) |
-| [Trojan](https://www.foxdetector.com/fa-ir/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 493 | 20 | — |
-| [Hysteria2](https://www.foxdetector.com/fa-ir/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 82 | 20 | — |
-| [AnyTLS](https://www.foxdetector.com/fa-ir/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 10 | 4 | — |
+| [VMess](https://www.foxdetector.com/fa-ir/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 4786 | 22 | [نمونهٔ آزمایش](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/fa-ir/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1753 | 26 | [نمونهٔ آزمایش](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/fa-ir/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1047 | 46 | [نمونهٔ آزمایش](vless.md) |
+| [Trojan](https://www.foxdetector.com/fa-ir/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 495 | 20 | — |
+| [Hysteria2](https://www.foxdetector.com/fa-ir/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 85 | 19 | — |
+| [AnyTLS](https://www.foxdetector.com/fa-ir/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 12 | 5 | — |
 

@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 11:59:00 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 18:03:16 UTC
 
-**Nút đạt yêu cầu** · 4532
+**Nút đạt yêu cầu** · 4786
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 2513 |
-| 🇨🇦 Canada | 258 |
-| 🇫🇷 Pháp | 207 |
-| 🇸🇬 Singapore | 202 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 181 |
-| 🇯🇵 Nhật Bản | 152 |
-| 🇬🇧 Vương quốc Anh | 148 |
-| 🇮🇳 Ấn Độ | 135 |
-| 🇦🇹 Áo | 123 |
-| 🇩🇪 Đức | 98 |
-| 🇧🇷 Brazil | 92 |
-| 🇰🇿 Kazakhstan | 91 |
-| 🇸🇪 Thụy Điển | 89 |
-| 🇰🇷 Hàn Quốc | 82 |
+| 🇺🇸 Hoa Kỳ | 2571 |
+| 🇯🇵 Nhật Bản | 322 |
+| 🇨🇦 Canada | 263 |
+| 🇫🇷 Pháp | 214 |
+| 🇸🇬 Singapore | 207 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 188 |
+| 🇬🇧 Vương quốc Anh | 134 |
+| 🇮🇳 Ấn Độ | 134 |
+| 🇦🇹 Áo | 125 |
+| 🇩🇪 Đức | 102 |
+| 🇧🇷 Brazil | 95 |
+| 🇸🇪 Thụy Điển | 93 |
+| 🇰🇷 Hàn Quốc | 88 |
+| 🇰🇿 Kazakhstan | 88 |
 | 🇵🇱 Ba Lan | 41 |
-| 🇳🇱 Hà Lan | 36 |
-| 🇲🇾 Malaysia | 33 |
-| 🇫🇮 Phần Lan | 17 |
-| 🇨🇭 Thụy Sĩ | 14 |
-| 🇮🇪 Ireland | 8 |
+| 🇳🇱 Hà Lan | 37 |
+| 🇲🇾 Malaysia | 36 |
+| 🇨🇭 Thụy Sĩ | 16 |
+| 🇫🇮 Phần Lan | 13 |
+| 🇮🇪 Ireland | 10 |
 | 🇹🇭 Thái Lan | 8 |
-| 🇨🇳 Trung Quốc | 4 |
+| 🇨🇳 Trung Quốc | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 19/19 |
-| 🇫🇷 Pháp · J52S | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 19/19 |
-| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 19/19 |
-| 🇫🇷 Pháp · 00Z1 | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 19/19 |
-| 🇫🇷 Pháp · 1TTG | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 19/19 |
+| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · FR98 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · PXBS | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
 

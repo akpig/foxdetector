@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-24 11:59:00 UTC
+**Latest completed test** · 2026-11-24 18:03:16 UTC
 
-**Passed nodes** · 4532
+**Passed nodes** · 4786
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 2513 |
-| 🇨🇦 Canada | 258 |
-| 🇫🇷 France | 207 |
-| 🇸🇬 Singapore | 202 |
-| 🇭🇰 Hong Kong SAR China | 181 |
-| 🇯🇵 Japan | 152 |
-| 🇬🇧 United Kingdom | 148 |
-| 🇮🇳 India | 135 |
-| 🇦🇹 Austria | 123 |
-| 🇩🇪 Germany | 98 |
-| 🇧🇷 Brazil | 92 |
-| 🇰🇿 Kazakhstan | 91 |
-| 🇸🇪 Sweden | 89 |
-| 🇰🇷 South Korea | 82 |
+| 🇺🇸 United States | 2571 |
+| 🇯🇵 Japan | 322 |
+| 🇨🇦 Canada | 263 |
+| 🇫🇷 France | 214 |
+| 🇸🇬 Singapore | 207 |
+| 🇭🇰 Hong Kong SAR China | 188 |
+| 🇬🇧 United Kingdom | 134 |
+| 🇮🇳 India | 134 |
+| 🇦🇹 Austria | 125 |
+| 🇩🇪 Germany | 102 |
+| 🇧🇷 Brazil | 95 |
+| 🇸🇪 Sweden | 93 |
+| 🇰🇷 South Korea | 88 |
+| 🇰🇿 Kazakhstan | 88 |
 | 🇵🇱 Poland | 41 |
-| 🇳🇱 Netherlands | 36 |
-| 🇲🇾 Malaysia | 33 |
-| 🇫🇮 Finland | 17 |
-| 🇨🇭 Switzerland | 14 |
-| 🇮🇪 Ireland | 8 |
+| 🇳🇱 Netherlands | 37 |
+| 🇲🇾 Malaysia | 36 |
+| 🇨🇭 Switzerland | 16 |
+| 🇫🇮 Finland | 13 |
+| 🇮🇪 Ireland | 10 |
 | 🇹🇭 Thailand | 8 |
-| 🇨🇳 China | 4 |
+| 🇨🇳 China | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
-| 🇫🇷 France · J52S | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
-| 🇫🇷 France · 8CQN | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
-| 🇫🇷 France · 00Z1 | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
-| 🇫🇷 France · 1TTG | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
+| 🇫🇷 France · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · FR98 | 🇫🇷 France | 11 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · PXBS | 🇫🇷 France | 12 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · FA33 | 🇫🇷 France | 12 ms (🇫🇷 France) | 20/20 |
 

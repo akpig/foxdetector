@@ -5,9 +5,9 @@
 
 [Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 11:59:00 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 18:03:16 UTC
 
-**Nút đạt yêu cầu** · 465
+**Nút đạt yêu cầu** · 475
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,19 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| VMess | 258 |
-| Shadowsocks | 109 |
-| Trojan | 53 |
-| VLESS | 45 |
+| VMess | 263 |
+| Shadowsocks | 113 |
+| Trojan | 57 |
+| VLESS | 41 |
+| AnyTLS | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · 9DCK | Shadowsocks | 91 ms (🇫🇷 Pháp) | 19/19 |
-| 🇨🇦 Canada · 80CV | VMess | 92 ms (🇫🇷 Pháp) | 19/19 |
-| 🇨🇦 Canada · GSTD | VMess | 92 ms (🇫🇷 Pháp) | 19/19 |
-| 🇨🇦 Canada · RF7Y | VMess | 92 ms (🇫🇷 Pháp) | 19/19 |
-| 🇨🇦 Canada · 820Q | VMess | 92 ms (🇫🇷 Pháp) | 19/19 |
+| 🇨🇦 Canada · MHV2 | VMess | 92 ms (🇫🇷 Pháp) | 20/20 |
+| 🇨🇦 Canada · 5NYE | VMess | 92 ms (🇫🇷 Pháp) | 20/20 |
+| 🇨🇦 Canada · FSQD | VMess | 93 ms (🇫🇷 Pháp) | 20/20 |
+| 🇨🇦 Canada · GSTD | VMess | 93 ms (🇫🇷 Pháp) | 20/20 |
+| 🇨🇦 Canada · MTNZ | VMess | 93 ms (🇫🇷 Pháp) | 20/20 |
 
