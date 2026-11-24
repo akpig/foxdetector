@@ -5,9 +5,9 @@
 
 [国家和地区](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-23 23:38:01 UTC
+**最近检测完成** · 2026-11-24 05:50:33 UTC
 
-**通过节点** · 3336
+**通过节点** · 3511
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 2256 |
+| VMess | 2441 |
 | Shadowsocks | 642 |
-| Trojan | 231 |
-| VLESS | 190 |
-| Hysteria2 | 16 |
+| Trojan | 234 |
+| VLESS | 179 |
+| Hysteria2 | 14 |
 | AnyTLS | 1 |
 
 ## 通过检测的节点示例
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇺🇸 美国 · 72V7 | VLESS | 19 ms (🇫🇷 法国) | 17/17 |
-| 🇺🇸 美国 · 7HGE | VLESS | 20 ms (🇫🇷 法国) | 17/17 |
-| 🇺🇸 美国 · 21HZ | VLESS | 21 ms (🇫🇷 法国) | 17/17 |
-| 🇺🇸 美国 · 7TX7 | VLESS | 22 ms (🇫🇷 法国) | 17/17 |
-| 🇺🇸 美国 · M0XF | VLESS | 24 ms (🇫🇷 法国) | 17/17 |
+| 🇺🇸 美国 · DXX2 | VLESS | 19 ms (🇫🇷 法国) | 18/18 |
+| 🇺🇸 美国 · BE6N | Shadowsocks | 26 ms (🇫🇷 法国) | 18/18 |
+| 🇺🇸 美国 · 8VFS | VLESS | 35 ms (🇫🇷 法国) | 18/18 |
+| 🇺🇸 美国 · 72V7 | VLESS | 45 ms (🇫🇷 法国) | 18/18 |
+| 🇺🇸 美国 · 905Y | Hysteria2 | 50 ms (🇫🇷 法国) | 18/18 |
 

@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-23 23:38:01 UTC
+**Son testin tamamlanma zamanı** · 2026-11-24 05:50:33 UTC
 
-**Testi geçen düğümler** · 4341
+**Testi geçen düğümler** · 4524
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,37 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2256 |
-| 🇯🇵 Japonya | 292 |
-| 🇨🇦 Kanada | 266 |
-| 🇸🇬 Singapur | 191 |
-| 🇫🇷 Fransa | 187 |
-| 🇭🇰 Çin Hong Kong ÖİB | 183 |
-| 🇬🇧 Birleşik Krallık | 139 |
-| 🇮🇳 Hindistan | 135 |
-| 🇦🇹 Avusturya | 115 |
-| 🇰🇿 Kazakistan | 102 |
-| 🇰🇷 Güney Kore | 91 |
-| 🇧🇷 Brezilya | 89 |
-| 🇩🇪 Almanya | 81 |
-| 🇸🇪 İsveç | 74 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2441 |
+| 🇨🇦 Kanada | 283 |
+| 🇫🇷 Fransa | 202 |
+| 🇸🇬 Singapur | 202 |
+| 🇯🇵 Japonya | 195 |
+| 🇭🇰 Çin Hong Kong ÖİB | 180 |
+| 🇬🇧 Birleşik Krallık | 150 |
+| 🇮🇳 Hindistan | 132 |
+| 🇦🇹 Avusturya | 121 |
+| 🇰🇿 Kazakistan | 108 |
+| 🇩🇪 Almanya | 94 |
+| 🇧🇷 Brezilya | 92 |
+| 🇰🇷 Güney Kore | 90 |
+| 🇸🇪 İsveç | 86 |
 | 🇵🇱 Polonya | 40 |
-| 🇳🇱 Hollanda | 32 |
-| 🇲🇾 Malezya | 28 |
-| 🇫🇮 Finlandiya | 15 |
-| 🇮🇪 İrlanda | 10 |
-| 🇨🇭 İsviçre | 7 |
+| 🇳🇱 Hollanda | 33 |
+| 🇲🇾 Malezya | 30 |
+| 🇫🇮 Finlandiya | 17 |
+| 🇨🇭 İsviçre | 11 |
+| 🇮🇪 İrlanda | 8 |
 | 🇹🇭 Tayland | 7 |
 | 🇨🇳 Çin | 1 |
+| 🇮🇩 Endonezya | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · BHGT | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 17/17 |
-| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
-| 🇫🇷 Fransa · 00Z1 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
-| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
-| 🇫🇷 Fransa · 5TKH | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · H492 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 18/18 |
+| 🇫🇷 Fransa · YZ08 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 18/18 |
+| 🇫🇷 Fransa · WKGV | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 18/18 |
+| 🇫🇷 Fransa · 2J9K | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 18/18 |
+| 🇫🇷 Fransa · J52S | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 18/18 |
 

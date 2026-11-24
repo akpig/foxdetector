@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-23 23:38:01 UTC
+**Son testin tamamlanma zamanı** · 2026-11-24 05:50:33 UTC
 
-**Testi geçen düğümler** · 1700
+**Testi geçen düğümler** · 1691
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -16,27 +16,27 @@
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
 | 🇺🇸 Amerika Birleşik Devletleri | 642 |
-| 🇳🇱 Hollanda | 184 |
-| 🇨🇦 Kanada | 113 |
-| 🇮🇹 İtalya | 112 |
-| 🇫🇷 Fransa | 90 |
-| 🇩🇪 Almanya | 89 |
+| 🇳🇱 Hollanda | 183 |
+| 🇨🇦 Kanada | 114 |
+| 🇮🇹 İtalya | 110 |
+| 🇫🇷 Fransa | 91 |
+| 🇩🇪 Almanya | 90 |
 | 🇬🇧 Birleşik Krallık | 83 |
 | 🇪🇸 İspanya | 79 |
-| 🇸🇬 Singapur | 73 |
+| 🇸🇬 Singapur | 66 |
 | 🇨🇭 İsviçre | 53 |
 | 🇵🇱 Polonya | 52 |
 | 🇯🇵 Japonya | 29 |
-| 🇦🇱 Arnavutluk | 25 |
+| 🇦🇱 Arnavutluk | 24 |
 | 🇦🇹 Avusturya | 13 |
 | 🇸🇪 İsveç | 12 |
-| 🇧🇬 Bulgaristan | 11 |
-| 🇱🇻 Letonya | 9 |
-| 🇱🇹 Litvanya | 8 |
+| 🇧🇬 Bulgaristan | 10 |
+| 🇱🇹 Litvanya | 10 |
+| 🇱🇻 Letonya | 8 |
 | 🇰🇷 Güney Kore | 6 |
 | 🇳🇴 Norveç | 4 |
-| 🇷🇺 Rusya | 4 |
 | 🇭🇰 Çin Hong Kong ÖİB | 3 |
+| 🇷🇺 Rusya | 3 |
 | 🇿🇦 Güney Afrika | 2 |
 | 🇨🇱 Şili | 1 |
 | 🇫🇮 Finlandiya | 1 |
@@ -47,9 +47,9 @@
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · FFH7 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
-| 🇳🇱 Hollanda · A2C0 | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 17/17 |
-| 🇬🇧 Birleşik Krallık · 6J4T | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 17/17 |
-| 🇳🇱 Hollanda · K116 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 17/17 |
-| 🇳🇱 Hollanda · B4RF | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · 1V47 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 18/18 |
+| 🇫🇷 Fransa · ERZ2 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 18/18 |
+| 🇬🇧 Birleşik Krallık · XXZV | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 18/18 |
+| 🇳🇱 Hollanda · DY1E | 🇳🇱 Hollanda | 11 ms (🇫🇷 Fransa) | 18/18 |
+| 🇬🇧 Birleşik Krallık · QB48 | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 18/18 |
 

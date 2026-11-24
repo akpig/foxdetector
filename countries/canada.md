@@ -5,9 +5,9 @@
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 23:38:01 UTC
+**Latest completed test** · 2026-11-24 05:50:33 UTC
 
-**Passed nodes** · 470
+**Passed nodes** · 541
 
 [See all passing nodes and import options](https://www.foxdetector.com/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,18 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 266 |
-| Shadowsocks | 113 |
-| Trojan | 54 |
-| VLESS | 37 |
+| VMess | 283 |
+| Shadowsocks | 114 |
+| VLESS | 88 |
+| Trojan | 56 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · T6MQ | VMess | 92 ms (🇫🇷 France) | 17/17 |
-| 🇨🇦 Canada · RAQF | VMess | 92 ms (🇫🇷 France) | 17/17 |
-| 🇨🇦 Canada · HGY5 | VMess | 92 ms (🇫🇷 France) | 17/17 |
-| 🇨🇦 Canada · 914D | VMess | 92 ms (🇫🇷 France) | 17/17 |
-| 🇨🇦 Canada · GSTD | VMess | 93 ms (🇫🇷 France) | 17/17 |
+| 🇨🇦 Canada · 9DCK | Shadowsocks | 84 ms (🇫🇷 France) | 18/18 |
+| 🇨🇦 Canada · G4TM | VMess | 86 ms (🇫🇷 France) | 18/18 |
+| 🇨🇦 Canada · 0VN8 | Shadowsocks | 89 ms (🇫🇷 France) | 18/18 |
+| 🇨🇦 Canada · 4NBV | VMess | 91 ms (🇫🇷 France) | 18/18 |
+| 🇨🇦 Canada · SKWJ | VMess | 92 ms (🇫🇷 France) | 18/18 |
 
