@@ -5,9 +5,9 @@
 
 [国・地域](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-23 17:52:51 UTC
+**直近の検証完了時刻** · 2026-11-23 23:38:01 UTC
 
-**検証に合格したノード** · 453
+**検証に合格したノード** · 470
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,18 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VMess | 253 |
-| Shadowsocks | 108 |
+| VMess | 266 |
+| Shadowsocks | 113 |
 | Trojan | 54 |
-| VLESS | 38 |
+| VLESS | 37 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇨🇦 カナダ · 5RH5 | VMess | 92 ms (🇫🇷 フランス) | 16/16 |
-| 🇨🇦 カナダ · ASRV | VMess | 93 ms (🇫🇷 フランス) | 16/16 |
-| 🇨🇦 カナダ · 2GFV | Shadowsocks | 93 ms (🇫🇷 フランス) | 16/16 |
-| 🇨🇦 カナダ · K10F | VMess | 94 ms (🇫🇷 フランス) | 16/16 |
-| 🇨🇦 カナダ · BJTV | VMess | 94 ms (🇫🇷 フランス) | 16/16 |
+| 🇨🇦 カナダ · T6MQ | VMess | 92 ms (🇫🇷 フランス) | 17/17 |
+| 🇨🇦 カナダ · RAQF | VMess | 92 ms (🇫🇷 フランス) | 17/17 |
+| 🇨🇦 カナダ · HGY5 | VMess | 92 ms (🇫🇷 フランス) | 17/17 |
+| 🇨🇦 カナダ · 914D | VMess | 92 ms (🇫🇷 フランス) | 17/17 |
+| 🇨🇦 カナダ · GSTD | VMess | 93 ms (🇫🇷 フランス) | 17/17 |
 

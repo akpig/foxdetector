@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-23 17:52:51 UTC
+**Son testin tamamlanma zamanı** · 2026-11-23 23:38:01 UTC
 
-**Testi geçen düğümler** · 3988
+**Testi geçen düğümler** · 4341
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2091 |
-| 🇯🇵 Japonya | 275 |
-| 🇨🇦 Kanada | 253 |
-| 🇸🇬 Singapur | 177 |
-| 🇫🇷 Fransa | 175 |
-| 🇭🇰 Çin Hong Kong ÖİB | 143 |
-| 🇬🇧 Birleşik Krallık | 134 |
-| 🇮🇳 Hindistan | 124 |
-| 🇦🇹 Avusturya | 112 |
-| 🇧🇷 Brezilya | 87 |
-| 🇰🇿 Kazakistan | 80 |
-| 🇩🇪 Almanya | 75 |
-| 🇸🇪 İsveç | 68 |
-| 🇰🇷 Güney Kore | 61 |
-| 🇵🇱 Polonya | 38 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2256 |
+| 🇯🇵 Japonya | 292 |
+| 🇨🇦 Kanada | 266 |
+| 🇸🇬 Singapur | 191 |
+| 🇫🇷 Fransa | 187 |
+| 🇭🇰 Çin Hong Kong ÖİB | 183 |
+| 🇬🇧 Birleşik Krallık | 139 |
+| 🇮🇳 Hindistan | 135 |
+| 🇦🇹 Avusturya | 115 |
+| 🇰🇿 Kazakistan | 102 |
+| 🇰🇷 Güney Kore | 91 |
+| 🇧🇷 Brezilya | 89 |
+| 🇩🇪 Almanya | 81 |
+| 🇸🇪 İsveç | 74 |
+| 🇵🇱 Polonya | 40 |
 | 🇳🇱 Hollanda | 32 |
-| 🇲🇾 Malezya | 26 |
-| 🇫🇮 Finlandiya | 17 |
-| 🇮🇪 İrlanda | 11 |
-| 🇨🇭 İsviçre | 4 |
-| 🇹🇭 Tayland | 4 |
+| 🇲🇾 Malezya | 28 |
+| 🇫🇮 Finlandiya | 15 |
+| 🇮🇪 İrlanda | 10 |
+| 🇨🇭 İsviçre | 7 |
+| 🇹🇭 Tayland | 7 |
 | 🇨🇳 Çin | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · 8CQN | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 16/16 |
-| 🇫🇷 Fransa · 8044 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 16/16 |
-| 🇫🇷 Fransa · QFEJ | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 16/16 |
-| 🇫🇷 Fransa · 3R55 | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 16/16 |
-| 🇫🇷 Fransa · 7JKS | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 16/16 |
+| 🇫🇷 Fransa · BHGT | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · 00Z1 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
+| 🇫🇷 Fransa · 5TKH | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 17/17 |
 

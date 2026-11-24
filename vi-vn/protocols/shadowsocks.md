@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-23 17:52:51 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-23 23:38:01 UTC
 
-**Nút đạt yêu cầu** · 1600
+**Nút đạt yêu cầu** · 1700
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,30 +15,31 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 597 |
-| 🇳🇱 Hà Lan | 168 |
-| 🇨🇦 Canada | 108 |
-| 🇮🇹 Italy | 95 |
-| 🇩🇪 Đức | 90 |
-| 🇫🇷 Pháp | 83 |
-| 🇬🇧 Vương quốc Anh | 77 |
-| 🇪🇸 Tây Ban Nha | 74 |
-| 🇸🇬 Singapore | 67 |
+| 🇺🇸 Hoa Kỳ | 642 |
+| 🇳🇱 Hà Lan | 184 |
+| 🇨🇦 Canada | 113 |
+| 🇮🇹 Italy | 112 |
+| 🇫🇷 Pháp | 90 |
+| 🇩🇪 Đức | 89 |
+| 🇬🇧 Vương quốc Anh | 83 |
+| 🇪🇸 Tây Ban Nha | 79 |
+| 🇸🇬 Singapore | 73 |
+| 🇨🇭 Thụy Sĩ | 53 |
 | 🇵🇱 Ba Lan | 52 |
-| 🇨🇭 Thụy Sĩ | 47 |
-| 🇯🇵 Nhật Bản | 27 |
-| 🇦🇱 Albania | 22 |
-| 🇫🇮 Phần Lan | 18 |
-| 🇦🇹 Áo | 12 |
+| 🇯🇵 Nhật Bản | 29 |
+| 🇦🇱 Albania | 25 |
+| 🇦🇹 Áo | 13 |
+| 🇸🇪 Thụy Điển | 12 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Litva | 11 |
-| 🇸🇪 Thụy Điển | 11 |
 | 🇱🇻 Latvia | 9 |
+| 🇱🇹 Litva | 8 |
 | 🇰🇷 Hàn Quốc | 6 |
 | 🇳🇴 Na Uy | 4 |
 | 🇷🇺 Nga | 4 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 3 |
 | 🇿🇦 Nam Phi | 2 |
+| 🇨🇱 Chile | 1 |
+| 🇫🇮 Phần Lan | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 Ấn Độ | 1 |
 
@@ -46,9 +47,9 @@
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · ZDQT | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 16/16 |
-| 🇳🇱 Hà Lan · 54JW | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 16/16 |
-| 🇳🇱 Hà Lan · Y3E6 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 16/16 |
-| 🇳🇱 Hà Lan · ZCXZ | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 16/16 |
-| 🇳🇱 Hà Lan · K0GJ | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 16/16 |
+| 🇫🇷 Pháp · FFH7 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 17/17 |
+| 🇳🇱 Hà Lan · A2C0 | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 17/17 |
+| 🇬🇧 Vương quốc Anh · 6J4T | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 17/17 |
+| 🇳🇱 Hà Lan · K116 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 17/17 |
+| 🇳🇱 Hà Lan · B4RF | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 17/17 |
 

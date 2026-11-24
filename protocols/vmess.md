@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 17:52:51 UTC
+**Latest completed test** · 2026-11-23 23:38:01 UTC
 
-**Passed nodes** · 3988
+**Passed nodes** · 4341
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 2091 |
-| 🇯🇵 Japan | 275 |
-| 🇨🇦 Canada | 253 |
-| 🇸🇬 Singapore | 177 |
-| 🇫🇷 France | 175 |
-| 🇭🇰 Hong Kong SAR China | 143 |
-| 🇬🇧 United Kingdom | 134 |
-| 🇮🇳 India | 124 |
-| 🇦🇹 Austria | 112 |
-| 🇧🇷 Brazil | 87 |
-| 🇰🇿 Kazakhstan | 80 |
-| 🇩🇪 Germany | 75 |
-| 🇸🇪 Sweden | 68 |
-| 🇰🇷 South Korea | 61 |
-| 🇵🇱 Poland | 38 |
+| 🇺🇸 United States | 2256 |
+| 🇯🇵 Japan | 292 |
+| 🇨🇦 Canada | 266 |
+| 🇸🇬 Singapore | 191 |
+| 🇫🇷 France | 187 |
+| 🇭🇰 Hong Kong SAR China | 183 |
+| 🇬🇧 United Kingdom | 139 |
+| 🇮🇳 India | 135 |
+| 🇦🇹 Austria | 115 |
+| 🇰🇿 Kazakhstan | 102 |
+| 🇰🇷 South Korea | 91 |
+| 🇧🇷 Brazil | 89 |
+| 🇩🇪 Germany | 81 |
+| 🇸🇪 Sweden | 74 |
+| 🇵🇱 Poland | 40 |
 | 🇳🇱 Netherlands | 32 |
-| 🇲🇾 Malaysia | 26 |
-| 🇫🇮 Finland | 17 |
-| 🇮🇪 Ireland | 11 |
-| 🇨🇭 Switzerland | 4 |
-| 🇹🇭 Thailand | 4 |
+| 🇲🇾 Malaysia | 28 |
+| 🇫🇮 Finland | 15 |
+| 🇮🇪 Ireland | 10 |
+| 🇨🇭 Switzerland | 7 |
+| 🇹🇭 Thailand | 7 |
 | 🇨🇳 China | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 16/16 |
-| 🇫🇷 France · 8044 | 🇫🇷 France | 11 ms (🇫🇷 France) | 16/16 |
-| 🇫🇷 France · QFEJ | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
-| 🇫🇷 France · 3R55 | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
-| 🇫🇷 France · 7JKS | 🇫🇷 France | 12 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · BHGT | 🇫🇷 France | 10 ms (🇫🇷 France) | 17/17 |
+| 🇫🇷 France · FA33 | 🇫🇷 France | 11 ms (🇫🇷 France) | 17/17 |
+| 🇫🇷 France · 00Z1 | 🇫🇷 France | 11 ms (🇫🇷 France) | 17/17 |
+| 🇫🇷 France · QA8T | 🇫🇷 France | 11 ms (🇫🇷 France) | 17/17 |
+| 🇫🇷 France · 5TKH | 🇫🇷 France | 11 ms (🇫🇷 France) | 17/17 |
 

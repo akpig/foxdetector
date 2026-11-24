@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-23 17:52:51 UTC
+**Latest completed test** · 2026-11-23 23:38:01 UTC
 
-**Passed nodes** · 1600
+**Passed nodes** · 1700
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,30 +15,31 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 597 |
-| 🇳🇱 Netherlands | 168 |
-| 🇨🇦 Canada | 108 |
-| 🇮🇹 Italy | 95 |
-| 🇩🇪 Germany | 90 |
-| 🇫🇷 France | 83 |
-| 🇬🇧 United Kingdom | 77 |
-| 🇪🇸 Spain | 74 |
-| 🇸🇬 Singapore | 67 |
+| 🇺🇸 United States | 642 |
+| 🇳🇱 Netherlands | 184 |
+| 🇨🇦 Canada | 113 |
+| 🇮🇹 Italy | 112 |
+| 🇫🇷 France | 90 |
+| 🇩🇪 Germany | 89 |
+| 🇬🇧 United Kingdom | 83 |
+| 🇪🇸 Spain | 79 |
+| 🇸🇬 Singapore | 73 |
+| 🇨🇭 Switzerland | 53 |
 | 🇵🇱 Poland | 52 |
-| 🇨🇭 Switzerland | 47 |
-| 🇯🇵 Japan | 27 |
-| 🇦🇱 Albania | 22 |
-| 🇫🇮 Finland | 18 |
-| 🇦🇹 Austria | 12 |
+| 🇯🇵 Japan | 29 |
+| 🇦🇱 Albania | 25 |
+| 🇦🇹 Austria | 13 |
+| 🇸🇪 Sweden | 12 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Lithuania | 11 |
-| 🇸🇪 Sweden | 11 |
 | 🇱🇻 Latvia | 9 |
+| 🇱🇹 Lithuania | 8 |
 | 🇰🇷 South Korea | 6 |
 | 🇳🇴 Norway | 4 |
 | 🇷🇺 Russia | 4 |
 | 🇭🇰 Hong Kong SAR China | 3 |
 | 🇿🇦 South Africa | 2 |
+| 🇨🇱 Chile | 1 |
+| 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
 
@@ -46,9 +47,9 @@
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · ZDQT | 🇫🇷 France | 11 ms (🇫🇷 France) | 16/16 |
-| 🇳🇱 Netherlands · 54JW | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 16/16 |
-| 🇳🇱 Netherlands · Y3E6 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 16/16 |
-| 🇳🇱 Netherlands · ZCXZ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 16/16 |
-| 🇳🇱 Netherlands · K0GJ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 16/16 |
+| 🇫🇷 France · FFH7 | 🇫🇷 France | 11 ms (🇫🇷 France) | 17/17 |
+| 🇳🇱 Netherlands · A2C0 | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 17/17 |
+| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 17/17 |
+| 🇳🇱 Netherlands · K116 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 17/17 |
+| 🇳🇱 Netherlands · B4RF | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 17/17 |
 
