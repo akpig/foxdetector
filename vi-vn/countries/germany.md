@@ -5,9 +5,9 @@
 
 [Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 05:50:33 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 11:59:00 UTC
 
-**Nút đạt yêu cầu** · 466
+**Nút đạt yêu cầu** · 420
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| VLESS | 278 |
-| VMess | 94 |
-| Shadowsocks | 90 |
-| Hysteria2 | 2 |
-| Trojan | 2 |
+| VLESS | 211 |
+| VMess | 98 |
+| Shadowsocks | 94 |
+| Trojan | 16 |
+| Hysteria2 | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇩🇪 Đức · WJCG | Shadowsocks | 12 ms (🇫🇷 Pháp) | 18/18 |
-| 🇩🇪 Đức · 9237 | Shadowsocks | 13 ms (🇫🇷 Pháp) | 18/18 |
-| 🇩🇪 Đức · QE15 | Shadowsocks | 13 ms (🇫🇷 Pháp) | 18/18 |
-| 🇩🇪 Đức · 3RJ7 | Shadowsocks | 13 ms (🇫🇷 Pháp) | 18/18 |
-| 🇩🇪 Đức · 0CJG | VLESS | 13 ms (🇫🇷 Pháp) | 18/18 |
+| 🇩🇪 Đức · 46QW | Shadowsocks | 13 ms (🇫🇷 Pháp) | 19/19 |
+| 🇩🇪 Đức · RXR7 | Shadowsocks | 14 ms (🇫🇷 Pháp) | 19/19 |
+| 🇩🇪 Đức · 9T1H | Shadowsocks | 14 ms (🇫🇷 Pháp) | 19/19 |
+| 🇩🇪 Đức · 7341 | Shadowsocks | 15 ms (🇫🇷 Pháp) | 19/19 |
+| 🇩🇪 Đức · 79G7 | Shadowsocks | 15 ms (🇫🇷 Pháp) | 19/19 |
 

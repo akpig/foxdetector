@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 05:50:33 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 11:59:00 UTC
 
-**Nút đạt yêu cầu** · 1691
+**Nút đạt yêu cầu** · 1762
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,41 +15,40 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 642 |
-| 🇳🇱 Hà Lan | 183 |
-| 🇨🇦 Canada | 114 |
-| 🇮🇹 Italy | 110 |
-| 🇫🇷 Pháp | 91 |
-| 🇩🇪 Đức | 90 |
-| 🇬🇧 Vương quốc Anh | 83 |
-| 🇪🇸 Tây Ban Nha | 79 |
-| 🇸🇬 Singapore | 66 |
-| 🇨🇭 Thụy Sĩ | 53 |
-| 🇵🇱 Ba Lan | 52 |
-| 🇯🇵 Nhật Bản | 29 |
-| 🇦🇱 Albania | 24 |
-| 🇦🇹 Áo | 13 |
-| 🇸🇪 Thụy Điển | 12 |
-| 🇧🇬 Bulgaria | 10 |
-| 🇱🇹 Litva | 10 |
+| 🇺🇸 Hoa Kỳ | 689 |
+| 🇳🇱 Hà Lan | 191 |
+| 🇮🇹 Italy | 120 |
+| 🇨🇦 Canada | 109 |
+| 🇫🇷 Pháp | 98 |
+| 🇩🇪 Đức | 94 |
+| 🇬🇧 Vương quốc Anh | 91 |
+| 🇸🇬 Singapore | 73 |
+| 🇨🇭 Thụy Sĩ | 59 |
+| 🇪🇸 Tây Ban Nha | 57 |
+| 🇵🇱 Ba Lan | 50 |
+| 🇯🇵 Nhật Bản | 31 |
+| 🇦🇱 Albania | 23 |
+| 🇦🇹 Áo | 14 |
+| 🇸🇪 Thụy Điển | 13 |
+| 🇧🇬 Bulgaria | 11 |
+| 🇱🇹 Litva | 11 |
 | 🇱🇻 Latvia | 8 |
-| 🇰🇷 Hàn Quốc | 6 |
-| 🇳🇴 Na Uy | 4 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 3 |
+| 🇰🇷 Hàn Quốc | 7 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 4 |
 | 🇷🇺 Nga | 3 |
 | 🇿🇦 Nam Phi | 2 |
-| 🇨🇱 Chile | 1 |
 | 🇫🇮 Phần Lan | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 Ấn Độ | 1 |
+| 🇳🇴 Na Uy | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 1V47 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 18/18 |
-| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 18/18 |
-| 🇬🇧 Vương quốc Anh · XXZV | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 18/18 |
-| 🇳🇱 Hà Lan · DY1E | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 18/18 |
-| 🇬🇧 Vương quốc Anh · QB48 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 18/18 |
+| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 19/19 |
+| 🇬🇧 Vương quốc Anh · 6E7V | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 19/19 |
+| 🇫🇷 Pháp · FMCG | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 19/19 |
+| 🇳🇱 Hà Lan · DAY6 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 19/19 |
+| 🇳🇱 Hà Lan · E6DY | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 19/19 |
 

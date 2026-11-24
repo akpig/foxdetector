@@ -5,9 +5,9 @@
 
 [البلدان والمناطق](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
-**وقت اكتمال آخر اختبار** · 2026-11-24 05:50:33 UTC
+**وقت اكتمال آخر اختبار** · 2026-11-24 11:59:00 UTC
 
-**العُقد التي اجتازت الاختبار** · 466
+**العُقد التي اجتازت الاختبار** · 420
 
 [عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | البروتوكول | العُقد التي اجتازت الاختبار |
 | --- | --- |
-| VLESS | 278 |
-| VMess | 94 |
-| Shadowsocks | 90 |
-| Hysteria2 | 2 |
-| Trojan | 2 |
+| VLESS | 211 |
+| VMess | 98 |
+| Shadowsocks | 94 |
+| Trojan | 16 |
+| Hysteria2 | 1 |
 
 ## عينة من العقد التي نجحت في الاختبار
 
 | العقدة | البروتوكول | زمن الاستجابة وموقع الاختبار | نتائج الاختبارات الأخيرة |
 | --- | --- | --- | --- |
-| 🇩🇪 ألمانيا · WJCG | Shadowsocks | 12 ms (🇫🇷 فرنسا) | 18/18 |
-| 🇩🇪 ألمانيا · 9237 | Shadowsocks | 13 ms (🇫🇷 فرنسا) | 18/18 |
-| 🇩🇪 ألمانيا · QE15 | Shadowsocks | 13 ms (🇫🇷 فرنسا) | 18/18 |
-| 🇩🇪 ألمانيا · 3RJ7 | Shadowsocks | 13 ms (🇫🇷 فرنسا) | 18/18 |
-| 🇩🇪 ألمانيا · 0CJG | VLESS | 13 ms (🇫🇷 فرنسا) | 18/18 |
+| 🇩🇪 ألمانيا · 46QW | Shadowsocks | 13 ms (🇫🇷 فرنسا) | 19/19 |
+| 🇩🇪 ألمانيا · RXR7 | Shadowsocks | 14 ms (🇫🇷 فرنسا) | 19/19 |
+| 🇩🇪 ألمانيا · 9T1H | Shadowsocks | 14 ms (🇫🇷 فرنسا) | 19/19 |
+| 🇩🇪 ألمانيا · 7341 | Shadowsocks | 15 ms (🇫🇷 فرنسا) | 19/19 |
+| 🇩🇪 ألمانيا · 79G7 | Shadowsocks | 15 ms (🇫🇷 فرنسا) | 19/19 |
 

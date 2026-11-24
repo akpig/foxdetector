@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-24 05:50:33 UTC
+**Latest completed test** · 2026-11-24 11:59:00 UTC
 
-**Passed nodes** · 4524
+**Passed nodes** · 4532
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,37 +15,36 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 2441 |
-| 🇨🇦 Canada | 283 |
-| 🇫🇷 France | 202 |
+| 🇺🇸 United States | 2513 |
+| 🇨🇦 Canada | 258 |
+| 🇫🇷 France | 207 |
 | 🇸🇬 Singapore | 202 |
-| 🇯🇵 Japan | 195 |
-| 🇭🇰 Hong Kong SAR China | 180 |
-| 🇬🇧 United Kingdom | 150 |
-| 🇮🇳 India | 132 |
-| 🇦🇹 Austria | 121 |
-| 🇰🇿 Kazakhstan | 108 |
-| 🇩🇪 Germany | 94 |
+| 🇭🇰 Hong Kong SAR China | 181 |
+| 🇯🇵 Japan | 152 |
+| 🇬🇧 United Kingdom | 148 |
+| 🇮🇳 India | 135 |
+| 🇦🇹 Austria | 123 |
+| 🇩🇪 Germany | 98 |
 | 🇧🇷 Brazil | 92 |
-| 🇰🇷 South Korea | 90 |
-| 🇸🇪 Sweden | 86 |
-| 🇵🇱 Poland | 40 |
-| 🇳🇱 Netherlands | 33 |
-| 🇲🇾 Malaysia | 30 |
+| 🇰🇿 Kazakhstan | 91 |
+| 🇸🇪 Sweden | 89 |
+| 🇰🇷 South Korea | 82 |
+| 🇵🇱 Poland | 41 |
+| 🇳🇱 Netherlands | 36 |
+| 🇲🇾 Malaysia | 33 |
 | 🇫🇮 Finland | 17 |
-| 🇨🇭 Switzerland | 11 |
+| 🇨🇭 Switzerland | 14 |
 | 🇮🇪 Ireland | 8 |
-| 🇹🇭 Thailand | 7 |
-| 🇨🇳 China | 1 |
-| 🇮🇩 Indonesia | 1 |
+| 🇹🇭 Thailand | 8 |
+| 🇨🇳 China | 4 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · H492 | 🇫🇷 France | 10 ms (🇫🇷 France) | 18/18 |
-| 🇫🇷 France · YZ08 | 🇫🇷 France | 10 ms (🇫🇷 France) | 18/18 |
-| 🇫🇷 France · WKGV | 🇫🇷 France | 11 ms (🇫🇷 France) | 18/18 |
-| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 18/18 |
-| 🇫🇷 France · J52S | 🇫🇷 France | 11 ms (🇫🇷 France) | 18/18 |
+| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
+| 🇫🇷 France · J52S | 🇫🇷 France | 11 ms (🇫🇷 France) | 19/19 |
+| 🇫🇷 France · 8CQN | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
+| 🇫🇷 France · 00Z1 | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
+| 🇫🇷 France · 1TTG | 🇫🇷 France | 12 ms (🇫🇷 France) | 19/19 |
 

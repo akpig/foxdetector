@@ -5,9 +5,9 @@
 
 [Countries and regions](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-24 05:50:33 UTC
+**Latest completed test** · 2026-11-24 11:59:00 UTC
 
-**Passed nodes** · 466
+**Passed nodes** · 420
 
 [See all passing nodes and import options](https://www.foxdetector.com/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VLESS | 278 |
-| VMess | 94 |
-| Shadowsocks | 90 |
-| Hysteria2 | 2 |
-| Trojan | 2 |
+| VLESS | 211 |
+| VMess | 98 |
+| Shadowsocks | 94 |
+| Trojan | 16 |
+| Hysteria2 | 1 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇩🇪 Germany · WJCG | Shadowsocks | 12 ms (🇫🇷 France) | 18/18 |
-| 🇩🇪 Germany · 9237 | Shadowsocks | 13 ms (🇫🇷 France) | 18/18 |
-| 🇩🇪 Germany · QE15 | Shadowsocks | 13 ms (🇫🇷 France) | 18/18 |
-| 🇩🇪 Germany · 3RJ7 | Shadowsocks | 13 ms (🇫🇷 France) | 18/18 |
-| 🇩🇪 Germany · 0CJG | VLESS | 13 ms (🇫🇷 France) | 18/18 |
+| 🇩🇪 Germany · 46QW | Shadowsocks | 13 ms (🇫🇷 France) | 19/19 |
+| 🇩🇪 Germany · RXR7 | Shadowsocks | 14 ms (🇫🇷 France) | 19/19 |
+| 🇩🇪 Germany · 9T1H | Shadowsocks | 14 ms (🇫🇷 France) | 19/19 |
+| 🇩🇪 Germany · 7341 | Shadowsocks | 15 ms (🇫🇷 France) | 19/19 |
+| 🇩🇪 Germany · 79G7 | Shadowsocks | 15 ms (🇫🇷 France) | 19/19 |
 

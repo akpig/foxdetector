@@ -5,9 +5,9 @@
 
 [ممالک اور علاقے](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-24 05:50:33 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-24 11:59:00 UTC
 
-**جانچ میں کامیاب نوڈز** · 466
+**جانچ میں کامیاب نوڈز** · 420
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/country/germany/?utm_campaign=repository&utm_content=country_germany_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| VLESS | 278 |
-| VMess | 94 |
-| Shadowsocks | 90 |
-| Hysteria2 | 2 |
-| Trojan | 2 |
+| VLESS | 211 |
+| VMess | 98 |
+| Shadowsocks | 94 |
+| Trojan | 16 |
+| Hysteria2 | 1 |
 
 ## ٹیسٹ میں کامیاب نوڈز کے نمونے
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇩🇪 جرمنی · WJCG | Shadowsocks | 12 ms (🇫🇷 فرانس) | 18/18 |
-| 🇩🇪 جرمنی · 9237 | Shadowsocks | 13 ms (🇫🇷 فرانس) | 18/18 |
-| 🇩🇪 جرمنی · QE15 | Shadowsocks | 13 ms (🇫🇷 فرانس) | 18/18 |
-| 🇩🇪 جرمنی · 3RJ7 | Shadowsocks | 13 ms (🇫🇷 فرانس) | 18/18 |
-| 🇩🇪 جرمنی · 0CJG | VLESS | 13 ms (🇫🇷 فرانس) | 18/18 |
+| 🇩🇪 جرمنی · 46QW | Shadowsocks | 13 ms (🇫🇷 فرانس) | 19/19 |
+| 🇩🇪 جرمنی · RXR7 | Shadowsocks | 14 ms (🇫🇷 فرانس) | 19/19 |
+| 🇩🇪 جرمنی · 9T1H | Shadowsocks | 14 ms (🇫🇷 فرانس) | 19/19 |
+| 🇩🇪 جرمنی · 7341 | Shadowsocks | 15 ms (🇫🇷 فرانس) | 19/19 |
+| 🇩🇪 جرمنی · 79G7 | Shadowsocks | 15 ms (🇫🇷 فرانس) | 19/19 |
 
