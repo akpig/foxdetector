@@ -4,12 +4,12 @@ FoxDetector عوامی طور پر شیئر کیے گئے پراکسی نوڈز 
 
 **[بہترین 500 نوڈز دیکھیں اور سبسکرپشن حاصل کریں](https://www.foxdetector.com/ur-pk/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[ممالک اور علاقے](https://www.foxdetector.com/ur-pk/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [سبسکرپشن درآمد کرنے کی رہنمائی](https://www.foxdetector.com/ur-pk/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[خروج کے مقامات](https://www.foxdetector.com/ur-pk/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [سبسکرپشن درآمد کرنے کی رہنمائی](https://www.foxdetector.com/ur-pk/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **زبانیں**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · **اردو** · [Tiếng Việt](../vi-vn/README.md)
 
-[سرفہرست ۵۰۰ نوڈز](top500.md) · [ممالک اور علاقے](countries/README.md) · [پروٹوکولز](protocols/README.md)
+[سرفہرست ۵۰۰ نوڈز](top500.md) · [خروج کے مقامات](countries/README.md) · [پروٹوکولز](protocols/README.md)
 
 ## تازہ ترین ڈیٹا
 

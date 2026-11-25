@@ -1,4 +1,4 @@
-# 國家和地區
+# 出口位置
 
 **語言**  
 [English](../../countries/README.md) · [العربية](../../ar/countries/README.md) · [简体中文](../../zh-cn/countries/README.md) · **繁體中文** · [日本語](../../ja/countries/README.md) · [فارسی](../../fa-ir/countries/README.md) · [Русский](../../ru-ru/countries/README.md) · [Türkçe](../../tr-tr/countries/README.md) · [اردو](../../ur-pk/countries/README.md) · [Tiếng Việt](../../vi-vn/countries/README.md)
@@ -7,61 +7,61 @@
 
 **最近完成檢測** · 2026-11-24 23:52:58 UTC
 
-[國家和地區 · 開啟狐探](https://www.foxdetector.com/zh-hant/country/?utm_campaign=repository&utm_content=countries&utm_medium=referral&utm_source=github)
+[出口位置 · 開啟狐探](https://www.foxdetector.com/zh-hant/location/?utm_campaign=repository&utm_content=countries&utm_medium=referral&utm_source=github)
 
 | 出口位置 | 通過節點 | 通訊協定 | 檢測樣本 |
 | --- | --- | --- | --- |
-| [🇺🇸 美國](https://www.foxdetector.com/zh-hant/country/united-states/?utm_campaign=repository&utm_content=country_united-states&utm_medium=referral&utm_source=github) | 3860 | 6 | [檢測樣本](united-states.md) |
-| [🇯🇵 日本](https://www.foxdetector.com/zh-hant/country/japan/?utm_campaign=repository&utm_content=country_japan&utm_medium=referral&utm_source=github) | 516 | 6 | [檢測樣本](japan.md) |
-| [🇨🇦 加拿大](https://www.foxdetector.com/zh-hant/country/canada/?utm_campaign=repository&utm_content=country_canada&utm_medium=referral&utm_source=github) | 500 | 5 | [檢測樣本](canada.md) |
-| [🇳🇱 荷蘭](https://www.foxdetector.com/zh-hant/country/netherlands/?utm_campaign=repository&utm_content=country_netherlands&utm_medium=referral&utm_source=github) | 414 | 5 | — |
-| [🇩🇪 德國](https://www.foxdetector.com/zh-hant/country/germany/?utm_campaign=repository&utm_content=country_germany&utm_medium=referral&utm_source=github) | 405 | 5 | — |
-| [🇫🇷 法國](https://www.foxdetector.com/zh-hant/country/france/?utm_campaign=repository&utm_content=country_france&utm_medium=referral&utm_source=github) | 366 | 4 | — |
-| [🇸🇬 新加坡](https://www.foxdetector.com/zh-hant/country/singapore/?utm_campaign=repository&utm_content=country_singapore&utm_medium=referral&utm_source=github) | 353 | 5 | — |
-| [🇬🇧 英國](https://www.foxdetector.com/zh-hant/country/united-kingdom/?utm_campaign=repository&utm_content=country_united-kingdom&utm_medium=referral&utm_source=github) | 286 | 4 | — |
-| [🇭🇰 中國香港特別行政區](https://www.foxdetector.com/zh-hant/country/hong-kong-sar-china/?utm_campaign=repository&utm_content=country_hong-kong-sar-china&utm_medium=referral&utm_source=github) | 263 | 6 | — |
-| [🇮🇳 印度](https://www.foxdetector.com/zh-hant/country/india/?utm_campaign=repository&utm_content=country_india&utm_medium=referral&utm_source=github) | 150 | 1 | — |
-| [🇨🇭 瑞士](https://www.foxdetector.com/zh-hant/country/switzerland/?utm_campaign=repository&utm_content=country_switzerland&utm_medium=referral&utm_source=github) | 149 | 5 | — |
-| [🇦🇹 奧地利](https://www.foxdetector.com/zh-hant/country/austria/?utm_campaign=repository&utm_content=country_austria&utm_medium=referral&utm_source=github) | 142 | 3 | — |
-| [🇸🇪 瑞典](https://www.foxdetector.com/zh-hant/country/sweden/?utm_campaign=repository&utm_content=country_sweden&utm_medium=referral&utm_source=github) | 135 | 3 | — |
-| [🇰🇷 南韓](https://www.foxdetector.com/zh-hant/country/south-korea/?utm_campaign=repository&utm_content=country_south-korea&utm_medium=referral&utm_source=github) | 132 | 5 | — |
-| [🇪🇸 西班牙](https://www.foxdetector.com/zh-hant/country/spain/?utm_campaign=repository&utm_content=country_spain&utm_medium=referral&utm_source=github) | 131 | 3 | — |
-| [🇵🇱 波蘭](https://www.foxdetector.com/zh-hant/country/poland/?utm_campaign=repository&utm_content=country_poland&utm_medium=referral&utm_source=github) | 120 | 4 | — |
-| [🇮🇹 義大利](https://www.foxdetector.com/zh-hant/country/italy/?utm_campaign=repository&utm_content=country_italy&utm_medium=referral&utm_source=github) | 115 | 2 | — |
-| [🇰🇿 哈薩克](https://www.foxdetector.com/zh-hant/country/kazakhstan/?utm_campaign=repository&utm_content=country_kazakhstan&utm_medium=referral&utm_source=github) | 112 | 2 | — |
-| [🇧🇷 巴西](https://www.foxdetector.com/zh-hant/country/brazil/?utm_campaign=repository&utm_content=country_brazil&utm_medium=referral&utm_source=github) | 102 | 3 | — |
-| [🇫🇮 芬蘭](https://www.foxdetector.com/zh-hant/country/finland/?utm_campaign=repository&utm_content=country_finland&utm_medium=referral&utm_source=github) | 59 | 4 | — |
-| [🇮🇱 以色列](https://www.foxdetector.com/zh-hant/country/israel/?utm_campaign=repository&utm_content=country_israel&utm_medium=referral&utm_source=github) | 44 | 2 | — |
-| [🇲🇾 馬來西亞](https://www.foxdetector.com/zh-hant/country/malaysia/?utm_campaign=repository&utm_content=country_malaysia&utm_medium=referral&utm_source=github) | 38 | 1 | — |
-| [🇦🇱 阿爾巴尼亞](https://www.foxdetector.com/zh-hant/country/albania/?utm_campaign=repository&utm_content=country_albania&utm_medium=referral&utm_source=github) | 27 | 2 | — |
-| [🇮🇪 愛爾蘭](https://www.foxdetector.com/zh-hant/country/ireland/?utm_campaign=repository&utm_content=country_ireland&utm_medium=referral&utm_source=github) | 21 | 3 | — |
-| [🇱🇹 立陶宛](https://www.foxdetector.com/zh-hant/country/lithuania/?utm_campaign=repository&utm_content=country_lithuania&utm_medium=referral&utm_source=github) | 17 | 2 | — |
-| [🇱🇻 拉脫維亞](https://www.foxdetector.com/zh-hant/country/latvia/?utm_campaign=repository&utm_content=country_latvia&utm_medium=referral&utm_source=github) | 16 | 2 | — |
-| [🇷🇺 俄羅斯](https://www.foxdetector.com/zh-hant/country/russia/?utm_campaign=repository&utm_content=country_russia&utm_medium=referral&utm_source=github) | 15 | 3 | — |
-| [🇮🇶 伊拉克](https://www.foxdetector.com/zh-hant/country/iraq/?utm_campaign=repository&utm_content=country_iraq&utm_medium=referral&utm_source=github) | 14 | 1 | — |
-| [🇹🇼 台灣](https://www.foxdetector.com/zh-hant/country/taiwan/?utm_campaign=repository&utm_content=country_taiwan&utm_medium=referral&utm_source=github) | 14 | 5 | — |
-| [🇧🇾 白俄羅斯](https://www.foxdetector.com/zh-hant/country/belarus/?utm_campaign=repository&utm_content=country_belarus&utm_medium=referral&utm_source=github) | 13 | 3 | — |
-| [🇧🇬 保加利亞](https://www.foxdetector.com/zh-hant/country/bulgaria/?utm_campaign=repository&utm_content=country_bulgaria&utm_medium=referral&utm_source=github) | 12 | 2 | — |
-| [🇦🇺 澳洲](https://www.foxdetector.com/zh-hant/country/australia/?utm_campaign=repository&utm_content=country_australia&utm_medium=referral&utm_source=github) | 8 | 2 | — |
-| [🇪🇪 愛沙尼亞](https://www.foxdetector.com/zh-hant/country/estonia/?utm_campaign=repository&utm_content=country_estonia&utm_medium=referral&utm_source=github) | 8 | 1 | — |
-| [🇹🇭 泰國](https://www.foxdetector.com/zh-hant/country/thailand/?utm_campaign=repository&utm_content=country_thailand&utm_medium=referral&utm_source=github) | 8 | 1 | — |
-| [🇮🇷 伊朗](https://www.foxdetector.com/zh-hant/country/iran/?utm_campaign=repository&utm_content=country_iran&utm_medium=referral&utm_source=github) | 7 | 1 | — |
-| [🇻🇳 越南](https://www.foxdetector.com/zh-hant/country/vietnam/?utm_campaign=repository&utm_content=country_vietnam&utm_medium=referral&utm_source=github) | 7 | 2 | — |
-| [🇨🇾 賽普勒斯](https://www.foxdetector.com/zh-hant/country/cyprus/?utm_campaign=repository&utm_content=country_cyprus&utm_medium=referral&utm_source=github) | 6 | 1 | — |
-| [🇭🇳 宏都拉斯](https://www.foxdetector.com/zh-hant/country/honduras/?utm_campaign=repository&utm_content=country_honduras&utm_medium=referral&utm_source=github) | 6 | 1 | — |
-| [🇨🇿 捷克](https://www.foxdetector.com/zh-hant/country/czechia/?utm_campaign=repository&utm_content=country_czechia&utm_medium=referral&utm_source=github) | 5 | 1 | — |
-| [🇿🇦 南非](https://www.foxdetector.com/zh-hant/country/south-africa/?utm_campaign=repository&utm_content=country_south-africa&utm_medium=referral&utm_source=github) | 4 | 2 | — |
-| [🇹🇷 土耳其](https://www.foxdetector.com/zh-hant/country/turkey/?utm_campaign=repository&utm_content=country_turkey&utm_medium=referral&utm_source=github) | 4 | 1 | — |
-| [🇵🇹 葡萄牙](https://www.foxdetector.com/zh-hant/country/portugal/?utm_campaign=repository&utm_content=country_portugal&utm_medium=referral&utm_source=github) | 3 | 1 | — |
-| [🇷🇴 羅馬尼亞](https://www.foxdetector.com/zh-hant/country/romania/?utm_campaign=repository&utm_content=country_romania&utm_medium=referral&utm_source=github) | 3 | 2 | — |
-| [🇺🇦 烏克蘭](https://www.foxdetector.com/zh-hant/country/ukraine/?utm_campaign=repository&utm_content=country_ukraine&utm_medium=referral&utm_source=github) | 3 | 1 | — |
-| [🇦🇪 阿拉伯聯合大公國](https://www.foxdetector.com/zh-hant/country/united-arab-emirates/?utm_campaign=repository&utm_content=country_united-arab-emirates&utm_medium=referral&utm_source=github) | 3 | 1 | — |
-| [🇨🇳 中國](https://www.foxdetector.com/zh-hant/country/china/?utm_campaign=repository&utm_content=country_china&utm_medium=referral&utm_source=github) | 2 | 1 | — |
-| [🇬🇷 希臘](https://www.foxdetector.com/zh-hant/country/greece/?utm_campaign=repository&utm_content=country_greece&utm_medium=referral&utm_source=github) | 2 | 1 | — |
-| [🇮🇩 印尼](https://www.foxdetector.com/zh-hant/country/indonesia/?utm_campaign=repository&utm_content=country_indonesia&utm_medium=referral&utm_source=github) | 2 | 1 | — |
-| [🇨🇱 智利](https://www.foxdetector.com/zh-hant/country/chile/?utm_campaign=repository&utm_content=country_chile&utm_medium=referral&utm_source=github) | 1 | 1 | — |
-| [🇵🇫 法屬玻里尼西亞](https://www.foxdetector.com/zh-hant/country/french-polynesia/?utm_campaign=repository&utm_content=country_french-polynesia&utm_medium=referral&utm_source=github) | 1 | 1 | — |
-| [🇲🇽 墨西哥](https://www.foxdetector.com/zh-hant/country/mexico/?utm_campaign=repository&utm_content=country_mexico&utm_medium=referral&utm_source=github) | 1 | 1 | — |
-| [🇳🇴 挪威](https://www.foxdetector.com/zh-hant/country/norway/?utm_campaign=repository&utm_content=country_norway&utm_medium=referral&utm_source=github) | 1 | 1 | — |
-| [🇵🇦 巴拿馬](https://www.foxdetector.com/zh-hant/country/panama/?utm_campaign=repository&utm_content=country_panama&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [🇺🇸 美國](https://www.foxdetector.com/zh-hant/location/united-states/?utm_campaign=repository&utm_content=location_united-states&utm_medium=referral&utm_source=github) | 3860 | 6 | [檢測樣本](united-states.md) |
+| [🇯🇵 日本](https://www.foxdetector.com/zh-hant/location/japan/?utm_campaign=repository&utm_content=location_japan&utm_medium=referral&utm_source=github) | 516 | 6 | [檢測樣本](japan.md) |
+| [🇨🇦 加拿大](https://www.foxdetector.com/zh-hant/location/canada/?utm_campaign=repository&utm_content=location_canada&utm_medium=referral&utm_source=github) | 500 | 5 | [檢測樣本](canada.md) |
+| [🇳🇱 荷蘭](https://www.foxdetector.com/zh-hant/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands&utm_medium=referral&utm_source=github) | 414 | 5 | — |
+| [🇩🇪 德國](https://www.foxdetector.com/zh-hant/location/germany/?utm_campaign=repository&utm_content=location_germany&utm_medium=referral&utm_source=github) | 405 | 5 | — |
+| [🇫🇷 法國](https://www.foxdetector.com/zh-hant/location/france/?utm_campaign=repository&utm_content=location_france&utm_medium=referral&utm_source=github) | 366 | 4 | — |
+| [🇸🇬 新加坡](https://www.foxdetector.com/zh-hant/location/singapore/?utm_campaign=repository&utm_content=location_singapore&utm_medium=referral&utm_source=github) | 353 | 5 | — |
+| [🇬🇧 英國](https://www.foxdetector.com/zh-hant/location/united-kingdom/?utm_campaign=repository&utm_content=location_united-kingdom&utm_medium=referral&utm_source=github) | 286 | 4 | — |
+| [🇭🇰 中國香港特別行政區](https://www.foxdetector.com/zh-hant/location/hong-kong-sar-china/?utm_campaign=repository&utm_content=location_hong-kong-sar-china&utm_medium=referral&utm_source=github) | 263 | 6 | — |
+| [🇮🇳 印度](https://www.foxdetector.com/zh-hant/location/india/?utm_campaign=repository&utm_content=location_india&utm_medium=referral&utm_source=github) | 150 | 1 | — |
+| [🇨🇭 瑞士](https://www.foxdetector.com/zh-hant/location/switzerland/?utm_campaign=repository&utm_content=location_switzerland&utm_medium=referral&utm_source=github) | 149 | 5 | — |
+| [🇦🇹 奧地利](https://www.foxdetector.com/zh-hant/location/austria/?utm_campaign=repository&utm_content=location_austria&utm_medium=referral&utm_source=github) | 142 | 3 | — |
+| [🇸🇪 瑞典](https://www.foxdetector.com/zh-hant/location/sweden/?utm_campaign=repository&utm_content=location_sweden&utm_medium=referral&utm_source=github) | 135 | 3 | — |
+| [🇰🇷 南韓](https://www.foxdetector.com/zh-hant/location/south-korea/?utm_campaign=repository&utm_content=location_south-korea&utm_medium=referral&utm_source=github) | 132 | 5 | — |
+| [🇪🇸 西班牙](https://www.foxdetector.com/zh-hant/location/spain/?utm_campaign=repository&utm_content=location_spain&utm_medium=referral&utm_source=github) | 131 | 3 | — |
+| [🇵🇱 波蘭](https://www.foxdetector.com/zh-hant/location/poland/?utm_campaign=repository&utm_content=location_poland&utm_medium=referral&utm_source=github) | 120 | 4 | — |
+| [🇮🇹 義大利](https://www.foxdetector.com/zh-hant/location/italy/?utm_campaign=repository&utm_content=location_italy&utm_medium=referral&utm_source=github) | 115 | 2 | — |
+| [🇰🇿 哈薩克](https://www.foxdetector.com/zh-hant/location/kazakhstan/?utm_campaign=repository&utm_content=location_kazakhstan&utm_medium=referral&utm_source=github) | 112 | 2 | — |
+| [🇧🇷 巴西](https://www.foxdetector.com/zh-hant/location/brazil/?utm_campaign=repository&utm_content=location_brazil&utm_medium=referral&utm_source=github) | 102 | 3 | — |
+| [🇫🇮 芬蘭](https://www.foxdetector.com/zh-hant/location/finland/?utm_campaign=repository&utm_content=location_finland&utm_medium=referral&utm_source=github) | 59 | 4 | — |
+| [🇮🇱 以色列](https://www.foxdetector.com/zh-hant/location/israel/?utm_campaign=repository&utm_content=location_israel&utm_medium=referral&utm_source=github) | 44 | 2 | — |
+| [🇲🇾 馬來西亞](https://www.foxdetector.com/zh-hant/location/malaysia/?utm_campaign=repository&utm_content=location_malaysia&utm_medium=referral&utm_source=github) | 38 | 1 | — |
+| [🇦🇱 阿爾巴尼亞](https://www.foxdetector.com/zh-hant/location/albania/?utm_campaign=repository&utm_content=location_albania&utm_medium=referral&utm_source=github) | 27 | 2 | — |
+| [🇮🇪 愛爾蘭](https://www.foxdetector.com/zh-hant/location/ireland/?utm_campaign=repository&utm_content=location_ireland&utm_medium=referral&utm_source=github) | 21 | 3 | — |
+| [🇱🇹 立陶宛](https://www.foxdetector.com/zh-hant/location/lithuania/?utm_campaign=repository&utm_content=location_lithuania&utm_medium=referral&utm_source=github) | 17 | 2 | — |
+| [🇱🇻 拉脫維亞](https://www.foxdetector.com/zh-hant/location/latvia/?utm_campaign=repository&utm_content=location_latvia&utm_medium=referral&utm_source=github) | 16 | 2 | — |
+| [🇷🇺 俄羅斯](https://www.foxdetector.com/zh-hant/location/russia/?utm_campaign=repository&utm_content=location_russia&utm_medium=referral&utm_source=github) | 15 | 3 | — |
+| [🇮🇶 伊拉克](https://www.foxdetector.com/zh-hant/location/iraq/?utm_campaign=repository&utm_content=location_iraq&utm_medium=referral&utm_source=github) | 14 | 1 | — |
+| [🇹🇼 台灣](https://www.foxdetector.com/zh-hant/location/taiwan/?utm_campaign=repository&utm_content=location_taiwan&utm_medium=referral&utm_source=github) | 14 | 5 | — |
+| [🇧🇾 白俄羅斯](https://www.foxdetector.com/zh-hant/location/belarus/?utm_campaign=repository&utm_content=location_belarus&utm_medium=referral&utm_source=github) | 13 | 3 | — |
+| [🇧🇬 保加利亞](https://www.foxdetector.com/zh-hant/location/bulgaria/?utm_campaign=repository&utm_content=location_bulgaria&utm_medium=referral&utm_source=github) | 12 | 2 | — |
+| [🇦🇺 澳洲](https://www.foxdetector.com/zh-hant/location/australia/?utm_campaign=repository&utm_content=location_australia&utm_medium=referral&utm_source=github) | 8 | 2 | — |
+| [🇪🇪 愛沙尼亞](https://www.foxdetector.com/zh-hant/location/estonia/?utm_campaign=repository&utm_content=location_estonia&utm_medium=referral&utm_source=github) | 8 | 1 | — |
+| [🇹🇭 泰國](https://www.foxdetector.com/zh-hant/location/thailand/?utm_campaign=repository&utm_content=location_thailand&utm_medium=referral&utm_source=github) | 8 | 1 | — |
+| [🇮🇷 伊朗](https://www.foxdetector.com/zh-hant/location/iran/?utm_campaign=repository&utm_content=location_iran&utm_medium=referral&utm_source=github) | 7 | 1 | — |
+| [🇻🇳 越南](https://www.foxdetector.com/zh-hant/location/vietnam/?utm_campaign=repository&utm_content=location_vietnam&utm_medium=referral&utm_source=github) | 7 | 2 | — |
+| [🇨🇾 賽普勒斯](https://www.foxdetector.com/zh-hant/location/cyprus/?utm_campaign=repository&utm_content=location_cyprus&utm_medium=referral&utm_source=github) | 6 | 1 | — |
+| [🇭🇳 宏都拉斯](https://www.foxdetector.com/zh-hant/location/honduras/?utm_campaign=repository&utm_content=location_honduras&utm_medium=referral&utm_source=github) | 6 | 1 | — |
+| [🇨🇿 捷克](https://www.foxdetector.com/zh-hant/location/czechia/?utm_campaign=repository&utm_content=location_czechia&utm_medium=referral&utm_source=github) | 5 | 1 | — |
+| [🇿🇦 南非](https://www.foxdetector.com/zh-hant/location/south-africa/?utm_campaign=repository&utm_content=location_south-africa&utm_medium=referral&utm_source=github) | 4 | 2 | — |
+| [🇹🇷 土耳其](https://www.foxdetector.com/zh-hant/location/turkey/?utm_campaign=repository&utm_content=location_turkey&utm_medium=referral&utm_source=github) | 4 | 1 | — |
+| [🇵🇹 葡萄牙](https://www.foxdetector.com/zh-hant/location/portugal/?utm_campaign=repository&utm_content=location_portugal&utm_medium=referral&utm_source=github) | 3 | 1 | — |
+| [🇷🇴 羅馬尼亞](https://www.foxdetector.com/zh-hant/location/romania/?utm_campaign=repository&utm_content=location_romania&utm_medium=referral&utm_source=github) | 3 | 2 | — |
+| [🇺🇦 烏克蘭](https://www.foxdetector.com/zh-hant/location/ukraine/?utm_campaign=repository&utm_content=location_ukraine&utm_medium=referral&utm_source=github) | 3 | 1 | — |
+| [🇦🇪 阿拉伯聯合大公國](https://www.foxdetector.com/zh-hant/location/united-arab-emirates/?utm_campaign=repository&utm_content=location_united-arab-emirates&utm_medium=referral&utm_source=github) | 3 | 1 | — |
+| [🇨🇳 中國](https://www.foxdetector.com/zh-hant/location/china/?utm_campaign=repository&utm_content=location_china&utm_medium=referral&utm_source=github) | 2 | 1 | — |
+| [🇬🇷 希臘](https://www.foxdetector.com/zh-hant/location/greece/?utm_campaign=repository&utm_content=location_greece&utm_medium=referral&utm_source=github) | 2 | 1 | — |
+| [🇮🇩 印尼](https://www.foxdetector.com/zh-hant/location/indonesia/?utm_campaign=repository&utm_content=location_indonesia&utm_medium=referral&utm_source=github) | 2 | 1 | — |
+| [🇨🇱 智利](https://www.foxdetector.com/zh-hant/location/chile/?utm_campaign=repository&utm_content=location_chile&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [🇵🇫 法屬玻里尼西亞](https://www.foxdetector.com/zh-hant/location/french-polynesia/?utm_campaign=repository&utm_content=location_french-polynesia&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [🇲🇽 墨西哥](https://www.foxdetector.com/zh-hant/location/mexico/?utm_campaign=repository&utm_content=location_mexico&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [🇳🇴 挪威](https://www.foxdetector.com/zh-hant/location/norway/?utm_campaign=repository&utm_content=location_norway&utm_medium=referral&utm_source=github) | 1 | 1 | — |
+| [🇵🇦 巴拿馬](https://www.foxdetector.com/zh-hant/location/panama/?utm_campaign=repository&utm_content=location_panama&utm_medium=referral&utm_source=github) | 1 | 1 | — |
 

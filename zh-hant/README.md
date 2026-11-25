@@ -4,12 +4,12 @@
 
 **[查看 Top 500 並取得訂閱](https://www.foxdetector.com/zh-hant/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[國家和地區](https://www.foxdetector.com/zh-hant/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [用戶端匯入指南](https://www.foxdetector.com/zh-hant/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[出口位置](https://www.foxdetector.com/zh-hant/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [用戶端匯入指南](https://www.foxdetector.com/zh-hant/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **語言**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · **繁體中文** · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[全球 Top 500](top500.md) · [國家和地區](countries/README.md) · [通訊協定](protocols/README.md)
+[全球 Top 500](top500.md) · [出口位置](countries/README.md) · [通訊協定](protocols/README.md)
 
 ## 最新檢測快照
 

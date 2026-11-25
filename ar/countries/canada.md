@@ -3,13 +3,13 @@
 **اللغات**  
 [English](../../countries/canada.md) · **العربية** · [简体中文](../../zh-cn/countries/canada.md) · [繁體中文](../../zh-hant/countries/canada.md) · [日本語](../../ja/countries/canada.md) · [فارسی](../../fa-ir/countries/canada.md) · [Русский](../../ru-ru/countries/canada.md) · [Türkçe](../../tr-tr/countries/canada.md) · [اردو](../../ur-pk/countries/canada.md) · [Tiếng Việt](../../vi-vn/countries/canada.md)
 
-[البلدان والمناطق](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
+[مواقع الخروج](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
 **وقت اكتمال آخر اختبار** · 2026-11-24 23:52:58 UTC
 
 **العُقد التي اجتازت الاختبار** · 500
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/canada/?utm_campaign=repository&utm_content=country_canada_sample&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

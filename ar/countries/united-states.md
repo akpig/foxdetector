@@ -3,13 +3,13 @@
 **اللغات**  
 [English](../../countries/united-states.md) · **العربية** · [简体中文](../../zh-cn/countries/united-states.md) · [繁體中文](../../zh-hant/countries/united-states.md) · [日本語](../../ja/countries/united-states.md) · [فارسی](../../fa-ir/countries/united-states.md) · [Русский](../../ru-ru/countries/united-states.md) · [Türkçe](../../tr-tr/countries/united-states.md) · [اردو](../../ur-pk/countries/united-states.md) · [Tiếng Việt](../../vi-vn/countries/united-states.md)
 
-[البلدان والمناطق](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
+[مواقع الخروج](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
 **وقت اكتمال آخر اختبار** · 2026-11-24 23:52:58 UTC
 
 **العُقد التي اجتازت الاختبار** · 3860
 
-[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
+[عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## البروتوكولات
 

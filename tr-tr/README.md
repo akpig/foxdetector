@@ -4,12 +4,12 @@ FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder 
 
 **[İlk 500 düğümü görün ve abonelik alın](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[Ülkeler ve bölgeler](https://www.foxdetector.com/tr-tr/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [İstemci kurulum kılavuzu](https://www.foxdetector.com/tr-tr/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[Çıkış konumları](https://www.foxdetector.com/tr-tr/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [İstemci kurulum kılavuzu](https://www.foxdetector.com/tr-tr/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **Diller**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · **Türkçe** · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[İlk 500](top500.md) · [Ülkeler ve bölgeler](countries/README.md) · [Protokoller](protocols/README.md)
+[İlk 500](top500.md) · [Çıkış konumları](countries/README.md) · [Protokoller](protocols/README.md)
 
 ## En güncel veriler
 

@@ -4,12 +4,12 @@ FoxDetector kiểm tra các nút proxy được chia sẻ công khai bằng Xray
 
 **[Xem Top 500 và lấy liên kết đăng ký](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[Quốc gia và vùng lãnh thổ](https://www.foxdetector.com/vi-vn/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [Hướng dẫn nhập đăng ký](https://www.foxdetector.com/vi-vn/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[Vị trí IP đầu ra](https://www.foxdetector.com/vi-vn/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [Hướng dẫn nhập đăng ký](https://www.foxdetector.com/vi-vn/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **Ngôn ngữ**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · **Tiếng Việt**
 
-[Top 500](top500.md) · [Quốc gia và vùng lãnh thổ](countries/README.md) · [Giao thức](protocols/README.md)
+[Top 500](top500.md) · [Vị trí IP đầu ra](countries/README.md) · [Giao thức](protocols/README.md)
 
 ## Dữ liệu mới nhất
 

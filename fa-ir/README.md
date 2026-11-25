@@ -4,12 +4,12 @@ FoxDetector گره‌های پراکسی عمومی را با Xray و sing-box �
 
 **[مشاهده ۵۰۰ گره برتر و دریافت اشتراک](https://www.foxdetector.com/fa-ir/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[کشورها و مناطق](https://www.foxdetector.com/fa-ir/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [راهنمای وارد کردن اشتراک](https://www.foxdetector.com/fa-ir/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[موقعیت‌های خروج](https://www.foxdetector.com/fa-ir/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [راهنمای وارد کردن اشتراک](https://www.foxdetector.com/fa-ir/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **زبان‌ها**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · **فارسی** · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[۵۰۰ گره برتر](top500.md) · [کشورها و مناطق](countries/README.md) · [پروتکل‌ها](protocols/README.md)
+[۵۰۰ گره برتر](top500.md) · [موقعیت‌های خروج](countries/README.md) · [پروتکل‌ها](protocols/README.md)
 
 ## تازه‌ترین داده‌ها
 

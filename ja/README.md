@@ -4,12 +4,12 @@ FoxDetector は公開されているプロキシノードを Xray と sing-box �
 
 **[Top 500 を見てサブスクリプションを取得](https://www.foxdetector.com/ja/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[国・地域](https://www.foxdetector.com/ja/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [クライアントへの追加ガイド](https://www.foxdetector.com/ja/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[出口地域数](https://www.foxdetector.com/ja/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [クライアントへの追加ガイド](https://www.foxdetector.com/ja/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **言語**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · **日本語** · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[世界トップ500](top500.md) · [国・地域](countries/README.md) · [プロトコル](protocols/README.md)
+[世界トップ500](top500.md) · [出口地域数](countries/README.md) · [プロトコル](protocols/README.md)
 
 ## 最新の検証データ
 

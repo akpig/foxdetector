@@ -4,12 +4,12 @@
 
 **[عرض أفضل 500 عقدة والحصول على اشتراك](https://www.foxdetector.com/ar/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[البلدان والمناطق](https://www.foxdetector.com/ar/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [دليل استيراد الاشتراك](https://www.foxdetector.com/ar/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[مواقع الخروج](https://www.foxdetector.com/ar/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [دليل استيراد الاشتراك](https://www.foxdetector.com/ar/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **اللغات**  
 [English](../README.md) · **العربية** · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · [Русский](../ru-ru/README.md) · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[أفضل ٥٠٠ عقدة](top500.md) · [البلدان والمناطق](countries/README.md) · [البروتوكولات](protocols/README.md)
+[أفضل ٥٠٠ عقدة](top500.md) · [مواقع الخروج](countries/README.md) · [البروتوكولات](protocols/README.md)
 
 ## أحدث لقطة بيانات
 

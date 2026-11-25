@@ -4,12 +4,12 @@ FoxDetector проверяет общедоступные прокси-узлы 
 
 **[Открыть топ-500 и получить подписку](https://www.foxdetector.com/ru-ru/top500/?utm_campaign=repository&utm_content=readme_top500_primary&utm_medium=referral&utm_source=github)**
 
-[Страны и регионы](https://www.foxdetector.com/ru-ru/country/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [Руководство по настройке клиентов](https://www.foxdetector.com/ru-ru/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
+[Места выхода](https://www.foxdetector.com/ru-ru/location/?utm_campaign=repository&utm_content=readme_countries&utm_medium=referral&utm_source=github) · [Руководство по настройке клиентов](https://www.foxdetector.com/ru-ru/clients/?utm_campaign=repository&utm_content=readme_clients&utm_medium=referral&utm_source=github)
 
 **Языки**  
 [English](../README.md) · [العربية](../ar/README.md) · [简体中文](../zh-cn/README.md) · [繁體中文](../zh-hant/README.md) · [日本語](../ja/README.md) · [فارسی](../fa-ir/README.md) · **Русский** · [Türkçe](../tr-tr/README.md) · [اردو](../ur-pk/README.md) · [Tiếng Việt](../vi-vn/README.md)
 
-[Топ-500](top500.md) · [Страны и регионы](countries/README.md) · [Протоколы](protocols/README.md)
+[Топ-500](top500.md) · [Места выхода](countries/README.md) · [Протоколы](protocols/README.md)
 
 ## Последний снимок данных
 

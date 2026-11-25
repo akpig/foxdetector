@@ -3,13 +3,13 @@
 **Ngôn ngữ**  
 [English](../../countries/united-states.md) · [العربية](../../ar/countries/united-states.md) · [简体中文](../../zh-cn/countries/united-states.md) · [繁體中文](../../zh-hant/countries/united-states.md) · [日本語](../../ja/countries/united-states.md) · [فارسی](../../fa-ir/countries/united-states.md) · [Русский](../../ru-ru/countries/united-states.md) · [Türkçe](../../tr-tr/countries/united-states.md) · [اردو](../../ur-pk/countries/united-states.md) · **Tiếng Việt**
 
-[Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
+[Vị trí IP đầu ra](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
 **Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 23:52:58 UTC
 
 **Nút đạt yêu cầu** · 3860
 
-[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
+[Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## Giao thức
 

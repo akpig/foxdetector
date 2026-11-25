@@ -3,13 +3,13 @@
 **語言**  
 [English](../../countries/united-states.md) · [العربية](../../ar/countries/united-states.md) · [简体中文](../../zh-cn/countries/united-states.md) · **繁體中文** · [日本語](../../ja/countries/united-states.md) · [فارسی](../../fa-ir/countries/united-states.md) · [Русский](../../ru-ru/countries/united-states.md) · [Türkçe](../../tr-tr/countries/united-states.md) · [اردو](../../ur-pk/countries/united-states.md) · [Tiếng Việt](../../vi-vn/countries/united-states.md)
 
-[國家和地區](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
+[出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
 **最近完成檢測** · 2026-11-24 23:52:58 UTC
 
 **通過節點** · 3860
 
-[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
+[查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
 ## 通訊協定
 
