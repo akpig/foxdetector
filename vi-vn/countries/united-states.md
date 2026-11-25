@@ -5,9 +5,9 @@
 
 [Quốc gia và vùng lãnh thổ](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 18:03:16 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 23:52:58 UTC
 
-**Nút đạt yêu cầu** · 3652
+**Nút đạt yêu cầu** · 3860
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| VMess | 2571 |
-| Shadowsocks | 691 |
-| Trojan | 228 |
-| VLESS | 146 |
-| Hysteria2 | 15 |
+| VMess | 2735 |
+| Shadowsocks | 733 |
+| Trojan | 231 |
+| VLESS | 143 |
+| Hysteria2 | 17 |
 | AnyTLS | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇺🇸 Hoa Kỳ · JBR3 | Shadowsocks | 24 ms (🇫🇷 Pháp) | 20/20 |
-| 🇺🇸 Hoa Kỳ · JJXW | VLESS | 32 ms (🇫🇷 Pháp) | 20/20 |
-| 🇺🇸 Hoa Kỳ · 72V7 | VLESS | 33 ms (🇫🇷 Pháp) | 20/20 |
-| 🇺🇸 Hoa Kỳ · 8T3E | VLESS | 52 ms (🇫🇷 Pháp) | 20/20 |
-| 🇺🇸 Hoa Kỳ · 8G2E | VLESS | 63 ms (🇫🇷 Pháp) | 20/20 |
+| 🇺🇸 Hoa Kỳ · F0RR | Shadowsocks | 17 ms (🇫🇷 Pháp) | 21/21 |
+| 🇺🇸 Hoa Kỳ · 4EKP | VLESS | 25 ms (🇫🇷 Pháp) | 21/21 |
+| 🇺🇸 Hoa Kỳ · 8VFS | VLESS | 30 ms (🇫🇷 Pháp) | 21/21 |
+| 🇺🇸 Hoa Kỳ · 3DSJ | VLESS | 52 ms (🇫🇷 Pháp) | 21/21 |
+| 🇺🇸 Hoa Kỳ · 8G2E | VLESS | 56 ms (🇫🇷 Pháp) | 21/21 |
 

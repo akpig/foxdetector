@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 18:03:16 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 23:52:58 UTC
 
-**Nút đạt yêu cầu** · 4786
+**Nút đạt yêu cầu** · 5139
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,37 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 2571 |
-| 🇯🇵 Nhật Bản | 322 |
-| 🇨🇦 Canada | 263 |
-| 🇫🇷 Pháp | 214 |
-| 🇸🇬 Singapore | 207 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 188 |
-| 🇬🇧 Vương quốc Anh | 134 |
-| 🇮🇳 Ấn Độ | 134 |
-| 🇦🇹 Áo | 125 |
-| 🇩🇪 Đức | 102 |
-| 🇧🇷 Brazil | 95 |
-| 🇸🇪 Thụy Điển | 93 |
-| 🇰🇷 Hàn Quốc | 88 |
-| 🇰🇿 Kazakhstan | 88 |
-| 🇵🇱 Ba Lan | 41 |
+| 🇺🇸 Hoa Kỳ | 2735 |
+| 🇯🇵 Nhật Bản | 314 |
+| 🇨🇦 Canada | 284 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 228 |
+| 🇫🇷 Pháp | 225 |
+| 🇸🇬 Singapore | 225 |
+| 🇬🇧 Vương quốc Anh | 161 |
+| 🇮🇳 Ấn Độ | 150 |
+| 🇦🇹 Áo | 126 |
+| 🇩🇪 Đức | 109 |
+| 🇰🇿 Kazakhstan | 106 |
+| 🇰🇷 Hàn Quốc | 105 |
+| 🇧🇷 Brazil | 98 |
+| 🇸🇪 Thụy Điển | 94 |
+| 🇵🇱 Ba Lan | 42 |
+| 🇲🇾 Malaysia | 38 |
 | 🇳🇱 Hà Lan | 37 |
-| 🇲🇾 Malaysia | 36 |
-| 🇨🇭 Thụy Sĩ | 16 |
-| 🇫🇮 Phần Lan | 13 |
+| 🇨🇭 Thụy Sĩ | 21 |
+| 🇫🇮 Phần Lan | 20 |
 | 🇮🇪 Ireland | 10 |
 | 🇹🇭 Thái Lan | 8 |
-| 🇨🇳 Trung Quốc | 1 |
+| 🇨🇳 Trung Quốc | 2 |
+| 🇹🇼 Đài Loan | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 20/20 |
-| 🇫🇷 Pháp · FR98 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 20/20 |
-| 🇫🇷 Pháp · PXBS | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
-| 🇫🇷 Pháp · QFEJ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
-| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · WAF9 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · 00Z1 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
 

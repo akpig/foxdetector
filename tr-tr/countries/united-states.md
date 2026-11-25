@@ -5,9 +5,9 @@
 
 [Ülkeler ve bölgeler](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-24 18:03:16 UTC
+**Son testin tamamlanma zamanı** · 2026-11-24 23:52:58 UTC
 
-**Testi geçen düğümler** · 3652
+**Testi geçen düğümler** · 3860
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/country/united-states/?utm_campaign=repository&utm_content=country_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VMess | 2571 |
-| Shadowsocks | 691 |
-| Trojan | 228 |
-| VLESS | 146 |
-| Hysteria2 | 15 |
+| VMess | 2735 |
+| Shadowsocks | 733 |
+| Trojan | 231 |
+| VLESS | 143 |
+| Hysteria2 | 17 |
 | AnyTLS | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri · JBR3 | Shadowsocks | 24 ms (🇫🇷 Fransa) | 20/20 |
-| 🇺🇸 Amerika Birleşik Devletleri · JJXW | VLESS | 32 ms (🇫🇷 Fransa) | 20/20 |
-| 🇺🇸 Amerika Birleşik Devletleri · 72V7 | VLESS | 33 ms (🇫🇷 Fransa) | 20/20 |
-| 🇺🇸 Amerika Birleşik Devletleri · 8T3E | VLESS | 52 ms (🇫🇷 Fransa) | 20/20 |
-| 🇺🇸 Amerika Birleşik Devletleri · 8G2E | VLESS | 63 ms (🇫🇷 Fransa) | 20/20 |
+| 🇺🇸 Amerika Birleşik Devletleri · F0RR | Shadowsocks | 17 ms (🇫🇷 Fransa) | 21/21 |
+| 🇺🇸 Amerika Birleşik Devletleri · 4EKP | VLESS | 25 ms (🇫🇷 Fransa) | 21/21 |
+| 🇺🇸 Amerika Birleşik Devletleri · 8VFS | VLESS | 30 ms (🇫🇷 Fransa) | 21/21 |
+| 🇺🇸 Amerika Birleşik Devletleri · 3DSJ | VLESS | 52 ms (🇫🇷 Fransa) | 21/21 |
+| 🇺🇸 Amerika Birleşik Devletleri · 8G2E | VLESS | 56 ms (🇫🇷 Fransa) | 21/21 |
 

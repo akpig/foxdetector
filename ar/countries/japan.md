@@ -5,9 +5,9 @@
 
 [البلدان والمناطق](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
-**وقت اكتمال آخر اختبار** · 2026-11-24 18:03:16 UTC
+**وقت اكتمال آخر اختبار** · 2026-11-24 23:52:58 UTC
 
-**العُقد التي اجتازت الاختبار** · 524
+**العُقد التي اجتازت الاختبار** · 516
 
 [عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/country/japan/?utm_campaign=repository&utm_content=country_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,9 +15,9 @@
 
 | البروتوكول | العُقد التي اجتازت الاختبار |
 | --- | --- |
-| VMess | 322 |
-| VLESS | 160 |
-| Shadowsocks | 31 |
+| VMess | 314 |
+| VLESS | 158 |
+| Shadowsocks | 33 |
 | Hysteria2 | 5 |
 | Trojan | 4 |
 | AnyTLS | 2 |
@@ -26,9 +26,9 @@
 
 | العقدة | البروتوكول | زمن الاستجابة وموقع الاختبار | نتائج الاختبارات الأخيرة |
 | --- | --- | --- | --- |
-| 🇯🇵 اليابان · AGP1 | VMess | 216 ms (🇫🇷 فرنسا) | 20/20 |
-| 🇯🇵 اليابان · GG1P | Shadowsocks | 217 ms (🇫🇷 فرنسا) | 20/20 |
-| 🇯🇵 اليابان · KAYY | Shadowsocks | 217 ms (🇫🇷 فرنسا) | 20/20 |
-| 🇯🇵 اليابان · JJE4 | VLESS | 217 ms (🇫🇷 فرنسا) | 20/20 |
-| 🇯🇵 اليابان · K7DY | Shadowsocks | 218 ms (🇫🇷 فرنسا) | 20/20 |
+| 🇯🇵 اليابان · 480Q | Shadowsocks | 217 ms (🇫🇷 فرنسا) | 21/21 |
+| 🇯🇵 اليابان · 90ZY | VLESS | 218 ms (🇫🇷 فرنسا) | 20/20 |
+| 🇯🇵 اليابان · GG1P | Shadowsocks | 219 ms (🇫🇷 فرنسا) | 21/21 |
+| 🇯🇵 اليابان · RPE9 | Shadowsocks | 220 ms (🇫🇷 فرنسا) | 21/21 |
+| 🇯🇵 اليابان · JG2B | Shadowsocks | 221 ms (🇫🇷 فرنسا) | 20/20 |
 

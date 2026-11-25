@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-24 18:03:16 UTC
+**Latest completed test** · 2026-11-24 23:52:58 UTC
 
-**Passed nodes** · 1753
+**Passed nodes** · 1827
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 691 |
-| 🇳🇱 Netherlands | 190 |
-| 🇮🇹 Italy | 114 |
-| 🇨🇦 Canada | 113 |
-| 🇫🇷 France | 97 |
-| 🇩🇪 Germany | 93 |
-| 🇬🇧 United Kingdom | 92 |
-| 🇸🇬 Singapore | 82 |
-| 🇨🇭 Switzerland | 58 |
-| 🇪🇸 Spain | 54 |
-| 🇵🇱 Poland | 50 |
-| 🇯🇵 Japan | 31 |
-| 🇦🇱 Albania | 18 |
-| 🇦🇹 Austria | 14 |
-| 🇸🇪 Sweden | 13 |
-| 🇧🇬 Bulgaria | 11 |
+| 🇺🇸 United States | 733 |
+| 🇳🇱 Netherlands | 206 |
+| 🇮🇹 Italy | 111 |
+| 🇫🇷 France | 104 |
+| 🇨🇦 Canada | 100 |
+| 🇩🇪 Germany | 99 |
+| 🇬🇧 United Kingdom | 94 |
+| 🇸🇬 Singapore | 80 |
+| 🇨🇭 Switzerland | 65 |
+| 🇪🇸 Spain | 58 |
+| 🇵🇱 Poland | 48 |
+| 🇯🇵 Japan | 33 |
+| 🇦🇱 Albania | 25 |
+| 🇦🇹 Austria | 15 |
+| 🇸🇪 Sweden | 14 |
 | 🇱🇹 Lithuania | 11 |
-| 🇰🇷 South Korea | 7 |
-| 🇱🇻 Latvia | 5 |
+| 🇧🇬 Bulgaria | 10 |
+| 🇱🇻 Latvia | 6 |
+| 🇰🇷 South Korea | 5 |
+| 🇿🇦 South Africa | 3 |
 | 🇭🇰 Hong Kong SAR China | 2 |
-| 🇿🇦 South Africa | 2 |
 | 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 India | 1 |
 | 🇳🇴 Norway | 1 |
+| 🇷🇺 Russia | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇬🇧 United Kingdom · JYEE | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 20/20 |
-| 🇳🇱 Netherlands · 5BXH | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 20/20 |
-| 🇳🇱 Netherlands · MEV9 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 20/20 |
-| 🇬🇧 United Kingdom · 28E0 | 🇬🇧 United Kingdom | 13 ms (🇫🇷 France) | 20/20 |
-| 🇳🇱 Netherlands · N3KX | 🇳🇱 Netherlands | 13 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · 73D5 | 🇫🇷 France | 11 ms (🇫🇷 France) | 21/21 |
+| 🇬🇧 United Kingdom · HAPH | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 20/20 |
+| 🇳🇱 Netherlands · BCV7 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 21/21 |
+| 🇳🇱 Netherlands · 1GRF | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 21/21 |
+| 🇳🇱 Netherlands · 7121 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 21/21 |
 
