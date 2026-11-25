@@ -13,10 +13,10 @@ FoxDetector kiểm tra các nút proxy được chia sẻ công khai bằng Xray
 
 ## Dữ liệu mới nhất
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 12:20:35 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 18:18:05 UTC
 
-**Nút đạt yêu cầu** · 8717  
-**Vị trí thoát** · 56  
+**Nút đạt yêu cầu** · 8860  
+**Vị trí thoát** · 55  
 **Giao thức** · 6  
 **Nút được đề xuất** · 500
 
@@ -24,11 +24,11 @@ FoxDetector kiểm tra các nút proxy được chia sẻ công khai bằng Xray
 
 | Hạng | Nút | Vị trí thoát | Giao thức | Độ trễ và nơi đo | Số lần đạt liên tiếp | Kết quả gần đây |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 🇸🇪 Thụy Điển · 261P | 🇸🇪 Thụy Điển | Shadowsocks | 42 ms (🇫🇷 Pháp) | 20 | 22/22 |
-| 4 | 🇸🇪 Thụy Điển · 0FAM | 🇸🇪 Thụy Điển | Shadowsocks | 42 ms (🇫🇷 Pháp) | 20 | 23/23 |
-| 5 | 🇫🇷 Pháp · 1KZ4 | 🇫🇷 Pháp | VMess | 12 ms (🇫🇷 Pháp) | 20 | 23/23 |
-| 7 | 🇫🇷 Pháp · KCHE | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 20 | 23/23 |
-| 8 | 🇺🇸 Hoa Kỳ · VBBM | 🇺🇸 Hoa Kỳ | Shadowsocks | 84 ms (🇫🇷 Pháp) | 20 | 23/23 |
+| 4 | 🇺🇸 Hoa Kỳ · VBBM | 🇺🇸 Hoa Kỳ | Shadowsocks | 84 ms (🇫🇷 Pháp) | 20 | 24/24 |
+| 6 | 🇸🇪 Thụy Điển · 261P | 🇸🇪 Thụy Điển | Shadowsocks | 44 ms (🇫🇷 Pháp) | 20 | 23/23 |
+| 8 | 🇫🇷 Pháp · 1KZ4 | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 20 | 24/24 |
+| 9 | 🇫🇷 Pháp · KCHE | 🇫🇷 Pháp | VMess | 13 ms (🇫🇷 Pháp) | 20 | 24/24 |
+| 11 | 🇺🇸 Hoa Kỳ · 94PY | 🇺🇸 Hoa Kỳ | Shadowsocks | 84 ms (🇫🇷 Pháp) | 20 | 24/24 |
 
 [Xem bảng xếp hạng đầy đủ và cách nhập vào ứng dụng](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Xem trước bảng xếp hạng](top500.md)
 

@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-25 12:20:35 UTC
+**Son testin tamamlanma zamanı** · 2026-11-25 18:18:05 UTC
 
-**Testi geçen düğümler** · 5161
+**Testi geçen düğümler** · 5230
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,37 +15,35 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2800 |
-| 🇨🇦 Kanada | 305 |
-| 🇯🇵 Japonya | 265 |
-| 🇫🇷 Fransa | 239 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2937 |
+| 🇨🇦 Kanada | 320 |
+| 🇯🇵 Japonya | 260 |
 | 🇸🇬 Singapur | 225 |
-| 🇭🇰 Çin Hong Kong ÖİB | 202 |
+| 🇭🇰 Çin Hong Kong ÖİB | 215 |
+| 🇫🇷 Fransa | 177 |
 | 🇬🇧 Birleşik Krallık | 153 |
-| 🇦🇹 Avusturya | 137 |
-| 🇮🇳 Hindistan | 136 |
-| 🇧🇷 Brezilya | 103 |
-| 🇩🇪 Almanya | 103 |
-| 🇰🇿 Kazakistan | 103 |
-| 🇸🇪 İsveç | 103 |
+| 🇮🇳 Hindistan | 153 |
+| 🇦🇹 Avusturya | 143 |
+| 🇩🇪 Almanya | 113 |
+| 🇧🇷 Brezilya | 109 |
+| 🇸🇪 İsveç | 108 |
 | 🇰🇷 Güney Kore | 95 |
-| 🇵🇱 Polonya | 46 |
-| 🇲🇾 Malezya | 41 |
-| 🇳🇱 Hollanda | 41 |
-| 🇨🇭 İsviçre | 24 |
-| 🇫🇮 Finlandiya | 15 |
+| 🇰🇿 Kazakistan | 54 |
+| 🇳🇱 Hollanda | 44 |
+| 🇲🇾 Malezya | 43 |
+| 🇨🇭 İsviçre | 28 |
+| 🇹🇭 Tayland | 23 |
+| 🇫🇮 Finlandiya | 17 |
 | 🇮🇪 İrlanda | 10 |
-| 🇹🇭 Tayland | 8 |
-| 🇹🇼 Tayvan | 5 |
-| 🇨🇳 Çin | 2 |
+| 🇨🇳 Çin | 3 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · T6ZZ | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
-| 🇫🇷 Fransa · 933G | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · BHGT | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
-| 🇫🇷 Fransa · FR98 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
-| 🇫🇷 Fransa · YZ08 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · 2J9K | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 24/24 |
+| 🇫🇷 Fransa · 6EYN | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 24/24 |
+| 🇫🇷 Fransa · T6ZZ | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 24/24 |
+| 🇫🇷 Fransa · SGRX | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · EZ82 | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 21/21 |
 

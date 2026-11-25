@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 12:20:35 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 18:18:05 UTC
 
-**Nút đạt yêu cầu** · 5161
+**Nút đạt yêu cầu** · 5230
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,37 +15,35 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 2800 |
-| 🇨🇦 Canada | 305 |
-| 🇯🇵 Nhật Bản | 265 |
-| 🇫🇷 Pháp | 239 |
+| 🇺🇸 Hoa Kỳ | 2937 |
+| 🇨🇦 Canada | 320 |
+| 🇯🇵 Nhật Bản | 260 |
 | 🇸🇬 Singapore | 225 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 202 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 215 |
+| 🇫🇷 Pháp | 177 |
 | 🇬🇧 Vương quốc Anh | 153 |
-| 🇦🇹 Áo | 137 |
-| 🇮🇳 Ấn Độ | 136 |
-| 🇧🇷 Brazil | 103 |
-| 🇩🇪 Đức | 103 |
-| 🇰🇿 Kazakhstan | 103 |
-| 🇸🇪 Thụy Điển | 103 |
+| 🇮🇳 Ấn Độ | 153 |
+| 🇦🇹 Áo | 143 |
+| 🇩🇪 Đức | 113 |
+| 🇧🇷 Brazil | 109 |
+| 🇸🇪 Thụy Điển | 108 |
 | 🇰🇷 Hàn Quốc | 95 |
-| 🇵🇱 Ba Lan | 46 |
-| 🇲🇾 Malaysia | 41 |
-| 🇳🇱 Hà Lan | 41 |
-| 🇨🇭 Thụy Sĩ | 24 |
-| 🇫🇮 Phần Lan | 15 |
+| 🇰🇿 Kazakhstan | 54 |
+| 🇳🇱 Hà Lan | 44 |
+| 🇲🇾 Malaysia | 43 |
+| 🇨🇭 Thụy Sĩ | 28 |
+| 🇹🇭 Thái Lan | 23 |
+| 🇫🇮 Phần Lan | 17 |
 | 🇮🇪 Ireland | 10 |
-| 🇹🇭 Thái Lan | 8 |
-| 🇹🇼 Đài Loan | 5 |
-| 🇨🇳 Trung Quốc | 2 |
+| 🇨🇳 Trung Quốc | 3 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · T6ZZ | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · 933G | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 22/22 |
-| 🇫🇷 Pháp · BHGT | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · FR98 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · YZ08 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
+| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · 6EYN | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · T6ZZ | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · SGRX | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 23/23 |
+| 🇫🇷 Pháp · EZ82 | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 21/21 |
 

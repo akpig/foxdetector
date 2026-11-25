@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 12:20:35 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 18:18:05 UTC
 
-**Nút đạt yêu cầu** · 1949
+**Nút đạt yêu cầu** · 1945
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,42 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 784 |
+| 🇺🇸 Hoa Kỳ | 775 |
 | 🇳🇱 Hà Lan | 215 |
-| 🇮🇹 Italy | 122 |
-| 🇨🇦 Canada | 116 |
+| 🇮🇹 Italy | 123 |
 | 🇫🇷 Pháp | 111 |
+| 🇨🇦 Canada | 109 |
+| 🇩🇪 Đức | 103 |
 | 🇬🇧 Vương quốc Anh | 102 |
-| 🇩🇪 Đức | 101 |
-| 🇸🇬 Singapore | 88 |
+| 🇸🇬 Singapore | 89 |
 | 🇨🇭 Thụy Sĩ | 71 |
-| 🇪🇸 Tây Ban Nha | 63 |
-| 🇵🇱 Ba Lan | 49 |
-| 🇯🇵 Nhật Bản | 33 |
+| 🇪🇸 Tây Ban Nha | 66 |
+| 🇵🇱 Ba Lan | 47 |
+| 🇯🇵 Nhật Bản | 35 |
 | 🇦🇱 Albania | 18 |
 | 🇦🇹 Áo | 16 |
 | 🇸🇪 Thụy Điển | 15 |
-| 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Litva | 11 |
-| 🇱🇻 Latvia | 8 |
-| 🇰🇷 Hàn Quốc | 4 |
+| 🇧🇬 Bulgaria | 10 |
+| 🇱🇹 Litva | 10 |
+| 🇱🇻 Latvia | 9 |
+| 🇰🇷 Hàn Quốc | 8 |
 | 🇹🇷 Thổ Nhĩ Kỳ | 3 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 2 |
 | 🇿🇦 Nam Phi | 2 |
+| 🇨🇱 Chile | 1 |
 | 🇫🇮 Phần Lan | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 Ấn Độ | 1 |
+| 🇰🇿 Kazakhstan | 1 |
 | 🇳🇴 Na Uy | 1 |
+| 🇷🇺 Nga | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 1V47 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
-| 🇬🇧 Vương quốc Anh · G469 | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇬🇧 Vương quốc Anh · C4EZ | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 23/23 |
-| 🇳🇱 Hà Lan · 5BXH | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 23/23 |
-| 🇳🇱 Hà Lan · ZJ6T | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 23/23 |
+| 🇫🇷 Pháp · FFH7 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 24/24 |
+| 🇬🇧 Vương quốc Anh · DDEB | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 24/24 |
+| 🇳🇱 Hà Lan · PY65 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 24/24 |
+| 🇳🇱 Hà Lan · EZ98 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 24/24 |
+| 🇳🇱 Hà Lan · RYB1 | 🇳🇱 Hà Lan | 13 ms (🇫🇷 Pháp) | 24/24 |
 

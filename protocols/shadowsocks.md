@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 12:20:35 UTC
+**Latest completed test** · 2026-11-25 18:18:05 UTC
 
-**Passed nodes** · 1949
+**Passed nodes** · 1945
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,42 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 784 |
+| 🇺🇸 United States | 775 |
 | 🇳🇱 Netherlands | 215 |
-| 🇮🇹 Italy | 122 |
-| 🇨🇦 Canada | 116 |
+| 🇮🇹 Italy | 123 |
 | 🇫🇷 France | 111 |
+| 🇨🇦 Canada | 109 |
+| 🇩🇪 Germany | 103 |
 | 🇬🇧 United Kingdom | 102 |
-| 🇩🇪 Germany | 101 |
-| 🇸🇬 Singapore | 88 |
+| 🇸🇬 Singapore | 89 |
 | 🇨🇭 Switzerland | 71 |
-| 🇪🇸 Spain | 63 |
-| 🇵🇱 Poland | 49 |
-| 🇯🇵 Japan | 33 |
+| 🇪🇸 Spain | 66 |
+| 🇵🇱 Poland | 47 |
+| 🇯🇵 Japan | 35 |
 | 🇦🇱 Albania | 18 |
 | 🇦🇹 Austria | 16 |
 | 🇸🇪 Sweden | 15 |
-| 🇧🇬 Bulgaria | 11 |
-| 🇱🇹 Lithuania | 11 |
-| 🇱🇻 Latvia | 8 |
-| 🇰🇷 South Korea | 4 |
+| 🇧🇬 Bulgaria | 10 |
+| 🇱🇹 Lithuania | 10 |
+| 🇱🇻 Latvia | 9 |
+| 🇰🇷 South Korea | 8 |
 | 🇹🇷 Turkey | 3 |
 | 🇭🇰 Hong Kong SAR China | 2 |
 | 🇿🇦 South Africa | 2 |
+| 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 India | 1 |
+| 🇰🇿 Kazakhstan | 1 |
 | 🇳🇴 Norway | 1 |
+| 🇷🇺 Russia | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 1V47 | 🇫🇷 France | 11 ms (🇫🇷 France) | 23/23 |
-| 🇬🇧 United Kingdom · G469 | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 21/21 |
-| 🇬🇧 United Kingdom · C4EZ | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 23/23 |
-| 🇳🇱 Netherlands · 5BXH | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 23/23 |
-| 🇳🇱 Netherlands · ZJ6T | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 23/23 |
+| 🇫🇷 France · FFH7 | 🇫🇷 France | 11 ms (🇫🇷 France) | 24/24 |
+| 🇬🇧 United Kingdom · DDEB | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 24/24 |
+| 🇳🇱 Netherlands · PY65 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 24/24 |
+| 🇳🇱 Netherlands · EZ98 | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 24/24 |
+| 🇳🇱 Netherlands · RYB1 | 🇳🇱 Netherlands | 13 ms (🇫🇷 France) | 24/24 |
 

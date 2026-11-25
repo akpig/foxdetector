@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 12:20:35 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 18:18:05 UTC
 
-**Nút đạt yêu cầu** · 1073
+**Nút đạt yêu cầu** · 1155
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
@@ -15,65 +15,64 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇩🇪 Đức | 184 |
-| 🇯🇵 Nhật Bản | 152 |
-| 🇺🇸 Hoa Kỳ | 139 |
-| 🇳🇱 Hà Lan | 104 |
+| 🇩🇪 Đức | 213 |
+| 🇯🇵 Nhật Bản | 156 |
+| 🇳🇱 Hà Lan | 150 |
+| 🇺🇸 Hoa Kỳ | 150 |
 | 🇨🇦 Canada | 56 |
-| 🇫🇮 Phần Lan | 40 |
-| 🇫🇷 Pháp | 39 |
-| 🇸🇬 Singapore | 39 |
-| 🇮🇱 Israel | 35 |
-| 🇸🇪 Thụy Điển | 32 |
-| 🇵🇱 Ba Lan | 28 |
-| 🇪🇸 Tây Ban Nha | 20 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 18 |
-| 🇨🇭 Thụy Sĩ | 16 |
-| 🇬🇧 Vương quốc Anh | 16 |
-| 🇮🇶 Iraq | 14 |
-| 🇰🇷 Hàn Quốc | 14 |
-| 🇪🇪 Estonia | 11 |
-| 🇮🇪 Ireland | 10 |
+| 🇸🇬 Singapore | 42 |
+| 🇫🇮 Phần Lan | 37 |
+| 🇫🇷 Pháp | 35 |
+| 🇵🇱 Ba Lan | 27 |
+| 🇸🇪 Thụy Điển | 25 |
+| 🇮🇱 Israel | 23 |
+| 🇰🇷 Hàn Quốc | 22 |
+| 🇪🇸 Tây Ban Nha | 21 |
+| 🇬🇧 Vương quốc Anh | 21 |
+| 🇮🇶 Iraq | 19 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 16 |
+| 🇮🇪 Ireland | 13 |
 | 🇱🇻 Latvia | 10 |
 | 🇧🇾 Belarus | 9 |
+| 🇪🇪 Estonia | 9 |
+| 🇷🇺 Nga | 8 |
+| 🇹🇷 Thổ Nhĩ Kỳ | 8 |
+| 🇨🇭 Thụy Sĩ | 7 |
 | 🇮🇷 Iran | 7 |
-| 🇷🇺 Nga | 7 |
 | 🇨🇾 Síp | 6 |
-| 🇹🇷 Thổ Nhĩ Kỳ | 6 |
 | 🇨🇿 Séc | 5 |
+| 🇮🇹 Italy | 5 |
 | 🇰🇿 Kazakhstan | 5 |
 | 🇻🇳 Việt Nam | 5 |
-| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 4 |
-| 🇮🇹 Italy | 4 |
 | 🇱🇹 Litva | 4 |
-| 🇹🇼 Đài Loan | 4 |
+| 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 3 |
 | 🇦🇺 Australia | 3 |
-| 🇧🇬 Bulgaria | 3 |
+| 🇬🇷 Hy Lạp | 3 |
+| 🇱🇰 Sri Lanka | 3 |
 | 🇵🇹 Bồ Đào Nha | 3 |
+| 🇷🇴 Romania | 3 |
+| 🇹🇼 Đài Loan | 3 |
 | 🇺🇦 Ukraina | 3 |
 | 🇦🇱 Albania | 2 |
-| 🇬🇷 Hy Lạp | 2 |
-| 🇷🇴 Romania | 2 |
-| 🇦🇷 Argentina | 1 |
+| 🇧🇬 Bulgaria | 2 |
+| 🇧🇷 Brazil | 2 |
+| 🇳🇴 Na Uy | 2 |
+| 🇵🇫 Polynesia thuộc Pháp | 2 |
 | 🇦🇹 Áo | 1 |
 | 🇦🇿 Azerbaijan | 1 |
-| 🇧🇷 Brazil | 1 |
 | 🇨🇱 Chile | 1 |
 | 🇩🇰 Đan Mạch | 1 |
-| 🇭🇳 Honduras | 1 |
-| 🇱🇺 Luxembourg | 1 |
+| 🇭🇷 Croatia | 1 |
 | 🇲🇰 Macedonia | 1 |
 | 🇲🇽 Mexico | 1 |
-| 🇳🇴 Na Uy | 1 |
-| 🇵🇫 Polynesia thuộc Pháp | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 7CDR | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · ST9P | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · JMAP | 🇫🇷 Pháp | 5 ms (🇫🇷 Pháp) | 23/23 |
-| 🇫🇷 Pháp · 4GE8 | 🇫🇷 Pháp | 6 ms (🇫🇷 Pháp) | 23/23 |
-| 🇳🇱 Hà Lan · 5KAT | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · 2AG6 | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · QE9M | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · N1GX | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · QYXH | 🇫🇷 Pháp | 5 ms (🇫🇷 Pháp) | 24/24 |
+| 🇫🇷 Pháp · 4GE8 | 🇫🇷 Pháp | 9 ms (🇫🇷 Pháp) | 24/24 |
 
