@@ -5,9 +5,9 @@
 
 [موقعیت‌های خروج](README.md) · [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-24 23:52:58 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-25 06:00:36 UTC
 
-**گره‌های موفق در آزمایش** · 516
+**گره‌های موفق در آزمایش** · 501
 
 [مشاهدهٔ همهٔ گره‌های موفق و روش‌های وارد کردن](https://www.foxdetector.com/fa-ir/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | پروتکل | گره‌های موفق در آزمایش |
 | --- | --- |
-| VMess | 314 |
+| VMess | 301 |
 | VLESS | 158 |
 | Shadowsocks | 33 |
-| Hysteria2 | 5 |
+| Hysteria2 | 4 |
 | Trojan | 4 |
-| AnyTLS | 2 |
+| AnyTLS | 1 |
 
 ## نمونه‌ای از گره‌های موفق در آزمون
 
 | گره | پروتکل | تأخیر و محل آزمایش | نتایج اخیر |
 | --- | --- | --- | --- |
-| 🇯🇵 ژاپن · 480Q | Shadowsocks | 217 ms (🇫🇷 فرانسه) | 21/21 |
-| 🇯🇵 ژاپن · 90ZY | VLESS | 218 ms (🇫🇷 فرانسه) | 20/20 |
-| 🇯🇵 ژاپن · GG1P | Shadowsocks | 219 ms (🇫🇷 فرانسه) | 21/21 |
-| 🇯🇵 ژاپن · RPE9 | Shadowsocks | 220 ms (🇫🇷 فرانسه) | 21/21 |
-| 🇯🇵 ژاپن · JG2B | Shadowsocks | 221 ms (🇫🇷 فرانسه) | 20/20 |
+| 🇯🇵 ژاپن · P0CJ | Shadowsocks | 217 ms (🇫🇷 فرانسه) | 22/22 |
+| 🇯🇵 ژاپن · FQ6C | Shadowsocks | 220 ms (🇫🇷 فرانسه) | 22/22 |
+| 🇯🇵 ژاپن · JG2B | Shadowsocks | 220 ms (🇫🇷 فرانسه) | 21/21 |
+| 🇯🇵 ژاپن · K5TD | Shadowsocks | 221 ms (🇫🇷 فرانسه) | 21/21 |
+| 🇯🇵 ژاپن · C6ZD | VLESS | 222 ms (🇫🇷 فرانسه) | 21/21 |
 

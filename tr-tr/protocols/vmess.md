@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-24 23:52:58 UTC
+**Son testin tamamlanma zamanı** · 2026-11-25 06:00:36 UTC
 
-**Testi geçen düğümler** · 5139
+**Testi geçen düğümler** · 5335
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,26 +15,26 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2735 |
-| 🇯🇵 Japonya | 314 |
-| 🇨🇦 Kanada | 284 |
-| 🇭🇰 Çin Hong Kong ÖİB | 228 |
-| 🇫🇷 Fransa | 225 |
-| 🇸🇬 Singapur | 225 |
-| 🇬🇧 Birleşik Krallık | 161 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2870 |
+| 🇨🇦 Kanada | 303 |
+| 🇯🇵 Japonya | 301 |
+| 🇭🇰 Çin Hong Kong ÖİB | 240 |
+| 🇫🇷 Fransa | 237 |
+| 🇸🇬 Singapur | 226 |
+| 🇬🇧 Birleşik Krallık | 159 |
 | 🇮🇳 Hindistan | 150 |
-| 🇦🇹 Avusturya | 126 |
-| 🇩🇪 Almanya | 109 |
-| 🇰🇿 Kazakistan | 106 |
-| 🇰🇷 Güney Kore | 105 |
-| 🇧🇷 Brezilya | 98 |
-| 🇸🇪 İsveç | 94 |
-| 🇵🇱 Polonya | 42 |
-| 🇲🇾 Malezya | 38 |
-| 🇳🇱 Hollanda | 37 |
-| 🇨🇭 İsviçre | 21 |
+| 🇦🇹 Avusturya | 136 |
+| 🇰🇿 Kazakistan | 112 |
+| 🇩🇪 Almanya | 106 |
+| 🇧🇷 Brezilya | 103 |
+| 🇸🇪 İsveç | 102 |
+| 🇰🇷 Güney Kore | 101 |
+| 🇵🇱 Polonya | 45 |
+| 🇳🇱 Hollanda | 40 |
+| 🇲🇾 Malezya | 37 |
+| 🇨🇭 İsviçre | 24 |
 | 🇫🇮 Finlandiya | 20 |
-| 🇮🇪 İrlanda | 10 |
+| 🇮🇪 İrlanda | 12 |
 | 🇹🇭 Tayland | 8 |
 | 🇨🇳 Çin | 2 |
 | 🇹🇼 Tayvan | 1 |
@@ -43,9 +43,9 @@
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · WAF9 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · 2J9K | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · 00Z1 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
+| 🇫🇷 Fransa · T6ZZ | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · J52S | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
 

@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-24 23:52:58 UTC
+**最近检测完成** · 2026-11-25 06:00:36 UTC
 
-**通过节点** · 516
+**通过节点** · 501
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 314 |
+| VMess | 301 |
 | VLESS | 158 |
 | Shadowsocks | 33 |
-| Hysteria2 | 5 |
+| Hysteria2 | 4 |
 | Trojan | 4 |
-| AnyTLS | 2 |
+| AnyTLS | 1 |
 
 ## 通过检测的节点示例
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇯🇵 日本 · 480Q | Shadowsocks | 217 ms (🇫🇷 法国) | 21/21 |
-| 🇯🇵 日本 · 90ZY | VLESS | 218 ms (🇫🇷 法国) | 20/20 |
-| 🇯🇵 日本 · GG1P | Shadowsocks | 219 ms (🇫🇷 法国) | 21/21 |
-| 🇯🇵 日本 · RPE9 | Shadowsocks | 220 ms (🇫🇷 法国) | 21/21 |
-| 🇯🇵 日本 · JG2B | Shadowsocks | 221 ms (🇫🇷 法国) | 20/20 |
+| 🇯🇵 日本 · P0CJ | Shadowsocks | 217 ms (🇫🇷 法国) | 22/22 |
+| 🇯🇵 日本 · FQ6C | Shadowsocks | 220 ms (🇫🇷 法国) | 22/22 |
+| 🇯🇵 日本 · JG2B | Shadowsocks | 220 ms (🇫🇷 法国) | 21/21 |
+| 🇯🇵 日本 · K5TD | Shadowsocks | 221 ms (🇫🇷 法国) | 21/21 |
+| 🇯🇵 日本 · C6ZD | VLESS | 222 ms (🇫🇷 法国) | 21/21 |
 

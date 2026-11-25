@@ -5,9 +5,9 @@
 
 [Çıkış konumları](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-24 23:52:58 UTC
+**Son testin tamamlanma zamanı** · 2026-11-25 06:00:36 UTC
 
-**Testi geçen düğümler** · 500
+**Testi geçen düğümler** · 607
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,18 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VMess | 284 |
-| Shadowsocks | 100 |
-| VLESS | 58 |
-| Trojan | 57 |
-| AnyTLS | 1 |
+| VMess | 303 |
+| VLESS | 135 |
+| Shadowsocks | 110 |
+| Trojan | 59 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇨🇦 Kanada · T6MQ | VMess | 92 ms (🇫🇷 Fransa) | 21/21 |
-| 🇨🇦 Kanada · CQ6D | VMess | 92 ms (🇫🇷 Fransa) | 21/21 |
-| 🇨🇦 Kanada · 5F1Z | VMess | 92 ms (🇫🇷 Fransa) | 20/20 |
-| 🇨🇦 Kanada · DMCD | VMess | 92 ms (🇫🇷 Fransa) | 21/21 |
-| 🇨🇦 Kanada · 6QJ7 | VMess | 92 ms (🇫🇷 Fransa) | 20/20 |
+| 🇨🇦 Kanada · MCT8 | Shadowsocks | 86 ms (🇫🇷 Fransa) | 22/22 |
+| 🇨🇦 Kanada · T7T8 | Shadowsocks | 89 ms (🇫🇷 Fransa) | 21/21 |
+| 🇨🇦 Kanada · DV4Q | VMess | 91 ms (🇫🇷 Fransa) | 21/21 |
+| 🇨🇦 Kanada · 1CD4 | Shadowsocks | 91 ms (🇫🇷 Fransa) | 20/20 |
+| 🇨🇦 Kanada · 820Q | VMess | 92 ms (🇫🇷 Fransa) | 22/22 |
 

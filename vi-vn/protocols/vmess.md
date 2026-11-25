@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 23:52:58 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 06:00:36 UTC
 
-**Nút đạt yêu cầu** · 5139
+**Nút đạt yêu cầu** · 5335
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,26 +15,26 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 2735 |
-| 🇯🇵 Nhật Bản | 314 |
-| 🇨🇦 Canada | 284 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 228 |
-| 🇫🇷 Pháp | 225 |
-| 🇸🇬 Singapore | 225 |
-| 🇬🇧 Vương quốc Anh | 161 |
+| 🇺🇸 Hoa Kỳ | 2870 |
+| 🇨🇦 Canada | 303 |
+| 🇯🇵 Nhật Bản | 301 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 240 |
+| 🇫🇷 Pháp | 237 |
+| 🇸🇬 Singapore | 226 |
+| 🇬🇧 Vương quốc Anh | 159 |
 | 🇮🇳 Ấn Độ | 150 |
-| 🇦🇹 Áo | 126 |
-| 🇩🇪 Đức | 109 |
-| 🇰🇿 Kazakhstan | 106 |
-| 🇰🇷 Hàn Quốc | 105 |
-| 🇧🇷 Brazil | 98 |
-| 🇸🇪 Thụy Điển | 94 |
-| 🇵🇱 Ba Lan | 42 |
-| 🇲🇾 Malaysia | 38 |
-| 🇳🇱 Hà Lan | 37 |
-| 🇨🇭 Thụy Sĩ | 21 |
+| 🇦🇹 Áo | 136 |
+| 🇰🇿 Kazakhstan | 112 |
+| 🇩🇪 Đức | 106 |
+| 🇧🇷 Brazil | 103 |
+| 🇸🇪 Thụy Điển | 102 |
+| 🇰🇷 Hàn Quốc | 101 |
+| 🇵🇱 Ba Lan | 45 |
+| 🇳🇱 Hà Lan | 40 |
+| 🇲🇾 Malaysia | 37 |
+| 🇨🇭 Thụy Sĩ | 24 |
 | 🇫🇮 Phần Lan | 20 |
-| 🇮🇪 Ireland | 10 |
+| 🇮🇪 Ireland | 12 |
 | 🇹🇭 Thái Lan | 8 |
 | 🇨🇳 Trung Quốc | 2 |
 | 🇹🇼 Đài Loan | 1 |
@@ -43,9 +43,9 @@
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · WAF9 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · 2J9K | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · 00Z1 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · T6ZZ | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · MZTD | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · QA8T | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · FA33 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · J52S | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 22/22 |
 

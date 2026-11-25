@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-24 23:52:58 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-25 06:00:36 UTC
 
-**Nút đạt yêu cầu** · 1827
+**Nút đạt yêu cầu** · 1839
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,40 +15,41 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 733 |
-| 🇳🇱 Hà Lan | 206 |
-| 🇮🇹 Italy | 111 |
+| 🇺🇸 Hoa Kỳ | 732 |
+| 🇳🇱 Hà Lan | 205 |
+| 🇮🇹 Italy | 114 |
+| 🇨🇦 Canada | 110 |
 | 🇫🇷 Pháp | 104 |
-| 🇨🇦 Canada | 100 |
 | 🇩🇪 Đức | 99 |
-| 🇬🇧 Vương quốc Anh | 94 |
-| 🇸🇬 Singapore | 80 |
+| 🇬🇧 Vương quốc Anh | 98 |
+| 🇸🇬 Singapore | 79 |
 | 🇨🇭 Thụy Sĩ | 65 |
-| 🇪🇸 Tây Ban Nha | 58 |
-| 🇵🇱 Ba Lan | 48 |
+| 🇪🇸 Tây Ban Nha | 60 |
+| 🇵🇱 Ba Lan | 47 |
 | 🇯🇵 Nhật Bản | 33 |
-| 🇦🇱 Albania | 25 |
+| 🇦🇱 Albania | 22 |
 | 🇦🇹 Áo | 15 |
 | 🇸🇪 Thụy Điển | 14 |
 | 🇱🇹 Litva | 11 |
-| 🇧🇬 Bulgaria | 10 |
-| 🇱🇻 Latvia | 6 |
+| 🇧🇬 Bulgaria | 9 |
+| 🇱🇻 Latvia | 7 |
 | 🇰🇷 Hàn Quốc | 5 |
-| 🇿🇦 Nam Phi | 3 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 2 |
+| 🇿🇦 Nam Phi | 2 |
 | 🇨🇱 Chile | 1 |
 | 🇫🇮 Phần Lan | 1 |
 | 🇮🇪 Ireland | 1 |
+| 🇮🇳 Ấn Độ | 1 |
 | 🇳🇴 Na Uy | 1 |
-| 🇷🇺 Nga | 1 |
+| 🇹🇷 Thổ Nhĩ Kỳ | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 73D5 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇬🇧 Vương quốc Anh · HAPH | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 20/20 |
-| 🇳🇱 Hà Lan · BCV7 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 21/21 |
-| 🇳🇱 Hà Lan · 1GRF | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 21/21 |
-| 🇳🇱 Hà Lan · 7121 | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · ERZ2 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 22/22 |
+| 🇫🇷 Pháp · CDF3 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 22/22 |
+| 🇬🇧 Vương quốc Anh · 6J4T | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 22/22 |
+| 🇳🇱 Hà Lan · GP3B | 🇳🇱 Hà Lan | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇬🇧 Vương quốc Anh · 3J81 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 22/22 |
 
