@@ -5,9 +5,9 @@
 
 [مواقع الخروج](README.md) · [FoxDetector](../README.md) · [أفضل ٥٠٠ عقدة](../top500.md)
 
-**وقت اكتمال آخر اختبار** · 2026-11-25 06:00:36 UTC
+**وقت اكتمال آخر اختبار** · 2026-11-25 12:20:35 UTC
 
-**العُقد التي اجتازت الاختبار** · 607
+**العُقد التي اجتازت الاختبار** · 535
 
 [عرض جميع العقد الناجحة وطرق الاستيراد](https://www.foxdetector.com/ar/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,19 @@
 
 | البروتوكول | العُقد التي اجتازت الاختبار |
 | --- | --- |
-| VMess | 303 |
-| VLESS | 135 |
-| Shadowsocks | 110 |
-| Trojan | 59 |
+| VMess | 305 |
+| Shadowsocks | 116 |
+| Trojan | 57 |
+| VLESS | 56 |
+| AnyTLS | 1 |
 
 ## عينة من العقد التي نجحت في الاختبار
 
 | العقدة | البروتوكول | زمن الاستجابة وموقع الاختبار | نتائج الاختبارات الأخيرة |
 | --- | --- | --- | --- |
-| 🇨🇦 كندا · MCT8 | Shadowsocks | 86 ms (🇫🇷 فرنسا) | 22/22 |
-| 🇨🇦 كندا · T7T8 | Shadowsocks | 89 ms (🇫🇷 فرنسا) | 21/21 |
-| 🇨🇦 كندا · DV4Q | VMess | 91 ms (🇫🇷 فرنسا) | 21/21 |
-| 🇨🇦 كندا · 1CD4 | Shadowsocks | 91 ms (🇫🇷 فرنسا) | 20/20 |
-| 🇨🇦 كندا · 820Q | VMess | 92 ms (🇫🇷 فرنسا) | 22/22 |
+| 🇨🇦 كندا · 6078 | Shadowsocks | 86 ms (🇫🇷 فرنسا) | 20/20 |
+| 🇨🇦 كندا · 5DN4 | Shadowsocks | 87 ms (🇫🇷 فرنسا) | 20/20 |
+| 🇨🇦 كندا · V9WX | Shadowsocks | 87 ms (🇫🇷 فرنسا) | 23/23 |
+| 🇨🇦 كندا · DEX4 | Shadowsocks | 87 ms (🇫🇷 فرنسا) | 23/23 |
+| 🇨🇦 كندا · 38H5 | VMess | 91 ms (🇫🇷 فرنسا) | 23/23 |
 

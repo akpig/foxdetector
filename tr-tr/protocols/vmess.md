@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-25 06:00:36 UTC
+**Son testin tamamlanma zamanı** · 2026-11-25 12:20:35 UTC
 
-**Testi geçen düğümler** · 5335
+**Testi geçen düğümler** · 5161
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,37 +15,37 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 2870 |
-| 🇨🇦 Kanada | 303 |
-| 🇯🇵 Japonya | 301 |
-| 🇭🇰 Çin Hong Kong ÖİB | 240 |
-| 🇫🇷 Fransa | 237 |
-| 🇸🇬 Singapur | 226 |
-| 🇬🇧 Birleşik Krallık | 159 |
-| 🇮🇳 Hindistan | 150 |
-| 🇦🇹 Avusturya | 136 |
-| 🇰🇿 Kazakistan | 112 |
-| 🇩🇪 Almanya | 106 |
+| 🇺🇸 Amerika Birleşik Devletleri | 2800 |
+| 🇨🇦 Kanada | 305 |
+| 🇯🇵 Japonya | 265 |
+| 🇫🇷 Fransa | 239 |
+| 🇸🇬 Singapur | 225 |
+| 🇭🇰 Çin Hong Kong ÖİB | 202 |
+| 🇬🇧 Birleşik Krallık | 153 |
+| 🇦🇹 Avusturya | 137 |
+| 🇮🇳 Hindistan | 136 |
 | 🇧🇷 Brezilya | 103 |
-| 🇸🇪 İsveç | 102 |
-| 🇰🇷 Güney Kore | 101 |
-| 🇵🇱 Polonya | 45 |
-| 🇳🇱 Hollanda | 40 |
-| 🇲🇾 Malezya | 37 |
+| 🇩🇪 Almanya | 103 |
+| 🇰🇿 Kazakistan | 103 |
+| 🇸🇪 İsveç | 103 |
+| 🇰🇷 Güney Kore | 95 |
+| 🇵🇱 Polonya | 46 |
+| 🇲🇾 Malezya | 41 |
+| 🇳🇱 Hollanda | 41 |
 | 🇨🇭 İsviçre | 24 |
-| 🇫🇮 Finlandiya | 20 |
-| 🇮🇪 İrlanda | 12 |
+| 🇫🇮 Finlandiya | 15 |
+| 🇮🇪 İrlanda | 10 |
 | 🇹🇭 Tayland | 8 |
+| 🇹🇼 Tayvan | 5 |
 | 🇨🇳 Çin | 2 |
-| 🇹🇼 Tayvan | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · T6ZZ | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · QA8T | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · J52S | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · T6ZZ | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · 933G | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · BHGT | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · FR98 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · YZ08 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
 

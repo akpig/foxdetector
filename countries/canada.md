@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 06:00:36 UTC
+**Latest completed test** · 2026-11-25 12:20:35 UTC
 
-**Passed nodes** · 607
+**Passed nodes** · 535
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,18 +15,19 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 303 |
-| VLESS | 135 |
-| Shadowsocks | 110 |
-| Trojan | 59 |
+| VMess | 305 |
+| Shadowsocks | 116 |
+| Trojan | 57 |
+| VLESS | 56 |
+| AnyTLS | 1 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · MCT8 | Shadowsocks | 86 ms (🇫🇷 France) | 22/22 |
-| 🇨🇦 Canada · T7T8 | Shadowsocks | 89 ms (🇫🇷 France) | 21/21 |
-| 🇨🇦 Canada · DV4Q | VMess | 91 ms (🇫🇷 France) | 21/21 |
-| 🇨🇦 Canada · 1CD4 | Shadowsocks | 91 ms (🇫🇷 France) | 20/20 |
-| 🇨🇦 Canada · 820Q | VMess | 92 ms (🇫🇷 France) | 22/22 |
+| 🇨🇦 Canada · 6078 | Shadowsocks | 86 ms (🇫🇷 France) | 20/20 |
+| 🇨🇦 Canada · 5DN4 | Shadowsocks | 87 ms (🇫🇷 France) | 20/20 |
+| 🇨🇦 Canada · V9WX | Shadowsocks | 87 ms (🇫🇷 France) | 23/23 |
+| 🇨🇦 Canada · DEX4 | Shadowsocks | 87 ms (🇫🇷 France) | 23/23 |
+| 🇨🇦 Canada · 38H5 | VMess | 91 ms (🇫🇷 France) | 23/23 |
 

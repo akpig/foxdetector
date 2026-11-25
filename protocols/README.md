@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 06:00:36 UTC
+**Latest completed test** · 2026-11-25 12:20:35 UTC
 
 [Protocols · Open FoxDetector](https://www.foxdetector.com/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | Protocol | Passed nodes | Exit locations | Test sample |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 5335 | 23 | [Test sample](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1839 | 27 | [Test sample](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1363 | 49 | [Test sample](vless.md) |
-| [Trojan](https://www.foxdetector.com/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 458 | 17 | — |
-| [Hysteria2](https://www.foxdetector.com/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 86 | 19 | — |
-| [AnyTLS](https://www.foxdetector.com/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 7 | 4 | — |
+| [VMess](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 5161 | 23 | [Test sample](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1949 | 26 | [Test sample](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1073 | 51 | [Test sample](vless.md) |
+| [Trojan](https://www.foxdetector.com/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 436 | 12 | — |
+| [Hysteria2](https://www.foxdetector.com/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 89 | 19 | — |
+| [AnyTLS](https://www.foxdetector.com/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 9 | 5 | — |
 

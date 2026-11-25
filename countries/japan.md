@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 06:00:36 UTC
+**Latest completed test** · 2026-11-25 12:20:35 UTC
 
-**Passed nodes** · 501
+**Passed nodes** · 457
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 301 |
-| VLESS | 158 |
+| VMess | 265 |
+| VLESS | 152 |
 | Shadowsocks | 33 |
 | Hysteria2 | 4 |
-| Trojan | 4 |
+| Trojan | 2 |
 | AnyTLS | 1 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇯🇵 Japan · P0CJ | Shadowsocks | 217 ms (🇫🇷 France) | 22/22 |
-| 🇯🇵 Japan · FQ6C | Shadowsocks | 220 ms (🇫🇷 France) | 22/22 |
-| 🇯🇵 Japan · JG2B | Shadowsocks | 220 ms (🇫🇷 France) | 21/21 |
-| 🇯🇵 Japan · K5TD | Shadowsocks | 221 ms (🇫🇷 France) | 21/21 |
-| 🇯🇵 Japan · C6ZD | VLESS | 222 ms (🇫🇷 France) | 21/21 |
+| 🇯🇵 Japan · XD6F | Shadowsocks | 219 ms (🇫🇷 France) | 21/21 |
+| 🇯🇵 Japan · C56W | Shadowsocks | 219 ms (🇫🇷 France) | 23/23 |
+| 🇯🇵 Japan · 6Q3B | Shadowsocks | 219 ms (🇫🇷 France) | 23/23 |
+| 🇯🇵 Japan · 2PG6 | VLESS | 219 ms (🇫🇷 France) | 23/23 |
+| 🇯🇵 Japan · ZJTJ | Shadowsocks | 220 ms (🇫🇷 France) | 20/20 |
 

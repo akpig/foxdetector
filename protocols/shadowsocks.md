@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 06:00:36 UTC
+**Latest completed test** · 2026-11-25 12:20:35 UTC
 
-**Passed nodes** · 1839
+**Passed nodes** · 1949
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,41 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 732 |
-| 🇳🇱 Netherlands | 205 |
-| 🇮🇹 Italy | 114 |
-| 🇨🇦 Canada | 110 |
-| 🇫🇷 France | 104 |
-| 🇩🇪 Germany | 99 |
-| 🇬🇧 United Kingdom | 98 |
-| 🇸🇬 Singapore | 79 |
-| 🇨🇭 Switzerland | 65 |
-| 🇪🇸 Spain | 60 |
-| 🇵🇱 Poland | 47 |
+| 🇺🇸 United States | 784 |
+| 🇳🇱 Netherlands | 215 |
+| 🇮🇹 Italy | 122 |
+| 🇨🇦 Canada | 116 |
+| 🇫🇷 France | 111 |
+| 🇬🇧 United Kingdom | 102 |
+| 🇩🇪 Germany | 101 |
+| 🇸🇬 Singapore | 88 |
+| 🇨🇭 Switzerland | 71 |
+| 🇪🇸 Spain | 63 |
+| 🇵🇱 Poland | 49 |
 | 🇯🇵 Japan | 33 |
-| 🇦🇱 Albania | 22 |
-| 🇦🇹 Austria | 15 |
-| 🇸🇪 Sweden | 14 |
+| 🇦🇱 Albania | 18 |
+| 🇦🇹 Austria | 16 |
+| 🇸🇪 Sweden | 15 |
+| 🇧🇬 Bulgaria | 11 |
 | 🇱🇹 Lithuania | 11 |
-| 🇧🇬 Bulgaria | 9 |
-| 🇱🇻 Latvia | 7 |
-| 🇰🇷 South Korea | 5 |
+| 🇱🇻 Latvia | 8 |
+| 🇰🇷 South Korea | 4 |
+| 🇹🇷 Turkey | 3 |
 | 🇭🇰 Hong Kong SAR China | 2 |
 | 🇿🇦 South Africa | 2 |
-| 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
 | 🇳🇴 Norway | 1 |
-| 🇹🇷 Turkey | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 22/22 |
-| 🇫🇷 France · CDF3 | 🇫🇷 France | 11 ms (🇫🇷 France) | 22/22 |
-| 🇬🇧 United Kingdom · 6J4T | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 22/22 |
-| 🇳🇱 Netherlands · GP3B | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 21/21 |
-| 🇬🇧 United Kingdom · 3J81 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 22/22 |
+| 🇫🇷 France · 1V47 | 🇫🇷 France | 11 ms (🇫🇷 France) | 23/23 |
+| 🇬🇧 United Kingdom · G469 | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 21/21 |
+| 🇬🇧 United Kingdom · C4EZ | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 23/23 |
+| 🇳🇱 Netherlands · 5BXH | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 23/23 |
+| 🇳🇱 Netherlands · ZJ6T | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 23/23 |
 
