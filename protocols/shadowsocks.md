@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 23:55:15 UTC
+**Latest completed test** · 2026-11-26 06:07:38 UTC
 
-**Passed nodes** · 2112
+**Passed nodes** · 2244
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,45 +15,45 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 832 |
-| 🇳🇱 Netherlands | 229 |
-| 🇨🇦 Canada | 133 |
-| 🇮🇹 Italy | 125 |
-| 🇫🇷 France | 121 |
-| 🇩🇪 Germany | 109 |
-| 🇬🇧 United Kingdom | 109 |
-| 🇸🇬 Singapore | 102 |
-| 🇨🇭 Switzerland | 77 |
-| 🇪🇸 Spain | 70 |
-| 🇵🇱 Poland | 48 |
-| 🇯🇵 Japan | 38 |
-| 🇦🇱 Albania | 25 |
-| 🇦🇹 Austria | 17 |
-| 🇸🇪 Sweden | 16 |
-| 🇧🇬 Bulgaria | 11 |
+| 🇺🇸 United States | 894 |
+| 🇳🇱 Netherlands | 244 |
+| 🇮🇹 Italy | 136 |
+| 🇫🇷 France | 129 |
+| 🇨🇦 Canada | 126 |
+| 🇬🇧 United Kingdom | 117 |
+| 🇩🇪 Germany | 112 |
+| 🇸🇬 Singapore | 104 |
+| 🇨🇭 Switzerland | 83 |
+| 🇪🇸 Spain | 74 |
+| 🇵🇱 Poland | 49 |
+| 🇯🇵 Japan | 43 |
+| 🇦🇱 Albania | 29 |
+| 🇦🇹 Austria | 18 |
+| 🇸🇪 Sweden | 17 |
 | 🇱🇹 Lithuania | 11 |
-| 🇱🇻 Latvia | 9 |
+| 🇱🇻 Latvia | 11 |
+| 🇧🇬 Bulgaria | 9 |
 | 🇹🇷 Turkey | 8 |
-| 🇰🇷 South Korea | 6 |
-| 🇷🇺 Russia | 3 |
+| 🇰🇷 South Korea | 7 |
+| 🇷🇺 Russia | 5 |
+| 🇿🇦 South Africa | 4 |
+| 🇰🇿 Kazakhstan | 3 |
+| 🇧🇪 Belgium | 2 |
 | 🇭🇰 Hong Kong SAR China | 2 |
-| 🇰🇿 Kazakhstan | 2 |
-| 🇿🇦 South Africa | 2 |
-| 🇧🇪 Belgium | 1 |
+| 🇲🇽 Mexico | 2 |
 | 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇪 Ireland | 1 |
 | 🇮🇳 India | 1 |
-| 🇲🇽 Mexico | 1 |
 | 🇳🇴 Norway | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · FFH7 | 🇫🇷 France | 11 ms (🇫🇷 France) | 25/25 |
-| 🇳🇱 Netherlands · MNHC | 🇳🇱 Netherlands | 11 ms (🇫🇷 France) | 21/21 |
-| 🇫🇷 France · 2RDB | 🇫🇷 France | 11 ms (🇫🇷 France) | 22/22 |
-| 🇬🇧 United Kingdom · DDEB | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 25/25 |
-| 🇳🇱 Netherlands · 6JWK | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 22/22 |
+| 🇫🇷 France · FMCG | 🇫🇷 France | 10 ms (🇫🇷 France) | 26/26 |
+| 🇬🇧 United Kingdom · XXZV | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 26/26 |
+| 🇬🇧 United Kingdom · NH46 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 20/20 |
+| 🇬🇧 United Kingdom · J1JT | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 21/21 |
+| 🇬🇧 United Kingdom · ZWDJ | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 26/26 |
 
