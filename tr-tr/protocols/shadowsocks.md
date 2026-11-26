@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-26 12:17:18 UTC
+**Son testin tamamlanma zamanı** · 2026-11-26 18:23:10 UTC
 
-**Testi geçen düğümler** · 2329
+**Testi geçen düğümler** · 2446
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,31 +15,31 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 892 |
-| 🇳🇱 Hollanda | 237 |
-| 🇨🇦 Kanada | 135 |
-| 🇮🇹 İtalya | 134 |
-| 🇫🇷 Fransa | 130 |
-| 🇯🇵 Japonya | 125 |
-| 🇩🇪 Almanya | 119 |
-| 🇬🇧 Birleşik Krallık | 116 |
-| 🇸🇬 Singapur | 107 |
-| 🇨🇭 İsviçre | 83 |
-| 🇪🇸 İspanya | 74 |
-| 🇵🇱 Polonya | 52 |
-| 🇦🇱 Arnavutluk | 28 |
-| 🇦🇹 Avusturya | 18 |
-| 🇸🇪 İsveç | 17 |
+| 🇺🇸 Amerika Birleşik Devletleri | 926 |
+| 🇳🇱 Hollanda | 244 |
+| 🇯🇵 Japonya | 204 |
+| 🇮🇹 İtalya | 141 |
+| 🇫🇷 Fransa | 136 |
+| 🇨🇦 Kanada | 130 |
+| 🇬🇧 Birleşik Krallık | 124 |
+| 🇩🇪 Almanya | 121 |
+| 🇸🇬 Singapur | 100 |
+| 🇪🇸 İspanya | 78 |
+| 🇨🇭 İsviçre | 71 |
+| 🇵🇱 Polonya | 51 |
+| 🇦🇱 Arnavutluk | 22 |
+| 🇦🇹 Avusturya | 19 |
+| 🇸🇪 İsveç | 18 |
 | 🇧🇬 Bulgaristan | 11 |
-| 🇱🇹 Litvanya | 11 |
+| 🇱🇹 Litvanya | 9 |
 | 🇱🇻 Letonya | 9 |
-| 🇹🇷 Türkiye | 8 |
-| 🇰🇷 Güney Kore | 7 |
-| 🇷🇺 Rusya | 4 |
-| 🇰🇿 Kazakistan | 3 |
-| 🇿🇦 Güney Afrika | 3 |
-| 🇭🇰 Çin Hong Kong ÖİB | 2 |
+| 🇰🇷 Güney Kore | 8 |
+| 🇷🇺 Rusya | 7 |
+| 🇹🇷 Türkiye | 6 |
+| 🇭🇰 Çin Hong Kong ÖİB | 4 |
+| 🇿🇦 Güney Afrika | 2 |
 | 🇧🇷 Brezilya | 1 |
+| 🇨🇱 Şili | 1 |
 | 🇫🇮 Finlandiya | 1 |
 | 🇮🇪 İrlanda | 1 |
 | 🇳🇴 Norveç | 1 |
@@ -48,9 +48,9 @@
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇬🇧 Birleşik Krallık · JYEE | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 27/27 |
-| 🇫🇷 Fransa · D0A1 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · 1V47 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 27/27 |
-| 🇬🇧 Birleşik Krallık · PPK1 | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 25/25 |
-| 🇳🇱 Hollanda · 2QNG | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 21/21 |
+| 🇫🇷 Fransa · FFH7 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇬🇧 Birleşik Krallık · 6E7V | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 6PVN | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 20/20 |
+| 🇳🇱 Hollanda · 4S18 | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 28/28 |
+| 🇬🇧 Birleşik Krallık · ZWDJ | 🇬🇧 Birleşik Krallık | 13 ms (🇫🇷 Fransa) | 28/28 |
 

@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-26 12:17:18 UTC
+**最近检测完成** · 2026-11-26 18:23:10 UTC
 
-**通过节点** · 4565
+**通过节点** · 4920
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 3251 |
-| Shadowsocks | 892 |
-| Trojan | 242 |
-| VLESS | 164 |
-| Hysteria2 | 15 |
+| VMess | 3378 |
+| Shadowsocks | 926 |
+| Trojan | 444 |
+| VLESS | 154 |
+| Hysteria2 | 17 |
 | AnyTLS | 1 |
 
 ## 通过检测的节点示例
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇺🇸 美国 · 4EKP | VLESS | 26 ms (🇫🇷 法国) | 27/27 |
-| 🇺🇸 美国 · K6KQ | VLESS | 30 ms (🇫🇷 法国) | 27/27 |
-| 🇺🇸 美国 · 057Z | VLESS | 58 ms (🇫🇷 法国) | 27/27 |
-| 🇺🇸 美国 · 905Y | Hysteria2 | 59 ms (🇫🇷 法国) | 27/27 |
-| 🇺🇸 美国 · HX9J | VLESS | 60 ms (🇫🇷 法国) | 27/27 |
+| 🇺🇸 美国 · 99DM | Shadowsocks | 20 ms (🇫🇷 法国) | 28/28 |
+| 🇺🇸 美国 · P500 | Shadowsocks | 21 ms (🇫🇷 法国) | 27/27 |
+| 🇺🇸 美国 · W141 | Shadowsocks | 23 ms (🇫🇷 法国) | 23/23 |
+| 🇺🇸 美国 · 738C | Shadowsocks | 25 ms (🇫🇷 法国) | 28/28 |
+| 🇺🇸 美国 · 07GX | Shadowsocks | 26 ms (🇫🇷 法国) | 28/28 |
 
