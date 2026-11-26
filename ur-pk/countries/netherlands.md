@@ -5,9 +5,9 @@
 
 [خروج کے مقامات](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-26 06:07:38 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-26 12:17:18 UTC
 
-**جانچ میں کامیاب نوڈز** · 487
+**جانچ میں کامیاب نوڈز** · 502
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## ٹیسٹ میں کامیاب نوڈز کے نمونے
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇳🇱 نیدر لینڈز · ZY0S | VLESS | 12 ms (🇫🇷 فرانس) | 26/26 |
-| 🇳🇱 نیدر لینڈز · NZ8N | Shadowsocks | 12 ms (🇫🇷 فرانس) | 26/26 |
-| 🇳🇱 نیدر لینڈز · 5BYB | Shadowsocks | 12 ms (🇫🇷 فرانس) | 26/26 |
-| 🇳🇱 نیدر لینڈز · XMXE | Shadowsocks | 12 ms (🇫🇷 فرانس) | 21/21 |
-| 🇳🇱 نیدر لینڈز · Z6NT | VLESS | 12 ms (🇫🇷 فرانس) | 26/26 |
+| 🇳🇱 نیدر لینڈز · 2QNG | Shadowsocks | 12 ms (🇫🇷 فرانس) | 21/21 |
+| 🇳🇱 نیدر لینڈز · DZ7H | VLESS | 12 ms (🇫🇷 فرانس) | 27/27 |
+| 🇳🇱 نیدر لینڈز · 1HZZ | Shadowsocks | 13 ms (🇫🇷 فرانس) | 21/21 |
+| 🇳🇱 نیدر لینڈز · B4RF | Shadowsocks | 13 ms (🇫🇷 فرانس) | 27/27 |
+| 🇳🇱 نیدر لینڈز · 6HNK | VLESS | 13 ms (🇫🇷 فرانس) | 22/22 |
 

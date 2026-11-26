@@ -5,9 +5,9 @@
 
 [موقعیت‌های خروج](README.md) · [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-26 06:07:38 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-26 12:17:18 UTC
 
-**گره‌های موفق در آزمایش** · 487
+**گره‌های موفق در آزمایش** · 502
 
 [مشاهدهٔ همهٔ گره‌های موفق و روش‌های وارد کردن](https://www.foxdetector.com/fa-ir/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | پروتکل | گره‌های موفق در آزمایش |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## نمونه‌ای از گره‌های موفق در آزمون
 
 | گره | پروتکل | تأخیر و محل آزمایش | نتایج اخیر |
 | --- | --- | --- | --- |
-| 🇳🇱 هلند · ZY0S | VLESS | 12 ms (🇫🇷 فرانسه) | 26/26 |
-| 🇳🇱 هلند · NZ8N | Shadowsocks | 12 ms (🇫🇷 فرانسه) | 26/26 |
-| 🇳🇱 هلند · 5BYB | Shadowsocks | 12 ms (🇫🇷 فرانسه) | 26/26 |
-| 🇳🇱 هلند · XMXE | Shadowsocks | 12 ms (🇫🇷 فرانسه) | 21/21 |
-| 🇳🇱 هلند · Z6NT | VLESS | 12 ms (🇫🇷 فرانسه) | 26/26 |
+| 🇳🇱 هلند · 2QNG | Shadowsocks | 12 ms (🇫🇷 فرانسه) | 21/21 |
+| 🇳🇱 هلند · DZ7H | VLESS | 12 ms (🇫🇷 فرانسه) | 27/27 |
+| 🇳🇱 هلند · 1HZZ | Shadowsocks | 13 ms (🇫🇷 فرانسه) | 21/21 |
+| 🇳🇱 هلند · B4RF | Shadowsocks | 13 ms (🇫🇷 فرانسه) | 27/27 |
+| 🇳🇱 هلند · 6HNK | VLESS | 13 ms (🇫🇷 فرانسه) | 22/22 |
 

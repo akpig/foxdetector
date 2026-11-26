@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-26 06:07:38 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-26 12:17:18 UTC
 
-**Nút đạt yêu cầu** · 2244
+**Nút đạt yêu cầu** · 2329
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,45 +15,42 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 894 |
-| 🇳🇱 Hà Lan | 244 |
-| 🇮🇹 Italy | 136 |
-| 🇫🇷 Pháp | 129 |
-| 🇨🇦 Canada | 126 |
-| 🇬🇧 Vương quốc Anh | 117 |
-| 🇩🇪 Đức | 112 |
-| 🇸🇬 Singapore | 104 |
+| 🇺🇸 Hoa Kỳ | 892 |
+| 🇳🇱 Hà Lan | 237 |
+| 🇨🇦 Canada | 135 |
+| 🇮🇹 Italy | 134 |
+| 🇫🇷 Pháp | 130 |
+| 🇯🇵 Nhật Bản | 125 |
+| 🇩🇪 Đức | 119 |
+| 🇬🇧 Vương quốc Anh | 116 |
+| 🇸🇬 Singapore | 107 |
 | 🇨🇭 Thụy Sĩ | 83 |
 | 🇪🇸 Tây Ban Nha | 74 |
-| 🇵🇱 Ba Lan | 49 |
-| 🇯🇵 Nhật Bản | 43 |
-| 🇦🇱 Albania | 29 |
+| 🇵🇱 Ba Lan | 52 |
+| 🇦🇱 Albania | 28 |
 | 🇦🇹 Áo | 18 |
 | 🇸🇪 Thụy Điển | 17 |
+| 🇧🇬 Bulgaria | 11 |
 | 🇱🇹 Litva | 11 |
-| 🇱🇻 Latvia | 11 |
-| 🇧🇬 Bulgaria | 9 |
+| 🇱🇻 Latvia | 9 |
 | 🇹🇷 Thổ Nhĩ Kỳ | 8 |
 | 🇰🇷 Hàn Quốc | 7 |
-| 🇷🇺 Nga | 5 |
-| 🇿🇦 Nam Phi | 4 |
+| 🇷🇺 Nga | 4 |
 | 🇰🇿 Kazakhstan | 3 |
-| 🇧🇪 Bỉ | 2 |
+| 🇿🇦 Nam Phi | 3 |
 | 🇭🇰 Hồng Kông, Trung Quốc | 2 |
-| 🇲🇽 Mexico | 2 |
-| 🇨🇱 Chile | 1 |
+| 🇧🇷 Brazil | 1 |
 | 🇫🇮 Phần Lan | 1 |
 | 🇮🇪 Ireland | 1 |
-| 🇮🇳 Ấn Độ | 1 |
 | 🇳🇴 Na Uy | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · FMCG | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 26/26 |
-| 🇬🇧 Vương quốc Anh · XXZV | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 26/26 |
-| 🇬🇧 Vương quốc Anh · NH46 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 20/20 |
-| 🇬🇧 Vương quốc Anh · J1JT | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 21/21 |
-| 🇬🇧 Vương quốc Anh · ZWDJ | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 26/26 |
+| 🇬🇧 Vương quốc Anh · JYEE | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 27/27 |
+| 🇫🇷 Pháp · D0A1 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
+| 🇫🇷 Pháp · 1V47 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 27/27 |
+| 🇬🇧 Vương quốc Anh · PPK1 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 25/25 |
+| 🇳🇱 Hà Lan · 2QNG | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 21/21 |
 

@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-26 06:07:38 UTC
+**Latest completed test** · 2026-11-26 12:17:18 UTC
 
-**Passed nodes** · 4525
+**Passed nodes** · 4565
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 3228 |
-| Shadowsocks | 894 |
-| Trojan | 235 |
-| VLESS | 153 |
-| Hysteria2 | 14 |
+| VMess | 3251 |
+| Shadowsocks | 892 |
+| Trojan | 242 |
+| VLESS | 164 |
+| Hysteria2 | 15 |
 | AnyTLS | 1 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇺🇸 United States · 7KEF | VLESS | 13 ms (🇫🇷 France) | 22/22 |
-| 🇺🇸 United States · 9B0V | VLESS | 29 ms (🇫🇷 France) | 26/26 |
-| 🇺🇸 United States · JSBX | VLESS | 45 ms (🇫🇷 France) | 22/22 |
-| 🇺🇸 United States · 9B37 | VLESS | 50 ms (🇫🇷 France) | 26/26 |
-| 🇺🇸 United States · 905Y | Hysteria2 | 56 ms (🇫🇷 France) | 26/26 |
+| 🇺🇸 United States · 4EKP | VLESS | 26 ms (🇫🇷 France) | 27/27 |
+| 🇺🇸 United States · K6KQ | VLESS | 30 ms (🇫🇷 France) | 27/27 |
+| 🇺🇸 United States · 057Z | VLESS | 58 ms (🇫🇷 France) | 27/27 |
+| 🇺🇸 United States · 905Y | Hysteria2 | 59 ms (🇫🇷 France) | 27/27 |
+| 🇺🇸 United States · HX9J | VLESS | 60 ms (🇫🇷 France) | 27/27 |
 

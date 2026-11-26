@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-26 06:07:38 UTC
+**最近完成檢測** · 2026-11-26 12:17:18 UTC
 
-**通過節點** · 653
+**通過節點** · 603
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| VMess | 336 |
-| VLESS | 130 |
-| Shadowsocks | 126 |
-| Trojan | 60 |
+| VMess | 342 |
+| Shadowsocks | 135 |
+| VLESS | 68 |
+| Trojan | 57 |
 | AnyTLS | 1 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇨🇦 加拿大 · 10CM | VLESS | 5 ms (🇫🇷 法國) | 23/23 |
-| 🇨🇦 加拿大 · 9DCK | Shadowsocks | 85 ms (🇫🇷 法國) | 26/26 |
-| 🇨🇦 加拿大 · 6078 | Shadowsocks | 86 ms (🇫🇷 法國) | 23/23 |
-| 🇨🇦 加拿大 · 5DN4 | Shadowsocks | 86 ms (🇫🇷 法國) | 23/23 |
-| 🇨🇦 加拿大 · 4S71 | Shadowsocks | 86 ms (🇫🇷 法國) | 21/21 |
+| 🇨🇦 加拿大 · 3QPZ | Shadowsocks | 84 ms (🇫🇷 法國) | 23/23 |
+| 🇨🇦 加拿大 · ZCMT | Shadowsocks | 86 ms (🇫🇷 法國) | 27/27 |
+| 🇨🇦 加拿大 · 5DN4 | Shadowsocks | 87 ms (🇫🇷 法國) | 24/24 |
+| 🇨🇦 加拿大 · ZQFP | Shadowsocks | 87 ms (🇫🇷 法國) | 21/21 |
+| 🇨🇦 加拿大 · VCES | Shadowsocks | 87 ms (🇫🇷 法國) | 24/24 |
 

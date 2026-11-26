@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-26 06:07:38 UTC
+**最近完成檢測** · 2026-11-26 12:17:18 UTC
 
-**通過節點** · 4525
+**通過節點** · 4565
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| VMess | 3228 |
-| Shadowsocks | 894 |
-| Trojan | 235 |
-| VLESS | 153 |
-| Hysteria2 | 14 |
+| VMess | 3251 |
+| Shadowsocks | 892 |
+| Trojan | 242 |
+| VLESS | 164 |
+| Hysteria2 | 15 |
 | AnyTLS | 1 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇺🇸 美國 · 7KEF | VLESS | 13 ms (🇫🇷 法國) | 22/22 |
-| 🇺🇸 美國 · 9B0V | VLESS | 29 ms (🇫🇷 法國) | 26/26 |
-| 🇺🇸 美國 · JSBX | VLESS | 45 ms (🇫🇷 法國) | 22/22 |
-| 🇺🇸 美國 · 9B37 | VLESS | 50 ms (🇫🇷 法國) | 26/26 |
-| 🇺🇸 美國 · 905Y | Hysteria2 | 56 ms (🇫🇷 法國) | 26/26 |
+| 🇺🇸 美國 · 4EKP | VLESS | 26 ms (🇫🇷 法國) | 27/27 |
+| 🇺🇸 美國 · K6KQ | VLESS | 30 ms (🇫🇷 法國) | 27/27 |
+| 🇺🇸 美國 · 057Z | VLESS | 58 ms (🇫🇷 法國) | 27/27 |
+| 🇺🇸 美國 · 905Y | Hysteria2 | 59 ms (🇫🇷 法國) | 27/27 |
+| 🇺🇸 美國 · HX9J | VLESS | 60 ms (🇫🇷 法國) | 27/27 |
 

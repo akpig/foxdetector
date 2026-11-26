@@ -13,10 +13,10 @@ FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder 
 
 ## En güncel veriler
 
-**Son testin tamamlanma zamanı** · 2026-11-26 06:07:38 UTC
+**Son testin tamamlanma zamanı** · 2026-11-26 12:17:18 UTC
 
-**Testi geçen düğümler** · 9866  
-**Çıkış konumları** · 62  
+**Testi geçen düğümler** · 9662  
+**Çıkış konumları** · 57  
 **Protokoller** · 6  
 **Önerilen düğümler** · 500
 
@@ -24,11 +24,11 @@ FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder 
 
 | Sıra | Düğüm | Çıkış konumu | Protokol | Gecikme ve test konumu | Art arda başarılı testler | Son test sonuçları |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5 | 🇫🇷 Fransa · KCHE | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 20 | 26/26 |
-| 6 | 🇫🇷 Fransa · SMVK | 🇫🇷 Fransa | VMess | 12 ms (🇫🇷 Fransa) | 20 | 25/25 |
-| 8 | 🇺🇸 Amerika Birleşik Devletleri · 642R | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 84 ms (🇫🇷 Fransa) | 20 | 20/20 |
-| 11 | 🇫🇷 Fransa · 1KZ4 | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 20 | 26/26 |
-| 12 | 🇸🇪 İsveç · 261P | 🇸🇪 İsveç | Shadowsocks | 42 ms (🇫🇷 Fransa) | 20 | 25/25 |
+| 2 | 🇺🇸 Amerika Birleşik Devletleri · VBBM | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 83 ms (🇫🇷 Fransa) | 20 | 27/27 |
+| 3 | 🇫🇷 Fransa · KCHE | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 20 | 27/27 |
+| 4 | 🇫🇷 Fransa · SMVK | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 20 | 26/26 |
+| 10 | 🇫🇷 Fransa · 1KZ4 | 🇫🇷 Fransa | VMess | 13 ms (🇫🇷 Fransa) | 20 | 27/27 |
+| 11 | 🇸🇪 İsveç · 261P | 🇸🇪 İsveç | Shadowsocks | 42 ms (🇫🇷 Fransa) | 20 | 26/26 |
 
 [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Sıralama önizlemesine göz at](top500.md)
 

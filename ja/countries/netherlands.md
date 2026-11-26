@@ -5,9 +5,9 @@
 
 [出口地域数](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-26 06:07:38 UTC
+**直近の検証完了時刻** · 2026-11-26 12:17:18 UTC
 
-**検証に合格したノード** · 487
+**検証に合格したノード** · 502
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇳🇱 オランダ · ZY0S | VLESS | 12 ms (🇫🇷 フランス) | 26/26 |
-| 🇳🇱 オランダ · NZ8N | Shadowsocks | 12 ms (🇫🇷 フランス) | 26/26 |
-| 🇳🇱 オランダ · 5BYB | Shadowsocks | 12 ms (🇫🇷 フランス) | 26/26 |
-| 🇳🇱 オランダ · XMXE | Shadowsocks | 12 ms (🇫🇷 フランス) | 21/21 |
-| 🇳🇱 オランダ · Z6NT | VLESS | 12 ms (🇫🇷 フランス) | 26/26 |
+| 🇳🇱 オランダ · 2QNG | Shadowsocks | 12 ms (🇫🇷 フランス) | 21/21 |
+| 🇳🇱 オランダ · DZ7H | VLESS | 12 ms (🇫🇷 フランス) | 27/27 |
+| 🇳🇱 オランダ · 1HZZ | Shadowsocks | 13 ms (🇫🇷 フランス) | 21/21 |
+| 🇳🇱 オランダ · B4RF | Shadowsocks | 13 ms (🇫🇷 フランス) | 27/27 |
+| 🇳🇱 オランダ · 6HNK | VLESS | 13 ms (🇫🇷 フランス) | 22/22 |
 

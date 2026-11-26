@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-26 06:07:38 UTC
+**Latest completed test** · 2026-11-26 12:17:18 UTC
 
-**Passed nodes** · 487
+**Passed nodes** · 502
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇳🇱 Netherlands · ZY0S | VLESS | 12 ms (🇫🇷 France) | 26/26 |
-| 🇳🇱 Netherlands · NZ8N | Shadowsocks | 12 ms (🇫🇷 France) | 26/26 |
-| 🇳🇱 Netherlands · 5BYB | Shadowsocks | 12 ms (🇫🇷 France) | 26/26 |
-| 🇳🇱 Netherlands · XMXE | Shadowsocks | 12 ms (🇫🇷 France) | 21/21 |
-| 🇳🇱 Netherlands · Z6NT | VLESS | 12 ms (🇫🇷 France) | 26/26 |
+| 🇳🇱 Netherlands · 2QNG | Shadowsocks | 12 ms (🇫🇷 France) | 21/21 |
+| 🇳🇱 Netherlands · DZ7H | VLESS | 12 ms (🇫🇷 France) | 27/27 |
+| 🇳🇱 Netherlands · 1HZZ | Shadowsocks | 13 ms (🇫🇷 France) | 21/21 |
+| 🇳🇱 Netherlands · B4RF | Shadowsocks | 13 ms (🇫🇷 France) | 27/27 |
+| 🇳🇱 Netherlands · 6HNK | VLESS | 13 ms (🇫🇷 France) | 22/22 |
 

@@ -5,9 +5,9 @@
 
 [Çıkış konumları](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-26 06:07:38 UTC
+**Son testin tamamlanma zamanı** · 2026-11-26 12:17:18 UTC
 
-**Testi geçen düğümler** · 487
+**Testi geçen düğümler** · 502
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇳🇱 Hollanda · ZY0S | VLESS | 12 ms (🇫🇷 Fransa) | 26/26 |
-| 🇳🇱 Hollanda · NZ8N | Shadowsocks | 12 ms (🇫🇷 Fransa) | 26/26 |
-| 🇳🇱 Hollanda · 5BYB | Shadowsocks | 12 ms (🇫🇷 Fransa) | 26/26 |
-| 🇳🇱 Hollanda · XMXE | Shadowsocks | 12 ms (🇫🇷 Fransa) | 21/21 |
-| 🇳🇱 Hollanda · Z6NT | VLESS | 12 ms (🇫🇷 Fransa) | 26/26 |
+| 🇳🇱 Hollanda · 2QNG | Shadowsocks | 12 ms (🇫🇷 Fransa) | 21/21 |
+| 🇳🇱 Hollanda · DZ7H | VLESS | 12 ms (🇫🇷 Fransa) | 27/27 |
+| 🇳🇱 Hollanda · 1HZZ | Shadowsocks | 13 ms (🇫🇷 Fransa) | 21/21 |
+| 🇳🇱 Hollanda · B4RF | Shadowsocks | 13 ms (🇫🇷 Fransa) | 27/27 |
+| 🇳🇱 Hollanda · 6HNK | VLESS | 13 ms (🇫🇷 Fransa) | 22/22 |
 

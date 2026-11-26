@@ -5,9 +5,9 @@
 
 [Vị trí IP đầu ra](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-26 06:07:38 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-26 12:17:18 UTC
 
-**Nút đạt yêu cầu** · 487
+**Nút đạt yêu cầu** · 502
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/location/netherlands/?utm_campaign=repository&utm_content=location_netherlands_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| Shadowsocks | 244 |
-| VLESS | 137 |
-| Trojan | 49 |
-| VMess | 44 |
-| Hysteria2 | 13 |
+| Shadowsocks | 237 |
+| VLESS | 156 |
+| Trojan | 48 |
+| VMess | 45 |
+| Hysteria2 | 16 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇳🇱 Hà Lan · ZY0S | VLESS | 12 ms (🇫🇷 Pháp) | 26/26 |
-| 🇳🇱 Hà Lan · NZ8N | Shadowsocks | 12 ms (🇫🇷 Pháp) | 26/26 |
-| 🇳🇱 Hà Lan · 5BYB | Shadowsocks | 12 ms (🇫🇷 Pháp) | 26/26 |
-| 🇳🇱 Hà Lan · XMXE | Shadowsocks | 12 ms (🇫🇷 Pháp) | 21/21 |
-| 🇳🇱 Hà Lan · Z6NT | VLESS | 12 ms (🇫🇷 Pháp) | 26/26 |
+| 🇳🇱 Hà Lan · 2QNG | Shadowsocks | 12 ms (🇫🇷 Pháp) | 21/21 |
+| 🇳🇱 Hà Lan · DZ7H | VLESS | 12 ms (🇫🇷 Pháp) | 27/27 |
+| 🇳🇱 Hà Lan · 1HZZ | Shadowsocks | 13 ms (🇫🇷 Pháp) | 21/21 |
+| 🇳🇱 Hà Lan · B4RF | Shadowsocks | 13 ms (🇫🇷 Pháp) | 27/27 |
+| 🇳🇱 Hà Lan · 6HNK | VLESS | 13 ms (🇫🇷 Pháp) | 22/22 |
 
