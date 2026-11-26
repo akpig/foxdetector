@@ -5,9 +5,9 @@
 
 [出口地域数](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-25 18:18:05 UTC
+**直近の検証完了時刻** · 2026-11-25 23:55:15 UTC
 
-**検証に合格したノード** · 543
+**検証に合格したノード** · 583
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VMess | 320 |
-| Shadowsocks | 109 |
-| Trojan | 57 |
-| VLESS | 56 |
+| VMess | 327 |
+| Shadowsocks | 133 |
+| VLESS | 64 |
+| Trojan | 58 |
 | AnyTLS | 1 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇨🇦 カナダ · 10CM | VLESS | 20 ms (🇫🇷 フランス) | 21/21 |
-| 🇨🇦 カナダ · K026 | Shadowsocks | 90 ms (🇫🇷 フランス) | 24/24 |
-| 🇨🇦 カナダ · 0YXA | VMess | 92 ms (🇫🇷 フランス) | 24/24 |
-| 🇨🇦 カナダ · N009 | VMess | 93 ms (🇫🇷 フランス) | 24/24 |
-| 🇨🇦 カナダ · QM1V | VMess | 93 ms (🇫🇷 フランス) | 24/24 |
+| 🇨🇦 カナダ · 10CM | VLESS | 21 ms (🇫🇷 フランス) | 22/22 |
+| 🇨🇦 カナダ · 6078 | Shadowsocks | 85 ms (🇫🇷 フランス) | 22/22 |
+| 🇨🇦 カナダ · C78C | Shadowsocks | 87 ms (🇫🇷 フランス) | 25/25 |
+| 🇨🇦 カナダ · 6WD1 | VMess | 91 ms (🇫🇷 フランス) | 23/23 |
+| 🇨🇦 カナダ · QV3D | VMess | 92 ms (🇫🇷 フランス) | 25/25 |
 

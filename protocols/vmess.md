@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-25 18:18:05 UTC
+**Latest completed test** · 2026-11-25 23:55:15 UTC
 
-**Passed nodes** · 5230
+**Passed nodes** · 5707
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,35 +15,35 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 2937 |
-| 🇨🇦 Canada | 320 |
-| 🇯🇵 Japan | 260 |
-| 🇸🇬 Singapore | 225 |
-| 🇭🇰 Hong Kong SAR China | 215 |
-| 🇫🇷 France | 177 |
-| 🇬🇧 United Kingdom | 153 |
-| 🇮🇳 India | 153 |
-| 🇦🇹 Austria | 143 |
-| 🇩🇪 Germany | 113 |
-| 🇧🇷 Brazil | 109 |
-| 🇸🇪 Sweden | 108 |
-| 🇰🇷 South Korea | 95 |
-| 🇰🇿 Kazakhstan | 54 |
+| 🇺🇸 United States | 3131 |
+| 🇯🇵 Japan | 334 |
+| 🇨🇦 Canada | 327 |
+| 🇭🇰 Hong Kong SAR China | 258 |
+| 🇸🇬 Singapore | 247 |
+| 🇬🇧 United Kingdom | 171 |
+| 🇫🇷 France | 165 |
+| 🇮🇳 India | 154 |
+| 🇦🇹 Austria | 152 |
+| 🇰🇿 Kazakhstan | 128 |
+| 🇩🇪 Germany | 124 |
+| 🇰🇷 South Korea | 120 |
+| 🇧🇷 Brazil | 117 |
+| 🇸🇪 Sweden | 109 |
+| 🇲🇾 Malaysia | 46 |
 | 🇳🇱 Netherlands | 44 |
-| 🇲🇾 Malaysia | 43 |
-| 🇨🇭 Switzerland | 28 |
-| 🇹🇭 Thailand | 23 |
-| 🇫🇮 Finland | 17 |
-| 🇮🇪 Ireland | 10 |
-| 🇨🇳 China | 3 |
+| 🇨🇭 Switzerland | 30 |
+| 🇹🇭 Thailand | 28 |
+| 🇮🇪 Ireland | 14 |
+| 🇨🇳 China | 4 |
+| 🇹🇼 Taiwan | 4 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 24/24 |
-| 🇫🇷 France · 6EYN | 🇫🇷 France | 12 ms (🇫🇷 France) | 24/24 |
-| 🇫🇷 France · T6ZZ | 🇫🇷 France | 12 ms (🇫🇷 France) | 24/24 |
-| 🇫🇷 France · SGRX | 🇫🇷 France | 12 ms (🇫🇷 France) | 23/23 |
-| 🇫🇷 France · EZ82 | 🇫🇷 France | 12 ms (🇫🇷 France) | 21/21 |
+| 🇫🇷 France · QA8T | 🇫🇷 France | 10 ms (🇫🇷 France) | 25/25 |
+| 🇫🇷 France · HKXX | 🇫🇷 France | 10 ms (🇫🇷 France) | 24/24 |
+| 🇫🇷 France · 0SHA | 🇫🇷 France | 10 ms (🇫🇷 France) | 20/20 |
+| 🇫🇷 France · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 25/25 |
+| 🇫🇷 France · DPW4 | 🇫🇷 France | 11 ms (🇫🇷 France) | 25/25 |
 

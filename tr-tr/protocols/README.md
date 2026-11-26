@@ -5,16 +5,16 @@
 
 [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-25 18:18:05 UTC
+**Son testin tamamlanma zamanı** · 2026-11-25 23:55:15 UTC
 
 [Protokoller · FoxDetector’ı aç](https://www.foxdetector.com/tr-tr/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | Protokol | Testi geçen düğümler | Çıkış konumları | Test örneği |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 5230 | 21 | [Test örneği](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 1945 | 28 | [Test örneği](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/tr-tr/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1155 | 50 | [Test örneği](vless.md) |
-| [Trojan](https://www.foxdetector.com/tr-tr/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 439 | 13 | — |
+| [VMess](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 5707 | 21 | [Test örneği](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 2112 | 31 | [Test örneği](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/tr-tr/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1103 | 48 | [Test örneği](vless.md) |
+| [Trojan](https://www.foxdetector.com/tr-tr/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 442 | 12 | — |
 | [Hysteria2](https://www.foxdetector.com/tr-tr/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 82 | 19 | — |
 | [AnyTLS](https://www.foxdetector.com/tr-tr/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 9 | 5 | — |
 
