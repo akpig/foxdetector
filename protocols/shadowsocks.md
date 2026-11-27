@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-27 12:27:27 UTC
+**Latest completed test** · 2026-11-27 18:30:52 UTC
 
-**Passed nodes** · 2776
+**Passed nodes** · 2640
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,39 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1037 |
-| 🇯🇵 Japan | 339 |
-| 🇳🇱 Netherlands | 269 |
-| 🇫🇷 France | 159 |
-| 🇮🇹 Italy | 155 |
-| 🇩🇪 Germany | 135 |
-| 🇬🇧 United Kingdom | 134 |
+| 🇺🇸 United States | 1030 |
+| 🇯🇵 Japan | 336 |
+| 🇳🇱 Netherlands | 267 |
+| 🇫🇷 France | 158 |
+| 🇮🇹 Italy | 157 |
+| 🇬🇧 United Kingdom | 135 |
 | 🇨🇦 Canada | 127 |
-| 🇸🇬 Singapore | 111 |
+| 🇩🇪 Germany | 114 |
 | 🇨🇭 Switzerland | 88 |
-| 🇪🇸 Spain | 87 |
-| 🇦🇱 Albania | 26 |
+| 🇸🇬 Singapore | 74 |
+| 🇪🇸 Spain | 25 |
+| 🇦🇱 Albania | 23 |
 | 🇦🇹 Austria | 21 |
 | 🇸🇪 Sweden | 20 |
-| 🇰🇷 South Korea | 12 |
 | 🇧🇬 Bulgaria | 11 |
 | 🇱🇹 Lithuania | 11 |
-| 🇱🇻 Latvia | 7 |
-| 🇵🇱 Poland | 7 |
+| 🇰🇷 South Korea | 10 |
+| 🇱🇻 Latvia | 9 |
+| 🇵🇱 Poland | 9 |
 | 🇭🇰 Hong Kong SAR China | 6 |
-| 🇷🇺 Russia | 6 |
-| 🇹🇷 Turkey | 4 |
+| 🇹🇷 Turkey | 3 |
 | 🇿🇦 South Africa | 2 |
 | 🇫🇮 Finland | 1 |
+| 🇮🇳 India | 1 |
+| 🇲🇽 Mexico | 1 |
 | 🇳🇴 Norway | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · CDF3 | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · ERZ2 | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
-| 🇬🇧 United Kingdom · DDEB | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
-| 🇬🇧 United Kingdom · PPK1 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
-| 🇬🇧 United Kingdom · CQRD | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · J136 | 🇫🇷 France | 11 ms (🇫🇷 France) | 23/23 |
+| 🇬🇧 United Kingdom · 3J81 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
+| 🇬🇧 United Kingdom · W852 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 22/22 |
+| 🇳🇱 Netherlands · XM3P | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 28/28 |
+| 🇳🇱 Netherlands · F22K | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 25/25 |
 
