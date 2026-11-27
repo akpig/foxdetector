@@ -13,10 +13,10 @@
 
 ## 最新检测快照
 
-**最近检测完成** · 2026-11-27 06:14:16 UTC
+**最近检测完成** · 2026-11-27 12:27:27 UTC
 
-**通过节点** · 11429  
-**出口位置** · 59  
+**通过节点** · 10089  
+**出口位置** · 54  
 **协议** · 6  
 **推荐节点** · 500
 
@@ -27,8 +27,8 @@
 | 1 | 🇺🇸 美国 · VBBM | 🇺🇸 美国 | Shadowsocks | 84 ms (🇫🇷 法国) | 20 | 28/28 |
 | 3 | 🇫🇷 法国 · KCHE | 🇫🇷 法国 | VMess | 12 ms (🇫🇷 法国) | 20 | 28/28 |
 | 4 | 🇫🇷 法国 · SMVK | 🇫🇷 法国 | VMess | 14 ms (🇫🇷 法国) | 20 | 28/28 |
-| 6 | 🇫🇷 法国 · 1KZ4 | 🇫🇷 法国 | VMess | 12 ms (🇫🇷 法国) | 20 | 28/28 |
-| 11 | 🇺🇸 美国 · 94EW | 🇺🇸 美国 | VMess | 90 ms (🇫🇷 法国) | 20 | 22/22 |
+| 5 | 🇺🇸 美国 · 2K0W | 🇺🇸 美国 | Shadowsocks | 85 ms (🇫🇷 法国) | 20 | 28/28 |
+| 6 | 🇫🇷 法国 · 8V3Z | 🇫🇷 法国 | VLESS | 4 ms (🇫🇷 法国) | 20 | 26/26 |
 
 [查看完整榜单和导入方式](https://www.foxdetector.com/zh-cn/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [浏览榜单预览](top500.md)
 

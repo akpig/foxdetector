@@ -13,10 +13,10 @@ FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder 
 
 ## En güncel veriler
 
-**Son testin tamamlanma zamanı** · 2026-11-27 06:14:16 UTC
+**Son testin tamamlanma zamanı** · 2026-11-27 12:27:27 UTC
 
-**Testi geçen düğümler** · 11429  
-**Çıkış konumları** · 59  
+**Testi geçen düğümler** · 10089  
+**Çıkış konumları** · 54  
 **Protokoller** · 6  
 **Önerilen düğümler** · 500
 
@@ -27,8 +27,8 @@ FoxDetector, herkese açık proxy düğümlerini Xray ve sing-box ile test eder 
 | 1 | 🇺🇸 Amerika Birleşik Devletleri · VBBM | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 84 ms (🇫🇷 Fransa) | 20 | 28/28 |
 | 3 | 🇫🇷 Fransa · KCHE | 🇫🇷 Fransa | VMess | 12 ms (🇫🇷 Fransa) | 20 | 28/28 |
 | 4 | 🇫🇷 Fransa · SMVK | 🇫🇷 Fransa | VMess | 14 ms (🇫🇷 Fransa) | 20 | 28/28 |
-| 6 | 🇫🇷 Fransa · 1KZ4 | 🇫🇷 Fransa | VMess | 12 ms (🇫🇷 Fransa) | 20 | 28/28 |
-| 11 | 🇺🇸 Amerika Birleşik Devletleri · 94EW | 🇺🇸 Amerika Birleşik Devletleri | VMess | 90 ms (🇫🇷 Fransa) | 20 | 22/22 |
+| 5 | 🇺🇸 Amerika Birleşik Devletleri · 2K0W | 🇺🇸 Amerika Birleşik Devletleri | Shadowsocks | 85 ms (🇫🇷 Fransa) | 20 | 28/28 |
+| 6 | 🇫🇷 Fransa · 8V3Z | 🇫🇷 Fransa | VLESS | 4 ms (🇫🇷 Fransa) | 20 | 26/26 |
 
 [Tam sıralamayı ve aktarma seçeneklerini gör](https://www.foxdetector.com/tr-tr/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Sıralama önizlemesine göz at](top500.md)
 

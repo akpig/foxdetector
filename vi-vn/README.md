@@ -13,10 +13,10 @@ FoxDetector kiểm tra các nút proxy được chia sẻ công khai bằng Xray
 
 ## Dữ liệu mới nhất
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 06:14:16 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 12:27:27 UTC
 
-**Nút đạt yêu cầu** · 11429  
-**Vị trí thoát** · 59  
+**Nút đạt yêu cầu** · 10089  
+**Vị trí thoát** · 54  
 **Giao thức** · 6  
 **Nút được đề xuất** · 500
 
@@ -27,8 +27,8 @@ FoxDetector kiểm tra các nút proxy được chia sẻ công khai bằng Xray
 | 1 | 🇺🇸 Hoa Kỳ · VBBM | 🇺🇸 Hoa Kỳ | Shadowsocks | 84 ms (🇫🇷 Pháp) | 20 | 28/28 |
 | 3 | 🇫🇷 Pháp · KCHE | 🇫🇷 Pháp | VMess | 12 ms (🇫🇷 Pháp) | 20 | 28/28 |
 | 4 | 🇫🇷 Pháp · SMVK | 🇫🇷 Pháp | VMess | 14 ms (🇫🇷 Pháp) | 20 | 28/28 |
-| 6 | 🇫🇷 Pháp · 1KZ4 | 🇫🇷 Pháp | VMess | 12 ms (🇫🇷 Pháp) | 20 | 28/28 |
-| 11 | 🇺🇸 Hoa Kỳ · 94EW | 🇺🇸 Hoa Kỳ | VMess | 90 ms (🇫🇷 Pháp) | 20 | 22/22 |
+| 5 | 🇺🇸 Hoa Kỳ · 2K0W | 🇺🇸 Hoa Kỳ | Shadowsocks | 85 ms (🇫🇷 Pháp) | 20 | 28/28 |
+| 6 | 🇫🇷 Pháp · 8V3Z | 🇫🇷 Pháp | VLESS | 4 ms (🇫🇷 Pháp) | 20 | 26/26 |
 
 [Xem bảng xếp hạng đầy đủ và cách nhập vào ứng dụng](https://www.foxdetector.com/vi-vn/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Xem trước bảng xếp hạng](top500.md)
 

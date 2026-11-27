@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-27 06:14:16 UTC
+**Son testin tamamlanma zamanı** · 2026-11-27 12:27:27 UTC
 
-**Testi geçen düğümler** · 6423
+**Testi geçen düğümler** · 6152
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,35 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 3654 |
-| 🇨🇦 Kanada | 359 |
-| 🇭🇰 Çin Hong Kong ÖİB | 302 |
-| 🇸🇬 Singapur | 298 |
+| 🇺🇸 Amerika Birleşik Devletleri | 3519 |
+| 🇨🇦 Kanada | 361 |
+| 🇸🇬 Singapur | 303 |
+| 🇭🇰 Çin Hong Kong ÖİB | 268 |
 | 🇫🇷 Fransa | 210 |
-| 🇯🇵 Japonya | 209 |
-| 🇬🇧 Birleşik Krallık | 193 |
+| 🇯🇵 Japonya | 189 |
 | 🇧🇷 Brezilya | 168 |
-| 🇮🇳 Hindistan | 157 |
-| 🇦🇹 Avusturya | 155 |
-| 🇰🇷 Güney Kore | 148 |
-| 🇩🇪 Almanya | 143 |
-| 🇰🇿 Kazakistan | 131 |
+| 🇬🇧 Birleşik Krallık | 160 |
+| 🇮🇳 Hindistan | 154 |
+| 🇦🇹 Avusturya | 142 |
+| 🇩🇪 Almanya | 138 |
+| 🇰🇷 Güney Kore | 130 |
+| 🇰🇿 Kazakistan | 116 |
 | 🇸🇪 İsveç | 109 |
-| 🇲🇾 Malezya | 57 |
-| 🇳🇱 Hollanda | 47 |
+| 🇲🇾 Malezya | 58 |
+| 🇳🇱 Hollanda | 48 |
 | 🇨🇭 İsviçre | 43 |
-| 🇮🇪 İrlanda | 14 |
-| 🇨🇳 Çin | 10 |
+| 🇮🇪 İrlanda | 22 |
 | 🇹🇭 Tayland | 10 |
-| 🇹🇼 Tayvan | 3 |
 | 🇿🇦 Güney Afrika | 3 |
+| 🇹🇼 Tayvan | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · 6ES5 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 1ZJ8 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · EDZA | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
-| 🇫🇷 Fransa · MEZY | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · N3GH | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · R8D8 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 6ES5 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
 | 🇫🇷 Fransa · HKXX | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · KKXC | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
 

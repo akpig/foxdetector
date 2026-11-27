@@ -5,16 +5,16 @@
 
 [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-27 06:14:16 UTC
+**最近完成檢測** · 2026-11-27 12:27:27 UTC
 
 [通訊協定 · 開啟狐探](https://www.foxdetector.com/zh-hant/protocol/?utm_campaign=repository&utm_content=protocols&utm_medium=referral&utm_source=github)
 
 | 通訊協定 | 通過節點 | 出口位置 | 檢測樣本 |
 | --- | --- | --- | --- |
-| [VMess](https://www.foxdetector.com/zh-hant/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 6423 | 22 | [檢測樣本](vmess.md) |
-| [Shadowsocks](https://www.foxdetector.com/zh-hant/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 2699 | 29 | [檢測樣本](shadowsocks.md) |
-| [VLESS](https://www.foxdetector.com/zh-hant/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1467 | 55 | [檢測樣本](vless.md) |
-| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 738 | 17 | — |
-| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 95 | 20 | — |
+| [VMess](https://www.foxdetector.com/zh-hant/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess&utm_medium=referral&utm_source=github) | 6152 | 21 | [檢測樣本](vmess.md) |
+| [Shadowsocks](https://www.foxdetector.com/zh-hant/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks&utm_medium=referral&utm_source=github) | 2776 | 25 | [檢測樣本](shadowsocks.md) |
+| [VLESS](https://www.foxdetector.com/zh-hant/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless&utm_medium=referral&utm_source=github) | 1041 | 50 | [檢測樣本](vless.md) |
+| [Hysteria2](https://www.foxdetector.com/zh-hant/protocol/hysteria2/?utm_campaign=repository&utm_content=protocol_hysteria2&utm_medium=referral&utm_source=github) | 89 | 18 | — |
+| [Trojan](https://www.foxdetector.com/zh-hant/protocol/trojan/?utm_campaign=repository&utm_content=protocol_trojan&utm_medium=referral&utm_source=github) | 24 | 9 | — |
 | [AnyTLS](https://www.foxdetector.com/zh-hant/protocol/anytls/?utm_campaign=repository&utm_content=protocol_anytls&utm_medium=referral&utm_source=github) | 7 | 3 | — |
 

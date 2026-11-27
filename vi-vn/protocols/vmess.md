@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 06:14:16 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 12:27:27 UTC
 
-**Nút đạt yêu cầu** · 6423
+**Nút đạt yêu cầu** · 6152
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,35 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 3654 |
-| 🇨🇦 Canada | 359 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 302 |
-| 🇸🇬 Singapore | 298 |
+| 🇺🇸 Hoa Kỳ | 3519 |
+| 🇨🇦 Canada | 361 |
+| 🇸🇬 Singapore | 303 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 268 |
 | 🇫🇷 Pháp | 210 |
-| 🇯🇵 Nhật Bản | 209 |
-| 🇬🇧 Vương quốc Anh | 193 |
+| 🇯🇵 Nhật Bản | 189 |
 | 🇧🇷 Brazil | 168 |
-| 🇮🇳 Ấn Độ | 157 |
-| 🇦🇹 Áo | 155 |
-| 🇰🇷 Hàn Quốc | 148 |
-| 🇩🇪 Đức | 143 |
-| 🇰🇿 Kazakhstan | 131 |
+| 🇬🇧 Vương quốc Anh | 160 |
+| 🇮🇳 Ấn Độ | 154 |
+| 🇦🇹 Áo | 142 |
+| 🇩🇪 Đức | 138 |
+| 🇰🇷 Hàn Quốc | 130 |
+| 🇰🇿 Kazakhstan | 116 |
 | 🇸🇪 Thụy Điển | 109 |
-| 🇲🇾 Malaysia | 57 |
-| 🇳🇱 Hà Lan | 47 |
+| 🇲🇾 Malaysia | 58 |
+| 🇳🇱 Hà Lan | 48 |
 | 🇨🇭 Thụy Sĩ | 43 |
-| 🇮🇪 Ireland | 14 |
-| 🇨🇳 Trung Quốc | 10 |
+| 🇮🇪 Ireland | 22 |
 | 🇹🇭 Thái Lan | 10 |
-| 🇹🇼 Đài Loan | 3 |
 | 🇿🇦 Nam Phi | 3 |
+| 🇹🇼 Đài Loan | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · 6ES5 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · 1ZJ8 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · EDZA | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · MEZY | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 23/23 |
+| 🇫🇷 Pháp · N3GH | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · R8D8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · 6ES5 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
 | 🇫🇷 Pháp · HKXX | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · KKXC | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
 

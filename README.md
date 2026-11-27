@@ -13,10 +13,10 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 
 ## Latest snapshot
 
-**Latest completed test** · 2026-11-27 06:14:16 UTC
+**Latest completed test** · 2026-11-27 12:27:27 UTC
 
-**Passed nodes** · 11429  
-**Exit locations** · 59  
+**Passed nodes** · 10089  
+**Exit locations** · 54  
 **Protocols** · 6  
 **Recommended nodes** · 500
 
@@ -27,8 +27,8 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 | 1 | 🇺🇸 United States · VBBM | 🇺🇸 United States | Shadowsocks | 84 ms (🇫🇷 France) | 20 | 28/28 |
 | 3 | 🇫🇷 France · KCHE | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
 | 4 | 🇫🇷 France · SMVK | 🇫🇷 France | VMess | 14 ms (🇫🇷 France) | 20 | 28/28 |
-| 6 | 🇫🇷 France · 1KZ4 | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
-| 11 | 🇺🇸 United States · 94EW | 🇺🇸 United States | VMess | 90 ms (🇫🇷 France) | 20 | 22/22 |
+| 5 | 🇺🇸 United States · 2K0W | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 20 | 28/28 |
+| 6 | 🇫🇷 France · 8V3Z | 🇫🇷 France | VLESS | 4 ms (🇫🇷 France) | 20 | 26/26 |
 
 [See the full ranking and import options](https://www.foxdetector.com/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Browse the ranking preview](top500.md)
 

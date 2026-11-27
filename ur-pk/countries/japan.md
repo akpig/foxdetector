@@ -5,9 +5,9 @@
 
 [خروج کے مقامات](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-27 06:14:16 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-27 12:27:27 UTC
 
-**جانچ میں کامیاب نوڈز** · 678
+**جانچ میں کامیاب نوڈز** · 701
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,9 +15,9 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| Shadowsocks | 295 |
-| VMess | 209 |
-| VLESS | 168 |
+| Shadowsocks | 339 |
+| VMess | 189 |
+| VLESS | 167 |
 | Hysteria2 | 4 |
 | Trojan | 2 |
 
@@ -25,9 +25,9 @@
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇯🇵 جاپان · 3Y00 | VLESS | 215 ms (🇫🇷 فرانس) | 21/21 |
-| 🇯🇵 جاپان · A0TQ | Shadowsocks | 216 ms (🇫🇷 فرانس) | 23/23 |
-| 🇯🇵 جاپان · 1Y36 | Shadowsocks | 217 ms (🇫🇷 فرانس) | 23/23 |
-| 🇯🇵 جاپان · 8XPF | Shadowsocks | 217 ms (🇫🇷 فرانس) | 24/24 |
-| 🇯🇵 جاپان · 1X63 | Shadowsocks | 217 ms (🇫🇷 فرانس) | 24/24 |
+| 🇯🇵 جاپان · JJE4 | VLESS | 217 ms (🇫🇷 فرانس) | 28/28 |
+| 🇯🇵 جاپان · 480Q | Shadowsocks | 217 ms (🇫🇷 فرانس) | 28/28 |
+| 🇯🇵 جاپان · 1X63 | Shadowsocks | 217 ms (🇫🇷 فرانس) | 25/25 |
+| 🇯🇵 جاپان · 8XPF | Shadowsocks | 218 ms (🇫🇷 فرانس) | 25/25 |
+| 🇯🇵 جاپان · K5TD | Shadowsocks | 218 ms (🇫🇷 فرانس) | 28/28 |
 

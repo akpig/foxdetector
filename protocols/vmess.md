@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-27 06:14:16 UTC
+**Latest completed test** · 2026-11-27 12:27:27 UTC
 
-**Passed nodes** · 6423
+**Passed nodes** · 6152
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,35 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 3654 |
-| 🇨🇦 Canada | 359 |
-| 🇭🇰 Hong Kong SAR China | 302 |
-| 🇸🇬 Singapore | 298 |
+| 🇺🇸 United States | 3519 |
+| 🇨🇦 Canada | 361 |
+| 🇸🇬 Singapore | 303 |
+| 🇭🇰 Hong Kong SAR China | 268 |
 | 🇫🇷 France | 210 |
-| 🇯🇵 Japan | 209 |
-| 🇬🇧 United Kingdom | 193 |
+| 🇯🇵 Japan | 189 |
 | 🇧🇷 Brazil | 168 |
-| 🇮🇳 India | 157 |
-| 🇦🇹 Austria | 155 |
-| 🇰🇷 South Korea | 148 |
-| 🇩🇪 Germany | 143 |
-| 🇰🇿 Kazakhstan | 131 |
+| 🇬🇧 United Kingdom | 160 |
+| 🇮🇳 India | 154 |
+| 🇦🇹 Austria | 142 |
+| 🇩🇪 Germany | 138 |
+| 🇰🇷 South Korea | 130 |
+| 🇰🇿 Kazakhstan | 116 |
 | 🇸🇪 Sweden | 109 |
-| 🇲🇾 Malaysia | 57 |
-| 🇳🇱 Netherlands | 47 |
+| 🇲🇾 Malaysia | 58 |
+| 🇳🇱 Netherlands | 48 |
 | 🇨🇭 Switzerland | 43 |
-| 🇮🇪 Ireland | 14 |
-| 🇨🇳 China | 10 |
+| 🇮🇪 Ireland | 22 |
 | 🇹🇭 Thailand | 10 |
-| 🇹🇼 Taiwan | 3 |
 | 🇿🇦 South Africa | 3 |
+| 🇹🇼 Taiwan | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · 6ES5 | 🇫🇷 France | 10 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · 1ZJ8 | 🇫🇷 France | 10 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · EDZA | 🇫🇷 France | 11 ms (🇫🇷 France) | 21/21 |
-| 🇫🇷 France · MEZY | 🇫🇷 France | 11 ms (🇫🇷 France) | 23/23 |
+| 🇫🇷 France · N3GH | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · R8D8 | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · 6ES5 | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
 | 🇫🇷 France · HKXX | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · KKXC | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
 
