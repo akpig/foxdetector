@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-26 18:23:10 UTC
+**最近完成檢測** · 2026-11-27 06:14:16 UTC
 
-**通過節點** · 564
+**通過節點** · 678
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,19 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| Shadowsocks | 204 |
-| VMess | 192 |
-| VLESS | 161 |
+| Shadowsocks | 295 |
+| VMess | 209 |
+| VLESS | 168 |
 | Hysteria2 | 4 |
 | Trojan | 2 |
-| AnyTLS | 1 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇯🇵 日本 · 58EQ | Shadowsocks | 217 ms (🇫🇷 法國) | 23/23 |
-| 🇯🇵 日本 · KCE7 | VLESS | 217 ms (🇫🇷 法國) | 21/21 |
-| 🇯🇵 日本 · FQ6C | Shadowsocks | 218 ms (🇫🇷 法國) | 28/28 |
-| 🇯🇵 日本 · 480Q | Shadowsocks | 218 ms (🇫🇷 法國) | 28/28 |
-| 🇯🇵 日本 · GG1P | Shadowsocks | 218 ms (🇫🇷 法國) | 28/28 |
+| 🇯🇵 日本 · 3Y00 | VLESS | 215 ms (🇫🇷 法國) | 21/21 |
+| 🇯🇵 日本 · A0TQ | Shadowsocks | 216 ms (🇫🇷 法國) | 23/23 |
+| 🇯🇵 日本 · 1Y36 | Shadowsocks | 217 ms (🇫🇷 法國) | 23/23 |
+| 🇯🇵 日本 · 8XPF | Shadowsocks | 217 ms (🇫🇷 法國) | 24/24 |
+| 🇯🇵 日本 · 1X63 | Shadowsocks | 217 ms (🇫🇷 法國) | 24/24 |
 

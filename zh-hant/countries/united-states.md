@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近完成檢測** · 2026-11-26 18:23:10 UTC
+**最近完成檢測** · 2026-11-27 06:14:16 UTC
 
-**通過節點** · 4920
+**通過節點** · 5306
 
 [查看所有通過節點與匯入方式](https://www.foxdetector.com/zh-hant/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | 通訊協定 | 通過節點 |
 | --- | --- |
-| VMess | 3378 |
-| Shadowsocks | 926 |
-| Trojan | 444 |
-| VLESS | 154 |
-| Hysteria2 | 17 |
+| VMess | 3654 |
+| Shadowsocks | 997 |
+| Trojan | 446 |
+| VLESS | 190 |
+| Hysteria2 | 18 |
 | AnyTLS | 1 |
 
 ## 通過檢測的節點範例
 
 | 節點 | 通訊協定 | 觀測點延遲 | 近期通過紀錄 |
 | --- | --- | --- | --- |
-| 🇺🇸 美國 · 99DM | Shadowsocks | 20 ms (🇫🇷 法國) | 28/28 |
-| 🇺🇸 美國 · P500 | Shadowsocks | 21 ms (🇫🇷 法國) | 27/27 |
-| 🇺🇸 美國 · W141 | Shadowsocks | 23 ms (🇫🇷 法國) | 23/23 |
-| 🇺🇸 美國 · 738C | Shadowsocks | 25 ms (🇫🇷 法國) | 28/28 |
-| 🇺🇸 美國 · 07GX | Shadowsocks | 26 ms (🇫🇷 法國) | 28/28 |
+| 🇺🇸 美國 · 738C | Shadowsocks | 15 ms (🇫🇷 法國) | 28/28 |
+| 🇺🇸 美國 · 79S4 | Shadowsocks | 16 ms (🇫🇷 法國) | 20/20 |
+| 🇺🇸 美國 · 07GX | Shadowsocks | 20 ms (🇫🇷 法國) | 28/28 |
+| 🇺🇸 美國 · SZXN | Shadowsocks | 21 ms (🇫🇷 法國) | 20/20 |
+| 🇺🇸 美國 · QHP5 | VLESS | 24 ms (🇫🇷 法國) | 26/26 |
 

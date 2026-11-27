@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-26 18:23:10 UTC
+**Latest completed test** · 2026-11-27 06:14:16 UTC
 
-**Passed nodes** · 607
+**Passed nodes** · 750
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,18 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 351 |
-| Shadowsocks | 130 |
-| VLESS | 71 |
-| Trojan | 54 |
-| AnyTLS | 1 |
+| VMess | 359 |
+| VLESS | 186 |
+| Shadowsocks | 149 |
+| Trojan | 56 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · 9DKT | VLESS | 7 ms (🇫🇷 France) | 20/20 |
-| 🇨🇦 Canada · SNGX | VMess | 91 ms (🇫🇷 France) | 21/21 |
-| 🇨🇦 Canada · F3Z0 | VMess | 92 ms (🇫🇷 France) | 23/23 |
-| 🇨🇦 Canada · 5RH5 | VMess | 92 ms (🇫🇷 France) | 28/28 |
-| 🇨🇦 Canada · NB16 | VMess | 92 ms (🇫🇷 France) | 26/26 |
+| 🇨🇦 Canada · N7K1 | VLESS | 6 ms (🇫🇷 France) | 20/20 |
+| 🇨🇦 Canada · 9DKT | VLESS | 11 ms (🇫🇷 France) | 21/21 |
+| 🇨🇦 Canada · 10CM | VLESS | 46 ms (🇫🇷 France) | 26/26 |
+| 🇨🇦 Canada · ZQFP | Shadowsocks | 84 ms (🇫🇷 France) | 23/23 |
+| 🇨🇦 Canada · 6078 | Shadowsocks | 86 ms (🇫🇷 France) | 26/26 |
 

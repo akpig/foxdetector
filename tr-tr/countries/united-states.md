@@ -5,9 +5,9 @@
 
 [Çıkış konumları](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-26 18:23:10 UTC
+**Son testin tamamlanma zamanı** · 2026-11-27 06:14:16 UTC
 
-**Testi geçen düğümler** · 4920
+**Testi geçen düğümler** · 5306
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VMess | 3378 |
-| Shadowsocks | 926 |
-| Trojan | 444 |
-| VLESS | 154 |
-| Hysteria2 | 17 |
+| VMess | 3654 |
+| Shadowsocks | 997 |
+| Trojan | 446 |
+| VLESS | 190 |
+| Hysteria2 | 18 |
 | AnyTLS | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri · 99DM | Shadowsocks | 20 ms (🇫🇷 Fransa) | 28/28 |
-| 🇺🇸 Amerika Birleşik Devletleri · P500 | Shadowsocks | 21 ms (🇫🇷 Fransa) | 27/27 |
-| 🇺🇸 Amerika Birleşik Devletleri · W141 | Shadowsocks | 23 ms (🇫🇷 Fransa) | 23/23 |
-| 🇺🇸 Amerika Birleşik Devletleri · 738C | Shadowsocks | 25 ms (🇫🇷 Fransa) | 28/28 |
-| 🇺🇸 Amerika Birleşik Devletleri · 07GX | Shadowsocks | 26 ms (🇫🇷 Fransa) | 28/28 |
+| 🇺🇸 Amerika Birleşik Devletleri · 738C | Shadowsocks | 15 ms (🇫🇷 Fransa) | 28/28 |
+| 🇺🇸 Amerika Birleşik Devletleri · 79S4 | Shadowsocks | 16 ms (🇫🇷 Fransa) | 20/20 |
+| 🇺🇸 Amerika Birleşik Devletleri · 07GX | Shadowsocks | 20 ms (🇫🇷 Fransa) | 28/28 |
+| 🇺🇸 Amerika Birleşik Devletleri · SZXN | Shadowsocks | 21 ms (🇫🇷 Fransa) | 20/20 |
+| 🇺🇸 Amerika Birleşik Devletleri · QHP5 | VLESS | 24 ms (🇫🇷 Fransa) | 26/26 |
 

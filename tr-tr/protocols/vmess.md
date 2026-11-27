@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-26 18:23:10 UTC
+**Son testin tamamlanma zamanı** · 2026-11-27 06:14:16 UTC
 
-**Testi geçen düğümler** · 5929
+**Testi geçen düğümler** · 6423
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,44 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 3378 |
-| 🇨🇦 Kanada | 351 |
-| 🇸🇬 Singapur | 266 |
-| 🇭🇰 Çin Hong Kong ÖİB | 265 |
-| 🇫🇷 Fransa | 201 |
-| 🇯🇵 Japonya | 192 |
-| 🇬🇧 Birleşik Krallık | 163 |
-| 🇮🇳 Hindistan | 162 |
-| 🇧🇷 Brezilya | 156 |
-| 🇩🇪 Almanya | 147 |
-| 🇰🇷 Güney Kore | 121 |
-| 🇦🇹 Avusturya | 114 |
-| 🇰🇿 Kazakistan | 96 |
-| 🇸🇪 İsveç | 96 |
-| 🇹🇭 Tayland | 51 |
-| 🇲🇾 Malezya | 50 |
+| 🇺🇸 Amerika Birleşik Devletleri | 3654 |
+| 🇨🇦 Kanada | 359 |
+| 🇭🇰 Çin Hong Kong ÖİB | 302 |
+| 🇸🇬 Singapur | 298 |
+| 🇫🇷 Fransa | 210 |
+| 🇯🇵 Japonya | 209 |
+| 🇬🇧 Birleşik Krallık | 193 |
+| 🇧🇷 Brezilya | 168 |
+| 🇮🇳 Hindistan | 157 |
+| 🇦🇹 Avusturya | 155 |
+| 🇰🇷 Güney Kore | 148 |
+| 🇩🇪 Almanya | 143 |
+| 🇰🇿 Kazakistan | 131 |
+| 🇸🇪 İsveç | 109 |
+| 🇲🇾 Malezya | 57 |
 | 🇳🇱 Hollanda | 47 |
-| 🇨🇭 İsviçre | 36 |
-| 🇮🇪 İrlanda | 9 |
-| 🇿🇦 Güney Afrika | 6 |
-| 🇨🇳 Çin | 5 |
-| 🇧🇪 Belçika | 3 |
-| 🇮🇩 Endonezya | 3 |
-| 🇦🇪 Birleşik Arap Emirlikleri | 2 |
-| 🇨🇿 Çekya | 2 |
-| 🇹🇷 Türkiye | 2 |
-| 🇻🇳 Vietnam | 2 |
-| 🇬🇷 Yunanistan | 1 |
-| 🇳🇴 Norveç | 1 |
-| 🇹🇼 Tayvan | 1 |
+| 🇨🇭 İsviçre | 43 |
+| 🇮🇪 İrlanda | 14 |
+| 🇨🇳 Çin | 10 |
+| 🇹🇭 Tayland | 10 |
+| 🇹🇼 Tayvan | 3 |
+| 🇿🇦 Güney Afrika | 3 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · 9H3YT | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 22/22 |
-| 🇫🇷 Fransa · HKXX | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 27/27 |
-| 🇫🇷 Fransa · 1KZ4 | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 6EYN | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 6ES5 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 1ZJ8 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · EDZA | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 21/21 |
+| 🇫🇷 Fransa · MEZY | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 23/23 |
+| 🇫🇷 Fransa · HKXX | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
 
