@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-27 18:30:52 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 00:21:26 UTC
 
-**Testi geçen düğümler** · 1024
+**Testi geçen düğümler** · 1154
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
@@ -15,65 +15,64 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇯🇵 Japonya | 157 |
-| 🇺🇸 Amerika Birleşik Devletleri | 157 |
-| 🇳🇱 Hollanda | 133 |
-| 🇩🇪 Almanya | 88 |
-| 🇨🇦 Kanada | 86 |
-| 🇫🇷 Fransa | 42 |
-| 🇸🇬 Singapur | 37 |
-| 🇬🇧 Birleşik Krallık | 26 |
+| 🇯🇵 Japonya | 165 |
+| 🇺🇸 Amerika Birleşik Devletleri | 163 |
+| 🇨🇦 Kanada | 145 |
+| 🇳🇱 Hollanda | 128 |
+| 🇩🇪 Almanya | 110 |
+| 🇮🇶 Irak | 55 |
+| 🇫🇷 Fransa | 43 |
+| 🇮🇪 İrlanda | 40 |
+| 🇸🇬 Singapur | 35 |
+| 🇬🇧 Birleşik Krallık | 30 |
+| 🇫🇮 Finlandiya | 28 |
 | 🇮🇱 İsrail | 25 |
-| 🇫🇮 Finlandiya | 22 |
-| 🇮🇶 Irak | 22 |
-| 🇰🇷 Güney Kore | 21 |
+| 🇰🇷 Güney Kore | 22 |
+| 🇵🇱 Polonya | 21 |
 | 🇪🇸 İspanya | 19 |
-| 🇮🇪 İrlanda | 19 |
-| 🇵🇱 Polonya | 18 |
-| 🇰🇿 Kazakistan | 15 |
-| 🇸🇪 İsveç | 14 |
-| 🇪🇪 Estonya | 13 |
-| 🇭🇰 Çin Hong Kong ÖİB | 13 |
-| 🇮🇷 İran | 6 |
-| 🇷🇺 Rusya | 6 |
+| 🇸🇪 İsveç | 15 |
+| 🇭🇰 Çin Hong Kong ÖİB | 14 |
+| 🇷🇺 Rusya | 11 |
+| 🇮🇷 İran | 8 |
 | 🇧🇾 Belarus | 5 |
-| 🇨🇭 İsviçre | 5 |
-| 🇨🇿 Çekya | 5 |
-| 🇮🇹 İtalya | 5 |
+| 🇰🇿 Kazakistan | 5 |
 | 🇻🇳 Vietnam | 5 |
 | 🇦🇺 Avustralya | 4 |
-| 🇧🇬 Bulgaristan | 4 |
+| 🇨🇭 İsviçre | 4 |
+| 🇨🇿 Çekya | 4 |
 | 🇬🇷 Yunanistan | 4 |
-| 🇱🇻 Letonya | 4 |
-| 🇵🇹 Portekiz | 4 |
-| 🇷🇴 Romanya | 4 |
-| 🇹🇷 Türkiye | 4 |
 | 🇦🇪 Birleşik Arap Emirlikleri | 3 |
-| 🇦🇹 Avusturya | 3 |
+| 🇧🇬 Bulgaristan | 3 |
+| 🇮🇹 İtalya | 3 |
 | 🇱🇰 Sri Lanka | 3 |
-| 🇳🇴 Norveç | 3 |
-| 🇹🇭 Tayland | 3 |
+| 🇲🇩 Moldova | 3 |
+| 🇵🇹 Portekiz | 3 |
+| 🇷🇴 Romanya | 3 |
+| 🇦🇹 Avusturya | 2 |
 | 🇭🇳 Honduras | 2 |
-| 🇲🇩 Moldova | 2 |
-| 🇲🇽 Meksika | 2 |
+| 🇱🇻 Letonya | 2 |
+| 🇳🇴 Norveç | 2 |
+| 🇹🇭 Tayland | 2 |
+| 🇹🇷 Türkiye | 2 |
 | 🇹🇼 Tayvan | 2 |
-| 🇦🇱 Arnavutluk | 1 |
+| 🇺🇦 Ukrayna | 2 |
 | 🇧🇷 Brezilya | 1 |
 | 🇩🇰 Danimarka | 1 |
-| 🇮🇳 Hindistan | 1 |
+| 🇪🇪 Estonya | 1 |
+| 🇮🇸 İzlanda | 1 |
 | 🇲🇰 Makedonya | 1 |
+| 🇲🇽 Meksika | 1 |
 | 🇵🇦 Panama | 1 |
 | 🇵🇫 Fransız Polinezyası | 1 |
 | 🇸🇦 Suudi Arabistan | 1 |
-| 🇺🇦 Ukrayna | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · D2AC | 🇫🇷 Fransa | 3 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 7CDR | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 4GE8 | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · QYXH | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · RAPB | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 24/24 |
+| 🇫🇷 Fransa · ST9P | 🇫🇷 Fransa | 3 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · MNCJ | 🇫🇷 Fransa | 3 ms (🇫🇷 Fransa) | 22/22 |
+| 🇫🇷 Fransa · N1GX | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · FQ93 | 🇫🇷 Fransa | 4 ms (🇫🇷 Fransa) | 25/25 |
+| 🇨🇦 Kanada · 9DKT | 🇨🇦 Kanada | 5 ms (🇫🇷 Fransa) | 24/24 |
 

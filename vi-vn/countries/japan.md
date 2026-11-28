@@ -5,9 +5,9 @@
 
 [Vị trí IP đầu ra](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 18:30:52 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 00:21:26 UTC
 
-**Nút đạt yêu cầu** · 674
+**Nút đạt yêu cầu** · 826
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,9 +15,9 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| Shadowsocks | 336 |
-| VMess | 175 |
-| VLESS | 157 |
+| Shadowsocks | 466 |
+| VMess | 189 |
+| VLESS | 165 |
 | Hysteria2 | 4 |
 | Trojan | 2 |
 
@@ -25,9 +25,9 @@
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇯🇵 Nhật Bản · APTC | Shadowsocks | 216 ms (🇫🇷 Pháp) | 22/22 |
-| 🇯🇵 Nhật Bản · 58EQ | Shadowsocks | 216 ms (🇫🇷 Pháp) | 26/26 |
-| 🇯🇵 Nhật Bản · X3XP | VLESS | 216 ms (🇫🇷 Pháp) | 23/23 |
-| 🇯🇵 Nhật Bản · TBAE | Shadowsocks | 216 ms (🇫🇷 Pháp) | 22/22 |
-| 🇯🇵 Nhật Bản · JJE4 | VLESS | 217 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · 6S73 | Shadowsocks | 215 ms (🇫🇷 Pháp) | 21/21 |
+| 🇯🇵 Nhật Bản · 2PG6 | VLESS | 216 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · 1SKC | Shadowsocks | 216 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · ZJTJ | Shadowsocks | 217 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · X0JC | Shadowsocks | 217 ms (🇫🇷 Pháp) | 28/28 |
 

@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-27 18:30:52 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 00:21:26 UTC
 
-**Testi geçen düğümler** · 6239
+**Testi geçen düğümler** · 6833
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 3606 |
-| 🇨🇦 Kanada | 364 |
-| 🇸🇬 Singapur | 292 |
-| 🇭🇰 Çin Hong Kong ÖİB | 284 |
-| 🇫🇷 Fransa | 216 |
-| 🇬🇧 Birleşik Krallık | 188 |
-| 🇧🇷 Brezilya | 175 |
-| 🇯🇵 Japonya | 175 |
-| 🇮🇳 Hindistan | 159 |
-| 🇩🇪 Almanya | 137 |
-| 🇰🇷 Güney Kore | 137 |
-| 🇸🇪 İsveç | 116 |
-| 🇰🇿 Kazakistan | 105 |
-| 🇦🇹 Avusturya | 94 |
-| 🇲🇾 Malezya | 59 |
-| 🇳🇱 Hollanda | 49 |
-| 🇨🇭 İsviçre | 46 |
-| 🇮🇪 İrlanda | 21 |
-| 🇹🇭 Tayland | 12 |
-| 🇿🇦 Güney Afrika | 2 |
-| 🇨🇳 Çin | 1 |
-| 🇹🇼 Tayvan | 1 |
+| 🇺🇸 Amerika Birleşik Devletleri | 3866 |
+| 🇨🇦 Kanada | 376 |
+| 🇭🇰 Çin Hong Kong ÖİB | 347 |
+| 🇸🇬 Singapur | 325 |
+| 🇫🇷 Fransa | 225 |
+| 🇬🇧 Birleşik Krallık | 198 |
+| 🇯🇵 Japonya | 189 |
+| 🇧🇷 Brezilya | 182 |
+| 🇦🇹 Avusturya | 178 |
+| 🇮🇳 Hindistan | 163 |
+| 🇰🇷 Güney Kore | 159 |
+| 🇩🇪 Almanya | 154 |
+| 🇸🇪 İsveç | 129 |
+| 🇰🇿 Kazakistan | 120 |
+| 🇲🇾 Malezya | 60 |
+| 🇳🇱 Hollanda | 51 |
+| 🇨🇭 İsviçre | 49 |
+| 🇮🇪 İrlanda | 28 |
+| 🇹🇭 Tayland | 13 |
+| 🇹🇼 Tayvan | 10 |
+| 🇨🇳 Çin | 6 |
+| 🇿🇦 Güney Afrika | 5 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · DPW4 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 6ES5 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 2X38 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 1ZJ8 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · KCHE | 🇫🇷 Fransa | 12 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 8CQN | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · DPW4 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · N3GH | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 9H3YT | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 26/26 |
+| 🇫🇷 Fransa · H492 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
 

@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-27 18:30:52 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 00:21:26 UTC
 
-**Nút đạt yêu cầu** · 6239
+**Nút đạt yêu cầu** · 6833
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 3606 |
-| 🇨🇦 Canada | 364 |
-| 🇸🇬 Singapore | 292 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 284 |
-| 🇫🇷 Pháp | 216 |
-| 🇬🇧 Vương quốc Anh | 188 |
-| 🇧🇷 Brazil | 175 |
-| 🇯🇵 Nhật Bản | 175 |
-| 🇮🇳 Ấn Độ | 159 |
-| 🇩🇪 Đức | 137 |
-| 🇰🇷 Hàn Quốc | 137 |
-| 🇸🇪 Thụy Điển | 116 |
-| 🇰🇿 Kazakhstan | 105 |
-| 🇦🇹 Áo | 94 |
-| 🇲🇾 Malaysia | 59 |
-| 🇳🇱 Hà Lan | 49 |
-| 🇨🇭 Thụy Sĩ | 46 |
-| 🇮🇪 Ireland | 21 |
-| 🇹🇭 Thái Lan | 12 |
-| 🇿🇦 Nam Phi | 2 |
-| 🇨🇳 Trung Quốc | 1 |
-| 🇹🇼 Đài Loan | 1 |
+| 🇺🇸 Hoa Kỳ | 3866 |
+| 🇨🇦 Canada | 376 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 347 |
+| 🇸🇬 Singapore | 325 |
+| 🇫🇷 Pháp | 225 |
+| 🇬🇧 Vương quốc Anh | 198 |
+| 🇯🇵 Nhật Bản | 189 |
+| 🇧🇷 Brazil | 182 |
+| 🇦🇹 Áo | 178 |
+| 🇮🇳 Ấn Độ | 163 |
+| 🇰🇷 Hàn Quốc | 159 |
+| 🇩🇪 Đức | 154 |
+| 🇸🇪 Thụy Điển | 129 |
+| 🇰🇿 Kazakhstan | 120 |
+| 🇲🇾 Malaysia | 60 |
+| 🇳🇱 Hà Lan | 51 |
+| 🇨🇭 Thụy Sĩ | 49 |
+| 🇮🇪 Ireland | 28 |
+| 🇹🇭 Thái Lan | 13 |
+| 🇹🇼 Đài Loan | 10 |
+| 🇨🇳 Trung Quốc | 6 |
+| 🇿🇦 Nam Phi | 5 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · DPW4 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · 6ES5 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · 2X38 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · 1ZJ8 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · KCHE | 🇫🇷 Pháp | 12 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · 8CQN | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · DPW4 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · N3GH | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · 9H3YT | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 26/26 |
+| 🇫🇷 Pháp · H492 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
 
