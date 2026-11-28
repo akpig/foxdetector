@@ -5,9 +5,9 @@
 
 [Exit locations](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-28 00:21:26 UTC
+**Latest completed test** · 2026-11-28 06:22:46 UTC
 
-**Passed nodes** · 678
+**Passed nodes** · 793
 
 [See all passing nodes and import options](https://www.foxdetector.com/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,17 +15,17 @@
 
 | Protocol | Passed nodes |
 | --- | --- |
-| VMess | 376 |
-| Shadowsocks | 157 |
-| VLESS | 145 |
+| VMess | 409 |
+| VLESS | 221 |
+| Shadowsocks | 163 |
 
 ## Sample of passing nodes
 
 | Node | Protocol | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · 9DKT | VLESS | 5 ms (🇫🇷 France) | 24/24 |
-| 🇨🇦 Canada · K3KW | VLESS | 5 ms (🇫🇷 France) | 20/20 |
-| 🇨🇦 Canada · KRAS | VLESS | 6 ms (🇫🇷 France) | 20/20 |
-| 🇨🇦 Canada · HFX3 | VLESS | 7 ms (🇫🇷 France) | 20/20 |
-| 🇨🇦 Canada · 10CM | VLESS | 7 ms (🇫🇷 France) | 28/28 |
+| 🇨🇦 Canada · PFJF | VLESS | 4 ms (🇫🇷 France) | 21/21 |
+| 🇨🇦 Canada · KRAS | VLESS | 5 ms (🇫🇷 France) | 21/21 |
+| 🇨🇦 Canada · 9DKT | VLESS | 6 ms (🇫🇷 France) | 25/25 |
+| 🇨🇦 Canada · YPE1 | VLESS | 9 ms (🇫🇷 France) | 21/21 |
+| 🇨🇦 Canada · 0RTD | VLESS | 21 ms (🇫🇷 France) | 21/21 |
 

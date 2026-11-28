@@ -5,9 +5,9 @@
 
 [Çıkış konumları](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-28 00:21:26 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 06:22:46 UTC
 
-**Testi geçen düğümler** · 678
+**Testi geçen düğümler** · 793
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,17 +15,17 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| VMess | 376 |
-| Shadowsocks | 157 |
-| VLESS | 145 |
+| VMess | 409 |
+| VLESS | 221 |
+| Shadowsocks | 163 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇨🇦 Kanada · 9DKT | VLESS | 5 ms (🇫🇷 Fransa) | 24/24 |
-| 🇨🇦 Kanada · K3KW | VLESS | 5 ms (🇫🇷 Fransa) | 20/20 |
-| 🇨🇦 Kanada · KRAS | VLESS | 6 ms (🇫🇷 Fransa) | 20/20 |
-| 🇨🇦 Kanada · HFX3 | VLESS | 7 ms (🇫🇷 Fransa) | 20/20 |
-| 🇨🇦 Kanada · 10CM | VLESS | 7 ms (🇫🇷 Fransa) | 28/28 |
+| 🇨🇦 Kanada · PFJF | VLESS | 4 ms (🇫🇷 Fransa) | 21/21 |
+| 🇨🇦 Kanada · KRAS | VLESS | 5 ms (🇫🇷 Fransa) | 21/21 |
+| 🇨🇦 Kanada · 9DKT | VLESS | 6 ms (🇫🇷 Fransa) | 25/25 |
+| 🇨🇦 Kanada · YPE1 | VLESS | 9 ms (🇫🇷 Fransa) | 21/21 |
+| 🇨🇦 Kanada · 0RTD | VLESS | 21 ms (🇫🇷 Fransa) | 21/21 |
 

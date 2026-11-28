@@ -5,9 +5,9 @@
 
 [موقعیت‌های خروج](README.md) · [FoxDetector](../README.md) · [۵۰۰ گره برتر](../top500.md)
 
-**زمان پایان آخرین آزمایش** · 2026-11-28 00:21:26 UTC
+**زمان پایان آخرین آزمایش** · 2026-11-28 06:22:46 UTC
 
-**گره‌های موفق در آزمایش** · 5154
+**گره‌های موفق در آزمایش** · 5372
 
 [مشاهدهٔ همهٔ گره‌های موفق و روش‌های وارد کردن](https://www.foxdetector.com/fa-ir/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | پروتکل | گره‌های موفق در آزمایش |
 | --- | --- |
-| VMess | 3866 |
-| Shadowsocks | 1093 |
-| VLESS | 163 |
-| Trojan | 18 |
-| Hysteria2 | 13 |
+| VMess | 4012 |
+| Shadowsocks | 1147 |
+| VLESS | 178 |
+| Trojan | 22 |
+| Hysteria2 | 12 |
 | AnyTLS | 1 |
 
 ## نمونه‌ای از گره‌های موفق در آزمون
 
 | گره | پروتکل | تأخیر و محل آزمایش | نتایج اخیر |
 | --- | --- | --- | --- |
-| 🇺🇸 ایالات متحده · 99DM | Shadowsocks | 15 ms (🇫🇷 فرانسه) | 28/28 |
-| 🇺🇸 ایالات متحده · MQ71 | Shadowsocks | 15 ms (🇫🇷 فرانسه) | 23/23 |
-| 🇺🇸 ایالات متحده · QBCH | Shadowsocks | 16 ms (🇫🇷 فرانسه) | 28/28 |
-| 🇺🇸 ایالات متحده · DHMV | VLESS | 19 ms (🇫🇷 فرانسه) | 28/28 |
-| 🇺🇸 ایالات متحده · VZF3 | Shadowsocks | 19 ms (🇫🇷 فرانسه) | 25/25 |
+| 🇺🇸 ایالات متحده · GNV0 | Hysteria2 | 16 ms (🇫🇷 فرانسه) | 20/20 |
+| 🇺🇸 ایالات متحده · Y03Y | Shadowsocks | 16 ms (🇫🇷 فرانسه) | 28/28 |
+| 🇺🇸 ایالات متحده · T475 | Shadowsocks | 21 ms (🇫🇷 فرانسه) | 27/27 |
+| 🇺🇸 ایالات متحده · FAT6 | Shadowsocks | 22 ms (🇫🇷 فرانسه) | 23/23 |
+| 🇺🇸 ایالات متحده · W141 | Shadowsocks | 23 ms (🇫🇷 فرانسه) | 28/28 |
 

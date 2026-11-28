@@ -5,9 +5,9 @@
 
 [出口位置](README.md) · [FoxDetector &#124; 狐探](../README.md) · [全球 Top 500](../top500.md)
 
-**最近检测完成** · 2026-11-28 00:21:26 UTC
+**最近检测完成** · 2026-11-28 06:22:46 UTC
 
-**通过节点** · 678
+**通过节点** · 793
 
 [查看全部通过节点与导入方式](https://www.foxdetector.com/zh-cn/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,17 +15,17 @@
 
 | 协议 | 通过节点 |
 | --- | --- |
-| VMess | 376 |
-| Shadowsocks | 157 |
-| VLESS | 145 |
+| VMess | 409 |
+| VLESS | 221 |
+| Shadowsocks | 163 |
 
 ## 通过检测的节点示例
 
 | 节点 | 协议 | 观察点延时 | 近期通过记录 |
 | --- | --- | --- | --- |
-| 🇨🇦 加拿大 · 9DKT | VLESS | 5 ms (🇫🇷 法国) | 24/24 |
-| 🇨🇦 加拿大 · K3KW | VLESS | 5 ms (🇫🇷 法国) | 20/20 |
-| 🇨🇦 加拿大 · KRAS | VLESS | 6 ms (🇫🇷 法国) | 20/20 |
-| 🇨🇦 加拿大 · HFX3 | VLESS | 7 ms (🇫🇷 法国) | 20/20 |
-| 🇨🇦 加拿大 · 10CM | VLESS | 7 ms (🇫🇷 法国) | 28/28 |
+| 🇨🇦 加拿大 · PFJF | VLESS | 4 ms (🇫🇷 法国) | 21/21 |
+| 🇨🇦 加拿大 · KRAS | VLESS | 5 ms (🇫🇷 法国) | 21/21 |
+| 🇨🇦 加拿大 · 9DKT | VLESS | 6 ms (🇫🇷 法国) | 25/25 |
+| 🇨🇦 加拿大 · YPE1 | VLESS | 9 ms (🇫🇷 法国) | 21/21 |
+| 🇨🇦 加拿大 · 0RTD | VLESS | 21 ms (🇫🇷 法国) | 21/21 |
 

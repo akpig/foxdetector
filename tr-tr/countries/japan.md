@@ -5,9 +5,9 @@
 
 [Çıkış konumları](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-28 00:21:26 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 06:22:46 UTC
 
-**Testi geçen düğümler** · 826
+**Testi geçen düğümler** · 935
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,19 +15,19 @@
 
 | Protokol | Testi geçen düğümler |
 | --- | --- |
-| Shadowsocks | 466 |
-| VMess | 189 |
-| VLESS | 165 |
-| Hysteria2 | 4 |
+| Shadowsocks | 542 |
+| VLESS | 228 |
+| VMess | 158 |
+| Hysteria2 | 5 |
 | Trojan | 2 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Protokol | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇯🇵 Japonya · 6S73 | Shadowsocks | 215 ms (🇫🇷 Fransa) | 21/21 |
-| 🇯🇵 Japonya · 2PG6 | VLESS | 216 ms (🇫🇷 Fransa) | 28/28 |
-| 🇯🇵 Japonya · 1SKC | Shadowsocks | 216 ms (🇫🇷 Fransa) | 28/28 |
-| 🇯🇵 Japonya · ZJTJ | Shadowsocks | 217 ms (🇫🇷 Fransa) | 28/28 |
-| 🇯🇵 Japonya · X0JC | Shadowsocks | 217 ms (🇫🇷 Fransa) | 28/28 |
+| 🇯🇵 Japonya · YB1X | Shadowsocks | 216 ms (🇫🇷 Fransa) | 22/22 |
+| 🇯🇵 Japonya · C56W | Shadowsocks | 216 ms (🇫🇷 Fransa) | 28/28 |
+| 🇯🇵 Japonya · J84C | VLESS | 216 ms (🇫🇷 Fransa) | 25/25 |
+| 🇯🇵 Japonya · 480Q | Shadowsocks | 217 ms (🇫🇷 Fransa) | 28/28 |
+| 🇯🇵 Japonya · CXVS | VLESS | 217 ms (🇫🇷 Fransa) | 26/26 |
 

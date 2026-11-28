@@ -5,9 +5,9 @@
 
 [خروج کے مقامات](README.md) · [FoxDetector](../README.md) · [سرفہرست ۵۰۰ نوڈز](../top500.md)
 
-**آخری جانچ مکمل ہونے کا وقت** · 2026-11-28 00:21:26 UTC
+**آخری جانچ مکمل ہونے کا وقت** · 2026-11-28 06:22:46 UTC
 
-**جانچ میں کامیاب نوڈز** · 5154
+**جانچ میں کامیاب نوڈز** · 5372
 
 [تمام کامیاب نوڈز اور درآمد کے طریقے دیکھیں](https://www.foxdetector.com/ur-pk/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,20 +15,20 @@
 
 | پروٹوکول | جانچ میں کامیاب نوڈز |
 | --- | --- |
-| VMess | 3866 |
-| Shadowsocks | 1093 |
-| VLESS | 163 |
-| Trojan | 18 |
-| Hysteria2 | 13 |
+| VMess | 4012 |
+| Shadowsocks | 1147 |
+| VLESS | 178 |
+| Trojan | 22 |
+| Hysteria2 | 12 |
 | AnyTLS | 1 |
 
 ## ٹیسٹ میں کامیاب نوڈز کے نمونے
 
 | نوڈ | پروٹوکول | تاخیر اور مقامِ جانچ | حالیہ نتائج |
 | --- | --- | --- | --- |
-| 🇺🇸 ریاستہائے متحدہ · 99DM | Shadowsocks | 15 ms (🇫🇷 فرانس) | 28/28 |
-| 🇺🇸 ریاستہائے متحدہ · MQ71 | Shadowsocks | 15 ms (🇫🇷 فرانس) | 23/23 |
-| 🇺🇸 ریاستہائے متحدہ · QBCH | Shadowsocks | 16 ms (🇫🇷 فرانس) | 28/28 |
-| 🇺🇸 ریاستہائے متحدہ · DHMV | VLESS | 19 ms (🇫🇷 فرانس) | 28/28 |
-| 🇺🇸 ریاستہائے متحدہ · VZF3 | Shadowsocks | 19 ms (🇫🇷 فرانس) | 25/25 |
+| 🇺🇸 ریاستہائے متحدہ · GNV0 | Hysteria2 | 16 ms (🇫🇷 فرانس) | 20/20 |
+| 🇺🇸 ریاستہائے متحدہ · Y03Y | Shadowsocks | 16 ms (🇫🇷 فرانس) | 28/28 |
+| 🇺🇸 ریاستہائے متحدہ · T475 | Shadowsocks | 21 ms (🇫🇷 فرانس) | 27/27 |
+| 🇺🇸 ریاستہائے متحدہ · FAT6 | Shadowsocks | 22 ms (🇫🇷 فرانس) | 23/23 |
+| 🇺🇸 ریاستہائے متحدہ · W141 | Shadowsocks | 23 ms (🇫🇷 فرانس) | 28/28 |
 
