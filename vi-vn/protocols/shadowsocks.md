@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 06:22:46 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 12:35:51 UTC
 
-**Nút đạt yêu cầu** · 3156
+**Nút đạt yêu cầu** · 3133
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,42 +15,42 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇺🇸 Hoa Kỳ | 1147 |
-| 🇯🇵 Nhật Bản | 542 |
-| 🇳🇱 Hà Lan | 300 |
+| 🇺🇸 Hoa Kỳ | 1143 |
+| 🇯🇵 Nhật Bản | 529 |
+| 🇳🇱 Hà Lan | 296 |
 | 🇫🇷 Pháp | 180 |
-| 🇮🇹 Italy | 167 |
+| 🇮🇹 Italy | 169 |
 | 🇨🇦 Canada | 163 |
 | 🇬🇧 Vương quốc Anh | 146 |
-| 🇩🇪 Đức | 134 |
-| 🇨🇭 Thụy Sĩ | 100 |
-| 🇸🇬 Singapore | 89 |
-| 🇦🇱 Albania | 29 |
+| 🇩🇪 Đức | 139 |
+| 🇨🇭 Thụy Sĩ | 99 |
+| 🇸🇬 Singapore | 88 |
 | 🇪🇸 Tây Ban Nha | 27 |
+| 🇦🇱 Albania | 25 |
 | 🇦🇹 Áo | 23 |
 | 🇸🇪 Thụy Điển | 22 |
-| 🇰🇷 Hàn Quốc | 14 |
+| 🇰🇷 Hàn Quốc | 13 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 11 |
-| 🇱🇹 Litva | 11 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 10 |
+| 🇱🇹 Litva | 10 |
 | 🇵🇱 Ba Lan | 10 |
+| 🇱🇻 Latvia | 8 |
 | 🇹🇷 Thổ Nhĩ Kỳ | 8 |
-| 🇱🇻 Latvia | 7 |
-| 🇷🇺 Nga | 6 |
+| 🇷🇺 Nga | 5 |
 | 🇿🇦 Nam Phi | 3 |
 | 🇳🇴 Na Uy | 2 |
+| 🇨🇱 Chile | 1 |
 | 🇫🇮 Phần Lan | 1 |
-| 🇮🇪 Ireland | 1 |
 | 🇮🇳 Ấn Độ | 1 |
-| 🇲🇽 Mexico | 1 |
+| 🇱🇮 Liechtenstein | 1 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · FMCG | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
-| 🇬🇧 Vương quốc Anh · 6E7V | 🇬🇧 Vương quốc Anh | 11 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · YEP5 | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 24/24 |
-| 🇫🇷 Pháp · EN2S | 🇫🇷 Pháp | 11 ms (🇫🇷 Pháp) | 28/28 |
-| 🇬🇧 Vương quốc Anh · V0FW | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 20/20 |
+| 🇫🇷 Pháp · D0A1 | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · FDRM | 🇫🇷 Pháp | 10 ms (🇫🇷 Pháp) | 28/28 |
+| 🇬🇧 Vương quốc Anh · HAPH | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 28/28 |
+| 🇬🇧 Vương quốc Anh · S1W8 | 🇬🇧 Vương quốc Anh | 12 ms (🇫🇷 Pháp) | 20/20 |
+| 🇳🇱 Hà Lan · XESQ | 🇳🇱 Hà Lan | 12 ms (🇫🇷 Pháp) | 22/22 |
 

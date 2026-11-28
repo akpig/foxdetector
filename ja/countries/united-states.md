@@ -5,9 +5,9 @@
 
 [出口地域数](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-28 06:22:46 UTC
+**直近の検証完了時刻** · 2026-11-28 12:35:51 UTC
 
-**検証に合格したノード** · 5372
+**検証に合格したノード** · 5347
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/location/united-states/?utm_campaign=repository&utm_content=location_united-states_sample&utm_medium=referral&utm_source=github)
 
@@ -15,10 +15,10 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VMess | 4012 |
-| Shadowsocks | 1147 |
-| VLESS | 178 |
-| Trojan | 22 |
+| VMess | 4003 |
+| Shadowsocks | 1143 |
+| VLESS | 164 |
+| Trojan | 24 |
 | Hysteria2 | 12 |
 | AnyTLS | 1 |
 
@@ -26,9 +26,9 @@
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇺🇸 アメリカ合衆国 · GNV0 | Hysteria2 | 16 ms (🇫🇷 フランス) | 20/20 |
-| 🇺🇸 アメリカ合衆国 · Y03Y | Shadowsocks | 16 ms (🇫🇷 フランス) | 28/28 |
-| 🇺🇸 アメリカ合衆国 · T475 | Shadowsocks | 21 ms (🇫🇷 フランス) | 27/27 |
-| 🇺🇸 アメリカ合衆国 · FAT6 | Shadowsocks | 22 ms (🇫🇷 フランス) | 23/23 |
-| 🇺🇸 アメリカ合衆国 · W141 | Shadowsocks | 23 ms (🇫🇷 フランス) | 28/28 |
+| 🇺🇸 アメリカ合衆国 · MSNW | Shadowsocks | 16 ms (🇫🇷 フランス) | 28/28 |
+| 🇺🇸 アメリカ合衆国 · VZF3 | Shadowsocks | 16 ms (🇫🇷 フランス) | 27/27 |
+| 🇺🇸 アメリカ合衆国 · 0RTD | VLESS | 18 ms (🇫🇷 フランス) | 22/22 |
+| 🇺🇸 アメリカ合衆国 · YGH2 | Shadowsocks | 19 ms (🇫🇷 フランス) | 23/23 |
+| 🇺🇸 アメリカ合衆国 · QBCH | Shadowsocks | 20 ms (🇫🇷 フランス) | 28/28 |
 

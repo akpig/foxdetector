@@ -13,10 +13,10 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 
 ## Latest snapshot
 
-**Latest completed test** · 2026-11-28 06:22:46 UTC
+**Latest completed test** · 2026-11-28 12:35:51 UTC
 
-**Passed nodes** · 11920  
-**Exit locations** · 61  
+**Passed nodes** · 11369  
+**Exit locations** · 58  
 **Protocols** · 6  
 **Recommended nodes** · 500
 
@@ -25,10 +25,10 @@ FoxDetector tests publicly shared proxy nodes with Xray and sing-box and ranks t
 | Rank | Node | Exit location | Protocol | Observed latency | Pass streak | Recent passes |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 🇫🇷 France · KCHE | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
-| 2 | 🇺🇸 United States · 94EW | 🇺🇸 United States | VMess | 89 ms (🇫🇷 France) | 20 | 26/26 |
-| 4 | 🇫🇷 France · T9WV | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
-| 5 | 🇺🇸 United States · 2K0W | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 20 | 28/28 |
-| 11 | 🇫🇷 France · SMVK | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
+| 2 | 🇫🇷 France · T9WV | 🇫🇷 France | VMess | 12 ms (🇫🇷 France) | 20 | 28/28 |
+| 3 | 🇺🇸 United States · 94EW | 🇺🇸 United States | VMess | 91 ms (🇫🇷 France) | 20 | 27/27 |
+| 4 | 🇺🇸 United States · 2K0W | 🇺🇸 United States | Shadowsocks | 85 ms (🇫🇷 France) | 20 | 28/28 |
+| 8 | 🇸🇪 Sweden · VTW0J | 🇸🇪 Sweden | VMess | 43 ms (🇫🇷 France) | 20 | 25/25 |
 
 [See the full ranking and import options](https://www.foxdetector.com/top500/?utm_campaign=repository&utm_content=readme_top500_after_preview&utm_medium=referral&utm_source=github) · [Browse the ranking preview](top500.md)
 

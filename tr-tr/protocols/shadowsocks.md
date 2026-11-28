@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-28 06:22:46 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 12:35:51 UTC
 
-**Testi geçen düğümler** · 3156
+**Testi geçen düğümler** · 3133
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,42 +15,42 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 1147 |
-| 🇯🇵 Japonya | 542 |
-| 🇳🇱 Hollanda | 300 |
+| 🇺🇸 Amerika Birleşik Devletleri | 1143 |
+| 🇯🇵 Japonya | 529 |
+| 🇳🇱 Hollanda | 296 |
 | 🇫🇷 Fransa | 180 |
-| 🇮🇹 İtalya | 167 |
+| 🇮🇹 İtalya | 169 |
 | 🇨🇦 Kanada | 163 |
 | 🇬🇧 Birleşik Krallık | 146 |
-| 🇩🇪 Almanya | 134 |
-| 🇨🇭 İsviçre | 100 |
-| 🇸🇬 Singapur | 89 |
-| 🇦🇱 Arnavutluk | 29 |
+| 🇩🇪 Almanya | 139 |
+| 🇨🇭 İsviçre | 99 |
+| 🇸🇬 Singapur | 88 |
 | 🇪🇸 İspanya | 27 |
+| 🇦🇱 Arnavutluk | 25 |
 | 🇦🇹 Avusturya | 23 |
 | 🇸🇪 İsveç | 22 |
-| 🇰🇷 Güney Kore | 14 |
+| 🇰🇷 Güney Kore | 13 |
 | 🇧🇬 Bulgaristan | 11 |
-| 🇭🇰 Çin Hong Kong ÖİB | 11 |
-| 🇱🇹 Litvanya | 11 |
+| 🇭🇰 Çin Hong Kong ÖİB | 10 |
+| 🇱🇹 Litvanya | 10 |
 | 🇵🇱 Polonya | 10 |
+| 🇱🇻 Letonya | 8 |
 | 🇹🇷 Türkiye | 8 |
-| 🇱🇻 Letonya | 7 |
-| 🇷🇺 Rusya | 6 |
+| 🇷🇺 Rusya | 5 |
 | 🇿🇦 Güney Afrika | 3 |
 | 🇳🇴 Norveç | 2 |
+| 🇨🇱 Şili | 1 |
 | 🇫🇮 Finlandiya | 1 |
-| 🇮🇪 İrlanda | 1 |
 | 🇮🇳 Hindistan | 1 |
-| 🇲🇽 Meksika | 1 |
+| 🇱🇮 Liechtenstein | 1 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · FMCG | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
-| 🇬🇧 Birleşik Krallık · 6E7V | 🇬🇧 Birleşik Krallık | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · YEP5 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 24/24 |
-| 🇫🇷 Fransa · EN2S | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇬🇧 Birleşik Krallık · V0FW | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 20/20 |
+| 🇫🇷 Fransa · D0A1 | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · FDRM | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
+| 🇬🇧 Birleşik Krallık · HAPH | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 28/28 |
+| 🇬🇧 Birleşik Krallık · S1W8 | 🇬🇧 Birleşik Krallık | 12 ms (🇫🇷 Fransa) | 20/20 |
+| 🇳🇱 Hollanda · XESQ | 🇳🇱 Hollanda | 12 ms (🇫🇷 Fransa) | 22/22 |
 

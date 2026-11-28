@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-28 06:22:46 UTC
+**Latest completed test** · 2026-11-28 12:35:51 UTC
 
-**Passed nodes** · 7035
+**Passed nodes** · 6959
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 4012 |
-| 🇨🇦 Canada | 409 |
-| 🇸🇬 Singapore | 341 |
-| 🇭🇰 Hong Kong SAR China | 333 |
-| 🇫🇷 France | 245 |
-| 🇧🇷 Brazil | 194 |
-| 🇬🇧 United Kingdom | 194 |
-| 🇦🇹 Austria | 178 |
-| 🇯🇵 Japan | 158 |
-| 🇩🇪 Germany | 156 |
-| 🇰🇷 South Korea | 153 |
-| 🇮🇳 India | 146 |
-| 🇰🇿 Kazakhstan | 142 |
-| 🇸🇪 Sweden | 140 |
-| 🇲🇾 Malaysia | 66 |
+| 🇺🇸 United States | 4003 |
+| 🇨🇦 Canada | 418 |
+| 🇸🇬 Singapore | 347 |
+| 🇭🇰 Hong Kong SAR China | 313 |
+| 🇫🇷 France | 246 |
+| 🇯🇵 Japan | 201 |
+| 🇧🇷 Brazil | 197 |
+| 🇬🇧 United Kingdom | 193 |
+| 🇦🇹 Austria | 162 |
+| 🇩🇪 Germany | 159 |
+| 🇰🇷 South Korea | 146 |
+| 🇸🇪 Sweden | 142 |
+| 🇮🇳 India | 107 |
+| 🇰🇿 Kazakhstan | 105 |
+| 🇲🇾 Malaysia | 62 |
+| 🇨🇭 Switzerland | 55 |
 | 🇳🇱 Netherlands | 53 |
-| 🇨🇭 Switzerland | 52 |
-| 🇮🇪 Ireland | 24 |
+| 🇮🇪 Ireland | 25 |
 | 🇹🇭 Thailand | 14 |
-| 🇨🇳 China | 10 |
-| 🇹🇼 Taiwan | 10 |
-| 🇿🇦 South Africa | 5 |
+| 🇨🇳 China | 7 |
+| 🇹🇼 Taiwan | 2 |
+| 🇿🇦 South Africa | 2 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · MEZY | 🇫🇷 France | 10 ms (🇫🇷 France) | 27/27 |
-| 🇫🇷 France · HKXX | 🇫🇷 France | 10 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · FA33 | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · 8CQN | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · MZTD | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · SGRX | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · 2J9K | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · 9H3YT | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · HKXX | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
+| 🇫🇷 France · 1TTG | 🇫🇷 France | 11 ms (🇫🇷 France) | 28/28 |
 

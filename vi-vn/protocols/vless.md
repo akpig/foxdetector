@@ -5,9 +5,9 @@
 
 [Giao thức](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 06:22:46 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 12:35:51 UTC
 
-**Nút đạt yêu cầu** · 1582
+**Nút đạt yêu cầu** · 1154
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/protocol/vless/?utm_campaign=repository&utm_content=protocol_vless_sample&utm_medium=referral&utm_source=github)
 
@@ -15,60 +15,55 @@
 
 | Vị trí thoát | Nút đạt yêu cầu |
 | --- | --- |
-| 🇯🇵 Nhật Bản | 228 |
-| 🇨🇦 Canada | 221 |
-| 🇺🇸 Hoa Kỳ | 178 |
-| 🇩🇪 Đức | 172 |
-| 🇳🇱 Hà Lan | 142 |
-| 🇮🇶 Iraq | 103 |
-| 🇫🇷 Pháp | 83 |
-| 🇮🇪 Ireland | 50 |
-| 🇸🇬 Singapore | 48 |
-| 🇫🇮 Phần Lan | 43 |
-| 🇬🇧 Vương quốc Anh | 42 |
-| 🇵🇱 Ba Lan | 34 |
-| 🇰🇷 Hàn Quốc | 26 |
+| 🇯🇵 Nhật Bản | 195 |
+| 🇺🇸 Hoa Kỳ | 164 |
+| 🇳🇱 Hà Lan | 127 |
+| 🇨🇦 Canada | 114 |
+| 🇩🇪 Đức | 84 |
+| 🇫🇷 Pháp | 59 |
+| 🇮🇶 Iraq | 55 |
+| 🇸🇬 Singapore | 39 |
+| 🇫🇮 Phần Lan | 37 |
+| 🇵🇱 Ba Lan | 31 |
+| 🇬🇧 Vương quốc Anh | 25 |
 | 🇮🇱 Israel | 25 |
-| 🇪🇸 Tây Ban Nha | 20 |
-| 🇷🇺 Nga | 18 |
-| 🇸🇪 Thụy Điển | 17 |
-| 🇭🇰 Hồng Kông, Trung Quốc | 13 |
+| 🇪🇸 Tây Ban Nha | 21 |
+| 🇮🇪 Ireland | 19 |
+| 🇰🇷 Hàn Quốc | 19 |
+| 🇸🇪 Thụy Điển | 15 |
+| 🇭🇰 Hồng Kông, Trung Quốc | 14 |
+| 🇷🇺 Nga | 13 |
 | 🇮🇷 Iran | 8 |
 | 🇧🇾 Belarus | 7 |
-| 🇨🇿 Séc | 7 |
-| 🇻🇳 Việt Nam | 7 |
-| 🇧🇪 Bỉ | 6 |
-| 🇨🇭 Thụy Sĩ | 6 |
+| 🇨🇿 Séc | 6 |
+| 🇻🇳 Việt Nam | 6 |
+| 🇨🇭 Thụy Sĩ | 5 |
 | 🇰🇿 Kazakhstan | 5 |
-| 🇦🇷 Argentina | 4 |
 | 🇦🇺 Australia | 4 |
-| 🇪🇪 Estonia | 4 |
 | 🇬🇷 Hy Lạp | 4 |
-| 🇭🇳 Honduras | 4 |
 | 🇮🇹 Italy | 4 |
-| 🇱🇻 Latvia | 4 |
-| 🇲🇩 Moldova | 4 |
 | 🇦🇪 Các Tiểu Vương quốc Ả Rập Thống nhất | 3 |
 | 🇦🇹 Áo | 3 |
 | 🇧🇬 Bulgaria | 3 |
 | 🇱🇰 Sri Lanka | 3 |
+| 🇱🇻 Latvia | 3 |
+| 🇲🇽 Mexico | 3 |
 | 🇳🇴 Na Uy | 3 |
 | 🇵🇹 Bồ Đào Nha | 3 |
-| 🇦🇲 Armenia | 2 |
-| 🇷🇴 Romania | 2 |
-| 🇹🇭 Thái Lan | 2 |
+| 🇷🇴 Romania | 3 |
+| 🇹🇭 Thái Lan | 3 |
+| 🇪🇪 Estonia | 2 |
+| 🇲🇩 Moldova | 2 |
 | 🇹🇷 Thổ Nhĩ Kỳ | 2 |
 | 🇹🇼 Đài Loan | 2 |
 | 🇺🇦 Ukraina | 2 |
-| 🇦🇿 Azerbaijan | 1 |
+| 🇦🇷 Argentina | 1 |
 | 🇧🇷 Brazil | 1 |
 | 🇩🇰 Đan Mạch | 1 |
-| 🇭🇺 Hungary | 1 |
-| 🇮🇳 Ấn Độ | 1 |
-| 🇮🇸 Iceland | 1 |
+| 🇭🇳 Honduras | 1 |
+| 🇮🇩 Indonesia | 1 |
 | 🇱🇮 Liechtenstein | 1 |
 | 🇲🇰 Macedonia | 1 |
-| 🇲🇽 Mexico | 1 |
 | 🇵🇦 Panama | 1 |
 | 🇸🇦 Ả Rập Xê-út | 1 |
 
@@ -76,9 +71,9 @@
 
 | Nút | Vị trí thoát | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇫🇷 Pháp · RQECW | 🇫🇷 Pháp | 3 ms (🇫🇷 Pháp) | 28/28 |
-| 🇫🇷 Pháp · RXWJ | 🇫🇷 Pháp | 3 ms (🇫🇷 Pháp) | 25/25 |
-| 🇫🇷 Pháp · QYXH | 🇫🇷 Pháp | 3 ms (🇫🇷 Pháp) | 28/28 |
-| 🇨🇦 Canada · PFJF | 🇨🇦 Canada | 4 ms (🇫🇷 Pháp) | 21/21 |
-| 🇫🇷 Pháp · WZAC | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 26/26 |
+| 🇫🇷 Pháp · ZGCS | 🇫🇷 Pháp | 3 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · 3T9Z | 🇫🇷 Pháp | 3 ms (🇫🇷 Pháp) | 27/27 |
+| 🇫🇷 Pháp · RAPB | 🇫🇷 Pháp | 4 ms (🇫🇷 Pháp) | 27/27 |
+| 🇫🇷 Pháp · K9DG | 🇫🇷 Pháp | 5 ms (🇫🇷 Pháp) | 28/28 |
+| 🇫🇷 Pháp · WZAC | 🇫🇷 Pháp | 5 ms (🇫🇷 Pháp) | 27/27 |
 

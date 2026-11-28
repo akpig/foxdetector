@@ -5,9 +5,9 @@
 
 [Protokoller](README.md) · [FoxDetector](../README.md) · [İlk 500](../top500.md)
 
-**Son testin tamamlanma zamanı** · 2026-11-28 06:22:46 UTC
+**Son testin tamamlanma zamanı** · 2026-11-28 12:35:51 UTC
 
-**Testi geçen düğümler** · 7035
+**Testi geçen düğümler** · 6959
 
 [Testi geçen tüm düğümleri ve içe aktarma seçeneklerini görüntüle](https://www.foxdetector.com/tr-tr/protocol/vmess/?utm_campaign=repository&utm_content=protocol_vmess_sample&utm_medium=referral&utm_source=github)
 
@@ -15,36 +15,36 @@
 
 | Çıkış konumu | Testi geçen düğümler |
 | --- | --- |
-| 🇺🇸 Amerika Birleşik Devletleri | 4012 |
-| 🇨🇦 Kanada | 409 |
-| 🇸🇬 Singapur | 341 |
-| 🇭🇰 Çin Hong Kong ÖİB | 333 |
-| 🇫🇷 Fransa | 245 |
-| 🇧🇷 Brezilya | 194 |
-| 🇬🇧 Birleşik Krallık | 194 |
-| 🇦🇹 Avusturya | 178 |
-| 🇯🇵 Japonya | 158 |
-| 🇩🇪 Almanya | 156 |
-| 🇰🇷 Güney Kore | 153 |
-| 🇮🇳 Hindistan | 146 |
-| 🇰🇿 Kazakistan | 142 |
-| 🇸🇪 İsveç | 140 |
-| 🇲🇾 Malezya | 66 |
+| 🇺🇸 Amerika Birleşik Devletleri | 4003 |
+| 🇨🇦 Kanada | 418 |
+| 🇸🇬 Singapur | 347 |
+| 🇭🇰 Çin Hong Kong ÖİB | 313 |
+| 🇫🇷 Fransa | 246 |
+| 🇯🇵 Japonya | 201 |
+| 🇧🇷 Brezilya | 197 |
+| 🇬🇧 Birleşik Krallık | 193 |
+| 🇦🇹 Avusturya | 162 |
+| 🇩🇪 Almanya | 159 |
+| 🇰🇷 Güney Kore | 146 |
+| 🇸🇪 İsveç | 142 |
+| 🇮🇳 Hindistan | 107 |
+| 🇰🇿 Kazakistan | 105 |
+| 🇲🇾 Malezya | 62 |
+| 🇨🇭 İsviçre | 55 |
 | 🇳🇱 Hollanda | 53 |
-| 🇨🇭 İsviçre | 52 |
-| 🇮🇪 İrlanda | 24 |
+| 🇮🇪 İrlanda | 25 |
 | 🇹🇭 Tayland | 14 |
-| 🇨🇳 Çin | 10 |
-| 🇹🇼 Tayvan | 10 |
-| 🇿🇦 Güney Afrika | 5 |
+| 🇨🇳 Çin | 7 |
+| 🇹🇼 Tayvan | 2 |
+| 🇿🇦 Güney Afrika | 2 |
 
 ## Testi geçen düğümlerden örnekler
 
 | Düğüm | Çıkış konumu | Gecikme ve test konumu | Son test sonuçları |
 | --- | --- | --- | --- |
-| 🇫🇷 Fransa · MEZY | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 27/27 |
-| 🇫🇷 Fransa · HKXX | 🇫🇷 Fransa | 10 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · FA33 | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · 8CQN | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
-| 🇫🇷 Fransa · MZTD | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · SGRX | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 2J9K | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 9H3YT | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · HKXX | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
+| 🇫🇷 Fransa · 1TTG | 🇫🇷 Fransa | 11 ms (🇫🇷 Fransa) | 28/28 |
 
