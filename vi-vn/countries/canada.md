@@ -5,9 +5,9 @@
 
 [Vị trí IP đầu ra](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 12:35:51 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 18:49:42 UTC
 
-**Nút đạt yêu cầu** · 695
+**Nút đạt yêu cầu** · 715
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,17 +15,17 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| VMess | 418 |
-| Shadowsocks | 163 |
-| VLESS | 114 |
+| VMess | 429 |
+| Shadowsocks | 167 |
+| VLESS | 119 |
 
 ## Mẫu các nút vượt qua kiểm tra
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇨🇦 Canada · KRAS | VLESS | 5 ms (🇫🇷 Pháp) | 22/22 |
-| 🇨🇦 Canada · N7K1 | VLESS | 6 ms (🇫🇷 Pháp) | 25/25 |
-| 🇨🇦 Canada · 9DKT | VLESS | 7 ms (🇫🇷 Pháp) | 26/26 |
-| 🇨🇦 Canada · HFX3 | VLESS | 13 ms (🇫🇷 Pháp) | 22/22 |
-| 🇨🇦 Canada · R04A | VLESS | 69 ms (🇫🇷 Pháp) | 22/22 |
+| 🇨🇦 Canada · K0JG | VLESS | 6 ms (🇫🇷 Pháp) | 20/20 |
+| 🇨🇦 Canada · EGNV | VLESS | 6 ms (🇫🇷 Pháp) | 23/23 |
+| 🇨🇦 Canada · N7K1 | VLESS | 7 ms (🇫🇷 Pháp) | 26/26 |
+| 🇨🇦 Canada · 7Z1E | VLESS | 7 ms (🇫🇷 Pháp) | 26/26 |
+| 🇨🇦 Canada · PFJF | VLESS | 7 ms (🇫🇷 Pháp) | 23/23 |
 

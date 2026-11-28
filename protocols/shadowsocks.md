@@ -5,9 +5,9 @@
 
 [Protocols](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Latest completed test** · 2026-11-28 12:35:51 UTC
+**Latest completed test** · 2026-11-28 18:49:42 UTC
 
-**Passed nodes** · 3133
+**Passed nodes** · 3101
 
 [See all passing nodes and import options](https://www.foxdetector.com/protocol/shadowsocks/?utm_campaign=repository&utm_content=protocol_shadowsocks_sample&utm_medium=referral&utm_source=github)
 
@@ -15,42 +15,40 @@
 
 | Exit location | Passed nodes |
 | --- | --- |
-| 🇺🇸 United States | 1143 |
-| 🇯🇵 Japan | 529 |
-| 🇳🇱 Netherlands | 296 |
-| 🇫🇷 France | 180 |
-| 🇮🇹 Italy | 169 |
-| 🇨🇦 Canada | 163 |
-| 🇬🇧 United Kingdom | 146 |
-| 🇩🇪 Germany | 139 |
-| 🇨🇭 Switzerland | 99 |
-| 🇸🇬 Singapore | 88 |
-| 🇪🇸 Spain | 27 |
-| 🇦🇱 Albania | 25 |
-| 🇦🇹 Austria | 23 |
-| 🇸🇪 Sweden | 22 |
-| 🇰🇷 South Korea | 13 |
+| 🇺🇸 United States | 1190 |
+| 🇯🇵 Japan | 397 |
+| 🇳🇱 Netherlands | 305 |
+| 🇫🇷 France | 189 |
+| 🇮🇹 Italy | 175 |
+| 🇨🇦 Canada | 167 |
+| 🇬🇧 United Kingdom | 154 |
+| 🇩🇪 Germany | 153 |
+| 🇨🇭 Switzerland | 101 |
+| 🇸🇬 Singapore | 92 |
+| 🇪🇸 Spain | 28 |
+| 🇦🇹 Austria | 24 |
+| 🇸🇪 Sweden | 23 |
+| 🇦🇱 Albania | 19 |
+| 🇰🇷 South Korea | 15 |
+| 🇭🇰 Hong Kong SAR China | 14 |
 | 🇧🇬 Bulgaria | 11 |
-| 🇭🇰 Hong Kong SAR China | 10 |
 | 🇱🇹 Lithuania | 10 |
-| 🇵🇱 Poland | 10 |
+| 🇵🇱 Poland | 9 |
 | 🇱🇻 Latvia | 8 |
-| 🇹🇷 Turkey | 8 |
-| 🇷🇺 Russia | 5 |
+| 🇷🇺 Russia | 6 |
+| 🇹🇷 Turkey | 4 |
 | 🇿🇦 South Africa | 3 |
 | 🇳🇴 Norway | 2 |
-| 🇨🇱 Chile | 1 |
 | 🇫🇮 Finland | 1 |
 | 🇮🇳 India | 1 |
-| 🇱🇮 Liechtenstein | 1 |
 
 ## Sample of passing nodes
 
 | Node | Exit location | Observed latency | Recent passes |
 | --- | --- | --- | --- |
-| 🇫🇷 France · D0A1 | 🇫🇷 France | 10 ms (🇫🇷 France) | 28/28 |
-| 🇫🇷 France · FDRM | 🇫🇷 France | 10 ms (🇫🇷 France) | 28/28 |
-| 🇬🇧 United Kingdom · HAPH | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
-| 🇬🇧 United Kingdom · S1W8 | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 20/20 |
-| 🇳🇱 Netherlands · XESQ | 🇳🇱 Netherlands | 12 ms (🇫🇷 France) | 22/22 |
+| 🇫🇷 France · J136 | 🇫🇷 France | 11 ms (🇫🇷 France) | 27/27 |
+| 🇬🇧 United Kingdom · S5J0 | 🇬🇧 United Kingdom | 11 ms (🇫🇷 France) | 27/27 |
+| 🇬🇧 United Kingdom · 151Q | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 28/28 |
+| 🇬🇧 United Kingdom · FS1Z | 🇬🇧 United Kingdom | 12 ms (🇫🇷 France) | 24/24 |
+| 🇫🇷 France · PCGG | 🇫🇷 France | 12 ms (🇫🇷 France) | 23/23 |
 

@@ -5,9 +5,9 @@
 
 [出口地域数](README.md) · [FoxDetector](../README.md) · [世界トップ500](../top500.md)
 
-**直近の検証完了時刻** · 2026-11-28 12:35:51 UTC
+**直近の検証完了時刻** · 2026-11-28 18:49:42 UTC
 
-**検証に合格したノード** · 695
+**検証に合格したノード** · 715
 
 [合格した全ノードとインポート方法を見る](https://www.foxdetector.com/ja/location/canada/?utm_campaign=repository&utm_content=location_canada_sample&utm_medium=referral&utm_source=github)
 
@@ -15,17 +15,17 @@
 
 | プロトコル | 検証に合格したノード |
 | --- | --- |
-| VMess | 418 |
-| Shadowsocks | 163 |
-| VLESS | 114 |
+| VMess | 429 |
+| Shadowsocks | 167 |
+| VLESS | 119 |
 
 ## テストに合格したノードの例
 
 | ノード | プロトコル | 遅延と測定地点 | 直近の検証結果 |
 | --- | --- | --- | --- |
-| 🇨🇦 カナダ · KRAS | VLESS | 5 ms (🇫🇷 フランス) | 22/22 |
-| 🇨🇦 カナダ · N7K1 | VLESS | 6 ms (🇫🇷 フランス) | 25/25 |
-| 🇨🇦 カナダ · 9DKT | VLESS | 7 ms (🇫🇷 フランス) | 26/26 |
-| 🇨🇦 カナダ · HFX3 | VLESS | 13 ms (🇫🇷 フランス) | 22/22 |
-| 🇨🇦 カナダ · R04A | VLESS | 69 ms (🇫🇷 フランス) | 22/22 |
+| 🇨🇦 カナダ · K0JG | VLESS | 6 ms (🇫🇷 フランス) | 20/20 |
+| 🇨🇦 カナダ · EGNV | VLESS | 6 ms (🇫🇷 フランス) | 23/23 |
+| 🇨🇦 カナダ · N7K1 | VLESS | 7 ms (🇫🇷 フランス) | 26/26 |
+| 🇨🇦 カナダ · 7Z1E | VLESS | 7 ms (🇫🇷 フランス) | 26/26 |
+| 🇨🇦 カナダ · PFJF | VLESS | 7 ms (🇫🇷 フランス) | 23/23 |
 

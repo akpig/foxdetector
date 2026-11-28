@@ -5,9 +5,9 @@
 
 [Vị trí IP đầu ra](README.md) · [FoxDetector](../README.md) · [Top 500](../top500.md)
 
-**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 12:35:51 UTC
+**Thời điểm hoàn tất lần kiểm tra gần nhất** · 2026-11-28 18:49:42 UTC
 
-**Nút đạt yêu cầu** · 932
+**Nút đạt yêu cầu** · 752
 
 [Xem tất cả các nút đạt và cách nhập](https://www.foxdetector.com/vi-vn/location/japan/?utm_campaign=repository&utm_content=location_japan_sample&utm_medium=referral&utm_source=github)
 
@@ -15,9 +15,9 @@
 
 | Giao thức | Nút đạt yêu cầu |
 | --- | --- |
-| Shadowsocks | 529 |
-| VMess | 201 |
-| VLESS | 195 |
+| Shadowsocks | 397 |
+| VMess | 176 |
+| VLESS | 172 |
 | Hysteria2 | 5 |
 | Trojan | 2 |
 
@@ -25,9 +25,9 @@
 
 | Nút | Giao thức | Độ trễ và nơi đo | Kết quả gần đây |
 | --- | --- | --- | --- |
-| 🇯🇵 Nhật Bản · 58EQ | Shadowsocks | 216 ms (🇫🇷 Pháp) | 28/28 |
-| 🇯🇵 Nhật Bản · 0SNT | Shadowsocks | 217 ms (🇫🇷 Pháp) | 28/28 |
-| 🇯🇵 Nhật Bản · 9B06 | Shadowsocks | 217 ms (🇫🇷 Pháp) | 28/28 |
-| 🇯🇵 Nhật Bản · Q3EP | VLESS | 218 ms (🇫🇷 Pháp) | 26/26 |
-| 🇯🇵 Nhật Bản · Y9AW | Shadowsocks | 218 ms (🇫🇷 Pháp) | 22/22 |
+| 🇯🇵 Nhật Bản · 58EQ | Shadowsocks | 215 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · A0TQ | Shadowsocks | 216 ms (🇫🇷 Pháp) | 28/28 |
+| 🇯🇵 Nhật Bản · Q3EP | VLESS | 216 ms (🇫🇷 Pháp) | 27/27 |
+| 🇯🇵 Nhật Bản · J84C | VLESS | 216 ms (🇫🇷 Pháp) | 27/27 |
+| 🇯🇵 Nhật Bản · RPE9 | Shadowsocks | 217 ms (🇫🇷 Pháp) | 28/28 |
 
